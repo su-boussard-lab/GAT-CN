@@ -1,0 +1,10 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Induction of emesis,C0455040,MTH,emesis,0
+Vomiting,C0042963,MTH,emesis,505
+Vomiting bile,C0232599,MTH,emesis,0
+Provision of emesis basin,C2919433,SNOMEDCT_US,emesis,0
+Ipecac emesis administration and observation,C0278340,SNOMEDCT_US,emesis,0
+Coffee ground vomiting,C1510416,MTH,emesis,0
+Emesis basin,C0179228,SNOMEDCT_US,emesis,1
+Emesis bag,C0179197,SNOMEDCT_US,emesis,1
+Persistent vomiting,C0152165,MTH,emesis,0

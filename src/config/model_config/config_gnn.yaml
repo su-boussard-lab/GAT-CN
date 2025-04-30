@@ -1,0 +1,30 @@
+defaults:
+  - config
+
+
+model: 
+  #random_seed:  2021  # Random Seed
+  #batch_size: 32
+  #regularization: 
+    #dropout_p: 0.1
+  #optimizer: 
+    #lr: 3e-5
+  gnn: 
+    post_word_edge: false
+    kernel_sizes: [1,1,1] #[1, 2, 3]  
+    agg: 'cnn'
+    #fanout: '115,144,6,39' - not used pour le neighbor sampler je pense 
+    hidden: 384
+    s_drop: 0.0
+    dic_hidden: 85 
+    kernel_out: 50
+    dic_edge_1: 150
+    dic_edge_2: 150
+    dic_post_edge_1: 50
+    dic_post_edge_2: 50
+    post_dic_edge_1: 50
+    post_dic_edge_2: 50
+    #max_length: int = 200  # Max Length input size
+    #report_cycle: 30  # Report (Train Metrics) Cycle
+    #optimizer: 'AdamW'  # AdamW vs AdamP
+    #lr_scheduler: 'exp'  # ExponentialLR vs CosineAnnealingWarmRestarts

@@ -1,0 +1,4 @@
+preprocessed_data_folder: data_preprocessed 
+n_folds: 4
+cv_name: 'LargeCrossVal'
+

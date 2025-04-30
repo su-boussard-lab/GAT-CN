@@ -1,0 +1,14 @@
+defaults:
+  - train
+
+logger: 
+  run_id: "BER-94"
+  prefix: "testing"
+
+data: 
+  testing: false
+  
+model: 
+  predict: 
+    ckpt_name: "new-best-checkpoint-v14"
+

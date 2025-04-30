@@ -1,0 +1,423 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Anemia,C0002871,MTH,anemia,359
+Iron deficiency anemia,C0162316,MTH,anemia,12
+Aplastic Anemia,C0002874,MTH,anemia,0
+"Anemia, Sickle Cell",C0002895,MTH,anemia,0
+"Anemia, Hemolytic",C0002878,MSH,anemia,0
+"Anemia, Pernicious",C0002892,MTH,anemia,0
+Sideroblastic anemia,C0002896,MTH,anemia,0
+"Anemia, Megaloblastic",C0002888,MSH,anemia,0
+"Anemia, Macrocytic",C0002886,MTH,anemia,0
+Fanconi Anemia,C0015625,MTH,anemia,0
+"Anemia, Hemolytic, Congenital",C0002881,MSH,anemia,0
+Cooley's anemia,C0002875,MTH,anemia,0
+Hypoplastic anemia,C0178416,MTH,anemia,0
+Autoimmune hemolytic anemia,C0002880,MTH,anemia,0
+Hypochromic anemia,C0002884,MTH,anemia,0
+Microcytic anemia,C5194182,SNOMEDCT_US,anemia,9
+Leukoerythroblastic Anemia,C0002890,MTH,anemia,0
+Megaloblastic anemia due to folate deficiency,C0151482,SNOMEDCT_US,anemia,0
+Normocytic anemia,C0085577,MTH,anemia,86
+"Anemia, Hemolytic, Acquired",C0002879,MSH,anemia,0
+Anemia of chronic disease,C0002873,MTH,anemia,6
+Congenital dyserythropoietic anemia,C0002876,MTH,anemia,0
+Nutritional anemia,C0271903,SNOMEDCT_US,anemia,0
+Megaloblastic Anemia 1,C4551825,MTH,anemia,0
+Congenital anemia,C0158995,SNOMEDCT_US,anemia,0
+"Anemia, Diamond-Blackfan",C1260899,MTH,anemia,0
+Asiderotic anemia,C0008272,MTH,anemia,0
+Refractory anemias,C0002893,MTH,anemia,0
+Microangiopathic hemolytic anemia,C0221021,MTH,anemia,0
+Chronic anemia,C0581384,SNOMEDCT_US,anemia,105
+"Anemia, Neonatal",C0002891,MSH,anemia,0
+Microcytic hypochromic anemia (disorder),C0271901,MTH,anemia,0
+Iron deficiency anemia secondary to chronic blood loss,C0154286,MTH,anemia,0
+Sports anemia,C0221022,SNOMEDCT_US,anemia,0
+Constitutional aplastic anemia,C0702159,MTH,anemia,0
+Glucose-6-phosphate dehydrogenase deficiency anemia,C0237987,MTH,anemia,0
+Vitamin C deficiency anemia,C0272017,SNOMEDCT_US,anemia,0
+Hereditary spherocytosis,C0037889,MTH,anemia,0
+Achlorhydric anemia,C0271977,MTH,anemia,0
+"Aplastic anemia, idiopathic",C0348890,MSH,anemia,0
+Dimorphic anemia,C0392605,SNOMEDCT_US,anemia,0
+Congenital hypoplastic anemia,C0949116,MTH,anemia,0
+Vitamin B12 deficiency anemia,C2004521,MTH,anemia,0
+X-linked sideroblastic anemia,C4551511,MTH,anemia,0
+Anemia due to protein deficiency,C0154290,SNOMEDCT_US,anemia,0
+Fetal anemia,C2349595,SNOMEDCT_US,anemia,0
+Vegan's anemia,C0271959,SNOMEDCT_US,anemia,0
+Acute posthaemorrhagic anaemia,C0154298,MTH,anemia,0
+Mechanical hemolytic anemia,C1321858,MTH,anemia,0
+Chicken anemia virus,C0206179,MTH,anemia,0
+Warm autoimmune hemolytic anemia,C0272118,SNOMEDCT_US,anemia,0
+Toxic hemolytic anemia,C0272094,SNOMEDCT_US,anemia,0
+Relative anemia,C0271898,SNOMEDCT_US,anemia,3
+Refractory anemia with sideroblasts,C0334679,MTH,anemia,0
+Drug-induced hemolytic anemia,C0272132,MTH,anemia,0
+Anemia of renal disease,C0472713,SNOMEDCT_US,anemia,0
+Pure Red-Cell Aplasia,C0034902,MTH,anemia,0
+Mycoplasmal anemia,C1720206,MTH,anemia,0
+Refractory anaemia with excess blasts,C0002894,MTH,anemia,0
+Refractory sideroblastic anemia,C4551661,MTH,anemia,0
+Cold Hemagglutinin Disease,C0175816,MTH,anemia,0
+Non-autoimmune hemolytic anemia,C0028283,SNOMEDCT_US,anemia,0
+Secondary acquired sideroblastic anemia,C0272024,SNOMEDCT_US,anemia,0
+Absolute anemia,C1510654,SNOMEDCT_US,anemia,0
+Perinatal anemia,C0475724,SNOMEDCT_US,anemia,0
+Dilutional anemia,C0472711,SNOMEDCT_US,anemia,0
+Aplastic anemia due to drugs,C0271909,SNOMEDCT_US,anemia,0
+Pyridoxine-responsive sideroblastic anemia,C0272027,SNOMEDCT_US,anemia,0
+Normocytic normochromic anemia,C0271899,SNOMEDCT_US,anemia,4
+Acquired aplastic anemia,C0271907,SNOMEDCT_US,anemia,0
+Regenerative anemia,C1263989,SNOMEDCT_US,anemia,0
+Aase syndrome,C0265265,MTH,anemia,0
+Antibody-mediated anemia,C0272111,SNOMEDCT_US,anemia,0
+Estren-Dameshek anemia,C0271906,SNOMEDCT_US,anemia,0
+History of anemia,C0559154,SNOMEDCT_US,anemia,0
+Hemoglobin SS disease with crisis,C0238425,MTH,anemia,0
+Drug-induced autoimmune hemolytic anemia,C0391817,SNOMEDCT_US,anemia,0
+von Jaksch's anemia,C0340972,MTH,anemia,0
+Primaquine sensitivity anemia,C0235571,SNOMEDCT_US,anemia,0
+Normocytic hypochromic anemia,C0271900,MTH,anemia,0
+Anemia due to decreased red cell production,C0311364,SNOMEDCT_US,anemia,0
+Refractory megaloblastic anemia,C0271974,SNOMEDCT_US,anemia,0
+Idiopathic hypochromic anemia,C1306853,MTH,anemia,0
+Donath-Landsteiner hemolytic anemia,C0272129,MTH,anemia,0
+Aplastic anemia due to radiation,C0472734,SNOMEDCT_US,anemia,0
+No anemia present,C5395759,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to chronic hemolytic anemia,C0271949,SNOMEDCT_US,anemia,0
+Chronic hemolytic anemia,C1387532,SNOMEDCT_US,anemia,0
+Goats' milk anemia,C0271942,SNOMEDCT_US,anemia,0
+"Refractory anemia, without ringed sideroblasts, without excess blasts",C2981142,MTH,anemia,0
+Anemia in malignant neoplastic disease,C3839524,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to inborn errors of metabolism,C1306856,MTH,anemia,0
+Macrocytosis - no anemia,C0472701,SNOMEDCT_US,anemia,0
+"Infectious Anemia Virus, Equine",C0014662,MSH,anemia,0
+Microcytic normochromic anemia,C0271902,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to pyruvate kinase deficiency,C0272062,MTH,anemia,0
+Thiamine responsive megaloblastic anemia syndrome,C0342287,MTH,anemia,0
+"Anemia, Hemolytic, Congenital Nonspherocytic",C0002882,MSH,anemia,0
+At risk for anemia,C3536601,SNOMEDCT_US,anemia,0
+Coombs positive hemolytic anemia,C0520736,MTH,anemia,0
+Folate deficiency anemia due to dietary causes,C0271937,SNOMEDCT_US,anemia,0
+Anemia due to metabolic disorder,C4544997,SNOMEDCT_US,anemia,0
+Iron deficiency without anemia,C0340950,MTH,anemia,0
+Refractory anemia with excess blasts in transformation (clinical),C0280028,SNOMEDCT_US,anemia,0
+Drug-induced sideroblastic anemia,C0272025,SNOMEDCT_US,anemia,0
+Secondary aplastic anemia,C0271908,SNOMEDCT_US,anemia,0
+Hemoglobin SC Disease,C0019034,MTH,anemia,0
+Aplastic anemia due to infection,C0271912,SNOMEDCT_US,anemia,0
+Thiamine-responsive megaloblastic anemia,C0271972,SNOMEDCT_US,anemia,0
+Idiopathic Autoimmune Hemolytic Anemia,C0543663,MSH,anemia,0
+Drug-induced enzyme deficiency anemia,C0272054,SNOMEDCT_US,anemia,0
+Toxic aplastic anemia,C0271911,MTH,anemia,0
+Intracorpuscular hemolytic anemia,C1260898,SNOMEDCT_US,anemia,0
+Immunologic aplastic anemia,C0271917,SNOMEDCT_US,anemia,0
+Acute megaloblastic anemia,C0271960,SNOMEDCT_US,anemia,0
+Transient hypoplastic anemia,C0472733,SNOMEDCT_US,anemia,0
+Idiopathic sideroblastic anemia,C0475708,SNOMEDCT_US,anemia,0
+Combined deficiency anemia,C0472731,SNOMEDCT_US,anemia,0
+Biermer's congenital pernicious anemia,C0472727,MTH,anemia,0
+Acquired Heinz body anemia,C0272007,MTH,anemia,0
+Dyserythropoietic Anemia with Thrombocytopenia,C1845837,MSH,anemia,0
+Iron-Refractory Iron Deficiency Anemia,C0085576,MTH,anemia,0
+History of hemolytic anemia,C0475689,SNOMEDCT_US,anemia,0
+Constitutional aplastic anemia with malformation,C0340959,SNOMEDCT_US,anemia,0
+Anemia of prematurity,C0158996,MTH,anemia,0
+Megaloblastic anemia due to vitamin B>12< deficiency,C0815316,MTH,anemia,0
+Secondary sideroblastic anemia due to disease,C0475532,SNOMEDCT_US,anemia,0
+"Congenital dyserythropoietic anemia, type III",C0271934,MTH,anemia,0
+"Congenital dyserythropoietic anemia, type I",C0271933,MTH,anemia,0
+Anemia due to vitamin B>6< deficiency,C0272013,SNOMEDCT_US,anemia,0
+Alcohol-related sideroblastic anemia,C0472732,SNOMEDCT_US,anemia,0
+Physiological anemia of infancy,C0475725,SNOMEDCT_US,anemia,0
+Late anemia of newborn,C0475726,SNOMEDCT_US,anemia,0
+Traumatic hemolytic anemia,C1300116,SNOMEDCT_US,anemia,0
+Chronic idiopathic autoimmune hemolytic anemia,C0271904,SNOMEDCT_US,anemia,0
+Family history of pernicious anemia,C0574096,SNOMEDCT_US,anemia,0
+Refractory anemia without sideroblasts,C0334678,SNOMEDCT_US,anemia,0
+Macrocytic anemia of pregnancy,C5545656,SNOMEDCT_US,anemia,0
+Anemia due to medication,C1997376,SNOMEDCT_US,anemia,0
+History of aplastic anemia,C1997103,SNOMEDCT_US,anemia,0
+History of Fanconi anemia,C2711316,SNOMEDCT_US,anemia,0
+Nutritional anemia of pregnancy,C5545645,SNOMEDCT_US,anemia,0
+Hemolytic anemia of pregnancy,C5545757,SNOMEDCT_US,anemia,0
+Anemia of pregnancy,C0271930,MTH,anemia,0
+Infectious salmon anemia virus,C1019124,MSH,anemia,0
+Megaloblastic anemia due to pregnancy,C0271948,SNOMEDCT_US,anemia,0
+VITAMIN B12 MEASUREMENT,C0202252,MTH,anemia,0
+Autosomal recessive sideroblastic anemia,C4274077,MTH,anemia,0
+History of Diamond-Blackfan anemia,C2711225,SNOMEDCT_US,anemia,0
+Traumatic cardiac hemolytic anemia,C0272092,MTH,anemia,0
+Megaloblastic anemia of premature infant,C0271941,SNOMEDCT_US,anemia,0
+Coombs negative hemolytic anemia,C0520737,SNOMEDCT_US,anemia,8
+MITOCHONDRIAL MYOPATHY AND SIDEROBLASTIC ANEMIA,C1838103,MTH,anemia,0
+"ANEMIA, SIDEROBLASTIC, AND SPINOCEREBELLAR ATAXIA",C1845028,MTH,anemia,0
+Hemolytic anemia due to hyperbaric oxygen,C1268596,SNOMEDCT_US,anemia,0
+Anemia due to abnormality extrinsic to the red cell,C0272090,SNOMEDCT_US,anemia,0
+"Anemia, Sideroblastic, Autosomal Dominant",C2674249,MSH,anemia,0
+Hemolytic anemia due to Bartonella,C0272108,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to babesiosis,C0272110,SNOMEDCT_US,anemia,0
+Late anemia due to isoimmunization,C0270205,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to alcoholism,C0271938,SNOMEDCT_US,anemia,0
+stomatocytic anemia,C0272048,MTH,anemia,0
+Chicken anemia virus antibody,C0805606,SNOMEDCT_US,anemia,0
+Secondary cold-type hemolytic anemia,C0472753,SNOMEDCT_US,anemia,0
+Secondary warm-type hemolytic anemia,C0472755,SNOMEDCT_US,anemia,0
+Hereditary isolated aplastic anemia,C5190891,SNOMEDCT_US,anemia,0
+Neonatal autoimmune hemolytic anemia,C4751517,SNOMEDCT_US,anemia,0
+Cellular immunologic aplastic anemia,C0271919,SNOMEDCT_US,anemia,0
+Humoral immunologic aplastic anemia,C0271918,SNOMEDCT_US,anemia,0
+Congenital folate malabsorption anemia,C0340958,SNOMEDCT_US,anemia,0
+Maternal autoimmune hemolytic anemia,C0472757,SNOMEDCT_US,anemia,0
+HNSHA due to hexokinase deficiency,C0272063,SNOMEDCT_US,anemia,0
+Congenital dyserythropoietic anemia type IV,C3150926,SNOMEDCT_US,anemia,0
+Sideropenic anemia with reticuloendothelial siderosis,C0520738,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to gastrectomy,C0271953,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to malaria,C0272107,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to infection,C0272106,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to hyperalimentation,C0271939,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to hemodialysis,C0271940,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to drugs,C0271965,SNOMEDCT_US,anemia,0
+Unstable hemoglobin disease,C0272006,SNOMEDCT_US,anemia,0
+Normocytic anemia due to aplasia,C0472704,SNOMEDCT_US,anemia,0
+H/O: anemia - iron deficient,C0475687,SNOMEDCT_US,anemia,0
+Iron deficiency anemia of pregnancy,C0581336,SNOMEDCT_US,anemia,0
+Primary cold-type hemolytic anemia,C0472752,SNOMEDCT_US,anemia,0
+Chronic non-spherocytic hemolytic anemia,C0472790,SNOMEDCT_US,anemia,0
+Primary warm-type hemolytic anemia,C0472756,SNOMEDCT_US,anemia,0
+Autoimmune hemolytic anemia mixed type,C4305257,SNOMEDCT_US,anemia,0
+Combined B12 and folate deficiency anemia,C0271973,SNOMEDCT_US,anemia,0
+Acquired thiamine deficiency anemia,C4303428,SNOMEDCT_US,anemia,0
+Hereditary iron deficiency anemia,C5547347,SNOMEDCT_US,anemia,0
+Hereditary folate deficiency anemia,C4543749,SNOMEDCT_US,anemia,0
+"Anemia, Hypochromic Microcytic, With Iron Overload",C2673913,MSH,anemia,0
+Family history of sickle cell anemia,C0475681,SNOMEDCT_US,anemia,0
+Iron deficiency anemia in mother complicating childbirth,C3839764,SNOMEDCT_US,anemia,0
+Sickle cell anemia in mother complicating childbirth,C3839639,SNOMEDCT_US,anemia,0
+Aplastic anemia associated with pregnancy,C1531597,SNOMEDCT_US,anemia,0
+Aplastic anemia associated with pancreatitis,C1531596,SNOMEDCT_US,anemia,0
+History of autoimmune hemolytic anemia,C1996965,SNOMEDCT_US,anemia,0
+History of sickle cell anemia,C2711782,SNOMEDCT_US,anemia,0
+Secondary sideroblastic anemia due to drugs and toxins,C0475531,SNOMEDCT_US,anemia,0
+Ghosal Hematodiaphyseal Dysplasia,C1856465,MSH,anemia,0
+Non megaloblastic anemia associated with nutritional deficiency,C0272011,SNOMEDCT_US,anemia,0
+Anemia following fetal blood loss,C0270241,MTH,anemia,0
+Perinatal jaundice due to hereditary hemolytic anemia,C0158969,SNOMEDCT_US,anemia,0
+Megaloblastic Anemia due to Dihydrofolate Reductase Deficiency,C3151205,MTH,anemia,0
+Hemolytic anemia due to hexokinase deficiency,C0472792,MTH,anemia,0
+"Adenylate Kinase Deficiency, Hemolytic Anemia Due To",C2675459,MSH,anemia,0
+Acquired hemolytic anemia associated with AIDS,C0276562,SNOMEDCT_US,anemia,0
+Non megaloblastic anemia due to alcoholism,C0272023,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to decreased intake of vitamin B>12<,C0271952,SNOMEDCT_US,anemia,0
+Anemia screening,C0474238,MTH,anemia,0
+Hemolytic anemia due to vascular prosthesis,C1366426,SNOMEDCT_US,anemia,0
+Autoimmune hemolytic anemia due to IgA,C0272115,SNOMEDCT_US,anemia,0
+Autoimmune hemolytic anemia due to IgM,C0272117,SNOMEDCT_US,anemia,0
+Autoimmune hemolytic anemia due to IgG,C0272112,SNOMEDCT_US,anemia,0
+Autoimmune hemolytic anemia due to complement,C0272114,SNOMEDCT_US,anemia,0
+Hemolytic anemia with emphysema AND cutis laxa,C0268352,SNOMEDCT_US,anemia,0
+Aplastic anemia with AIDS (acquired immunodeficiency syndrome),C0276560,SNOMEDCT_US,anemia,0
+Cold paroxysmal hemoglobinuria,C0086774,MTH,anemia,0
+Glucose-6-phosphate dehydrogenase variant enzyme deficiency anemia,C0272055,MTH,anemia,0
+Normocytic anemia following acute bleed,C0302368,SNOMEDCT_US,anemia,0
+Hemoglobin SE disease,C1112747,MTH,anemia,0
+Drug-induced non autoimmune hemolytic anemia,C3507426,SNOMEDCT_US,anemia,0
+Adult-onset autosomal recessive sideroblastic anemia,C4304054,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to Clostridium welchii,C0272109,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to increased requirements,C0271947,SNOMEDCT_US,anemia,0
+Pericarditis associated with severe chronic anemia,C0265168,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to celiac disease,C0271945,SNOMEDCT_US,anemia,0
+Acute megaloblastic anemia due to dialysis,C0271963,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to nonlymphoid neoplasm,C0272123,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to tropical sprue,C0271944,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to fish tapeworm,C0271957,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to exfoliative dermatitis,C0271950,SNOMEDCT_US,anemia,0
+Hapten type low affinity hemolytic anemia,C0272134,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to pancreatic insufficiency,C0271958,SNOMEDCT_US,anemia,0
+Autosomal-linked pyridoxine refractory sideroblastic anemia,C0272029,SNOMEDCT_US,anemia,0
+History of anemia vitamin B12 deficient,C0475688,SNOMEDCT_US,anemia,0
+Folate deficiency anemia due to malabsorption,C0472730,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to dietary causes,C0472723,SNOMEDCT_US,anemia,0
+Aplastic anemia due to chronic disease,C0472737,SNOMEDCT_US,anemia,0
+Myasthenic syndrome due to pernicious anemia,C0472366,SNOMEDCT_US,anemia,0
+Anemia in neoplastic disease,C0475534,SNOMEDCT_US,anemia,9
+Myelodysplastic syndrome with excess blasts-2,C1318551,SNOMEDCT_US,anemia,0
+Myelodysplastic syndrome with excess blasts-1,C1318550,SNOMEDCT_US,anemia,0
+Post gastrectomy iron deficiency anemia,C5546754,SNOMEDCT_US,anemia,0
+Primary (idiopathic) autoimmune hemolytic anemia,C1264003,SNOMEDCT_US,anemia,0
+Secondary warm autoimmune hemolytic anemia,C1264005,SNOMEDCT_US,anemia,0
+Hereditary vitamin B12 deficiency anemia,C4543748,SNOMEDCT_US,anemia,0
+Severe congenital hypochromic anemia with ringed sideroblasts,C4511137,SNOMEDCT_US,anemia,0
+X-linked congenital dyserythropoietic anemia with thrombocytopenia,C4302508,SNOMEDCT_US,anemia,0
+G-6-PD class III variant anemia,C0272058,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to Zollinger-Ellison syndrome,C0271954,SNOMEDCT_US,anemia,0
+G-6-PD class II variant anemia,C0272057,SNOMEDCT_US,anemia,0
+G-6-PD class IV variant anemia,C0272059,SNOMEDCT_US,anemia,0
+G-6-PD class V variant anemia,C0272060,SNOMEDCT_US,anemia,0
+G-6-PD class I variant anemia,C0272056,SNOMEDCT_US,anemia,0
+Anemia during pregnancy - baby not yet delivered,C0473326,SNOMEDCT_US,anemia,0
+Late anemia of newborn due to isoimmunization,C0473802,SNOMEDCT_US,anemia,0
+Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis,C0272125,SNOMEDCT_US,anemia,0
+Hemoglobin SD disease,C0272084,MTH,anemia,0
+HNSHA due to triosephosphate isomerase deficiency,C0272067,SNOMEDCT_US,anemia,0
+Anemia due to blood loss,C0948824,MTH,anemia,0
+Anemia due to enzymopathy,C0494226,SNOMEDCT_US,anemia,0
+Aplastic anemia caused by antineoplastic agent,C4076284,SNOMEDCT_US,anemia,0
+Aplastic anemia associated with metabolic alteration,C1531595,SNOMEDCT_US,anemia,0
+Measurement of Chicken anemia virus antibody,C1294673,SNOMEDCT_US,anemia,0
+Pernicious anemia due to autoimmune disorder,C5547308,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to disease of small intestine,C0271946,SNOMEDCT_US,anemia,0
+"Drug-induced immune hemolytic anemia, immune complex type",C0272136,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to congenital deficiency of intrinsic factor,C0271969,SNOMEDCT_US,anemia,0
+Sickle cell anemia with coexistent alpha-thalassemia,C1263997,SNOMEDCT_US,anemia,0
+FH: Anemia,C1313938,SNOMEDCT_US,anemia,0
+"Congenital dyserythropoietic anemia, type II",C1306589,MTH,anemia,0
+HNSHA due to glutathione reductase deficiency,C0272070,SNOMEDCT_US,anemia,0
+Secondary autoimmune hemolytic anemia co-occurrent and due to lymphoproliferative disorder,C0272119,SNOMEDCT_US,anemia,0
+Secondary autoimmune hemolytic anemia co-occurrent and due to rheumatic disorder,C0272120,SNOMEDCT_US,anemia,0
+Hemoglobin S sickling disorder with crisis,C1563195,MTH,anemia,0
+Myelodysplastic Syndrome with Ring Sideroblasts and Single Lineage Dysplasia,C4330726,MTH,anemia,0
+Sickle Cell Dactylitis,C0852711,MTH,anemia,0
+Hapten type high affinity hemolytic anemia,C0272133,SNOMEDCT_US,anemia,0
+Iron deficiency anemia due to blood loss,C1542776,SNOMEDCT_US,anemia,0
+Lethal hemolytic anemia and genital anomaly syndrome,C4304746,SNOMEDCT_US,anemia,0
+Chronic acquired pure red cell aplasia,C0271923,SNOMEDCT_US,anemia,0
+"Folate deficiency anemia, drug-induced",C0271936,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to blind loop syndrome,C0271956,SNOMEDCT_US,anemia,0
+Acute megaloblastic anemia due to nitrous oxide,C0271961,SNOMEDCT_US,anemia,0
+Acute megaloblastic anemia due to severe illness,C0271962,SNOMEDCT_US,anemia,0
+X chromosome-linked pyridoxine refractory sideroblastic anemia,C0272028,SNOMEDCT_US,anemia,0
+X chromosome-linked pyridoxine responsive sideroblastic anemia,C2937227,SNOMEDCT_US,anemia,0
+Normocytic anemia due to chronic blood loss,C0472716,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to glutathione metabolism disorder,C0472743,SNOMEDCT_US,anemia,0
+Sickle cell anemia with high hemoglobin F,C0472774,SNOMEDCT_US,anemia,0
+Iron deficiency anemia due to dietary causes,C0472714,SNOMEDCT_US,anemia,0
+Folate deficiency anemia due to liver disorders,C0472729,SNOMEDCT_US,anemia,0
+Vitamin B12 deficiency anemia following gastrectomy,C5567277,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to error of cobalamin metabolism,C0271971,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to impaired absorption of folate,C0271943,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to error of folate metabolism,C0271970,SNOMEDCT_US,anemia,0
+Iron deficiency anemia secondary to inadequate dietary iron intake,C0154287,SNOMEDCT_US,anemia,0
+X-linked dyserythropoietic anemia with abnormal platelets and neutropenia,C5190600,SNOMEDCT_US,anemia,0
+Iron deficiency anemia due to celiac disease,C5546759,SNOMEDCT_US,anemia,0
+Vitamin B12 deficiency anemia caused by drug,C4305436,SNOMEDCT_US,anemia,0
+Nonspherocytic hemolytic anemia due to deficiency of adenosinetriphosphatase,C4510758,SNOMEDCT_US,anemia,0
+Erythropoietin resistance in anemia of chronic kidney disease,C2732643,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to folate deficiency in prematurity,C4303501,SNOMEDCT_US,anemia,0
+Autoimmune hemolytic anemia due to IgA plus complement,C0272116,SNOMEDCT_US,anemia,0
+Autoimmune hemolytic anemia due to IgG plus complement,C0272113,SNOMEDCT_US,anemia,0
+Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,C0272121,SNOMEDCT_US,anemia,0
+Secondary autoimmune hemolytic anemia co-occurrent and due to chronic inflammatory disease,C0272124,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to glyceraldehyde-3-phosphate dehydrogenase deficiency,C5546765,SNOMEDCT_US,anemia,0
+Anemia of chronic renal failure,C0271932,SNOMEDCT_US,anemia,0
+Pulmonary arterial hypertension associated with chronic hemolytic anemia,C3698315,SNOMEDCT_US,anemia,0
+Aplastic anemia co-occurrent with human immunodeficiency virus infection,C4076095,SNOMEDCT_US,anemia,0
+Acute megaloblastic anemia secondary to total parenteral nutrition,C0271964,SNOMEDCT_US,anemia,0
+Vitamin B12 deficiency anemia due to dietary causes,C0472726,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to triose phosphate isomerase deficiency,C0472791,SNOMEDCT_US,anemia,0
+Anemia associated with AIDS,C0276559,SNOMEDCT_US,anemia,0
+Vitamin B12 deficiency anemia due to malabsorption with proteinuria,C0472725,SNOMEDCT_US,anemia,0
+Vitamin B12 deficiency anemia following total gastrectomy,C5547318,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to vitamin B>12< malabsorption with proteinuria,C0271955,SNOMEDCT_US,anemia,0
+Acute pure red cell aplasia,C0271922,SNOMEDCT_US,anemia,0
+Anemia due to disorders of nucleotide metabolism,C0475533,SNOMEDCT_US,anemia,0
+Acquired iron deficiency anemia due to decreased absorption,C4510973,SNOMEDCT_US,anemia,0
+Congenital megaloblastic anemia due to transcobalamin II deficiency,C5545670,SNOMEDCT_US,anemia,0
+Hemolytic anemia due to red cell enolase deficiency,C5546767,SNOMEDCT_US,anemia,0
+Restless leg syndrome due to iron deficiency anemia,C5439365,SNOMEDCT_US,anemia,0
+Lubani Al Saleh Teebi syndrome,C2931402,MSH,anemia,0
+Iron deficiency anemia due to increased requirement in adolescence,C5546756,SNOMEDCT_US,anemia,0
+Iron deficiency anemia due to increased requirement in infancy,C5546757,SNOMEDCT_US,anemia,0
+Autosomal dominant aplasia and myelodysplasia,C4755259,SNOMEDCT_US,anemia,0
+Anemia due to isoimmunization,C1318032,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to folate deficiency in pregnancy and lactation,C4303502,SNOMEDCT_US,anemia,0
+Anemia due to infection,C0272105,SNOMEDCT_US,anemia,0
+Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection,C4076032,SNOMEDCT_US,anemia,0
+Anemia of endocrine disorder,C0271924,SNOMEDCT_US,anemia,0
+"Central nervous system calcification, deafness, tubular acidosis, anemia syndrome",C4512024,SNOMEDCT_US,anemia,0
+Majeed syndrome,C1864997,MSH,anemia,0
+Anemia in chronic kidney disease,C1561828,SNOMEDCT_US,anemia,0
+Anemia due to substance,C2242797,SNOMEDCT_US,anemia,0
+Anemia of adrenal dysfunction,C0271927,SNOMEDCT_US,anemia,0
+Anemia of gonadal dysfunction,C0271928,SNOMEDCT_US,anemia,0
+Anemia due to copper,C0272097,SNOMEDCT_US,anemia,0
+Anemia due to chlorate,C0272098,SNOMEDCT_US,anemia,0
+Anemia of pituitary deficiency,C0271925,SNOMEDCT_US,anemia,0
+Anemia of thyroid dysfunction,C0271926,SNOMEDCT_US,anemia,0
+Anemia of parathyroid dysfunction,C0271929,SNOMEDCT_US,anemia,0
+Anemia due to starvation,C0272021,SNOMEDCT_US,anemia,0
+Anemia due to lead,C0272096,SNOMEDCT_US,anemia,0
+Anemia due to oxygen,C0272099,SNOMEDCT_US,anemia,0
+Anemia due to radiation,C0272103,SNOMEDCT_US,anemia,0
+Anemia due to heat,C0272102,SNOMEDCT_US,anemia,0
+Anemia in ovarian carcinoma,C0585595,SNOMEDCT_US,anemia,0
+Anemia during the puerperium,C0730598,SNOMEDCT_US,anemia,0
+Acquired iron deficiency anemia due to increased iron requirement,C4305608,SNOMEDCT_US,anemia,0
+Vitamin B12 deficiency anemia due to chronic atrophic gastritis,C5547351,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to folate deficiency due to increased requirement,C4303503,SNOMEDCT_US,anemia,0
+Congenital nonspherocytic hemolytic anemia due to inborn error of metabolism,C1285215,SNOMEDCT_US,anemia,0
+"Hyperuricemia, anemia, renal failure syndrome",C4303080,SNOMEDCT_US,anemia,0
+Anemia caused by zidovudine,C4076092,SNOMEDCT_US,anemia,0
+Anemia during pregnancy - baby delivered,C0473328,SNOMEDCT_US,anemia,0
+Anemia due to membrane defect,C0272031,SNOMEDCT_US,anemia,0
+Anemia due to diabetes mellitus,C0271931,SNOMEDCT_US,anemia,0
+Anemia in mother complicating childbirth,C3839564,SNOMEDCT_US,anemia,0
+Megaloblastic anemia due to vitamin B12 deficiency secondary to intestinal disease,C4305450,SNOMEDCT_US,anemia,0
+Anemia due to unknown mechanism,C0272009,SNOMEDCT_US,anemia,0
+Anemia due to enzyme deficiency,C0272053,SNOMEDCT_US,anemia,0
+Anemia due to arsenic hydride,C0272095,SNOMEDCT_US,anemia,0
+Anemia due to insect venom,C0272100,SNOMEDCT_US,anemia,0
+Anemia due to physical agent,C0272101,SNOMEDCT_US,anemia,0
+Anemia due to pantothenic deficiency,C0272015,SNOMEDCT_US,anemia,0
+Anemia due to niacin deficiency,C0272016,SNOMEDCT_US,anemia,0
+Anemia due to mechanical damage,C0272091,SNOMEDCT_US,anemia,0
+Anemia due to multiple mechanisms,C0272010,SNOMEDCT_US,anemia,0
+Anemia due to riboflavin deficiency,C0272014,SNOMEDCT_US,anemia,0
+Anemia due to copper deficiency,C0272019,SNOMEDCT_US,anemia,0
+Anemia due to zinc deficiency,C0272020,SNOMEDCT_US,anemia,0
+Anemia secondary to renal failure,C0588179,SNOMEDCT_US,anemia,0
+Adenosine deaminase superactivity,C0340960,MTH,anemia,0
+Anemia in end stage renal disease,C1561829,SNOMEDCT_US,anemia,0
+HNSHA due to phosphofructokinase deficiency,C0272065,SNOMEDCT_US,anemia,0
+HNSHA due to pyrimidine-5'-nucleotidase deficiency,C0272073,SNOMEDCT_US,anemia,0
+Anemia caused by antineoplastic agent,C5547288,SNOMEDCT_US,anemia,0
+Anemia related to disturbed DNA synthesis,C0271935,SNOMEDCT_US,anemia,0
+Anemia due to vitamin A deficiency,C0272012,SNOMEDCT_US,anemia,0
+Anemia due to vitamin E deficiency,C0272018,SNOMEDCT_US,anemia,0
+"Anemia in mother complicating pregnancy, childbirth AND/OR puerperium",C0269684,SNOMEDCT_US,anemia,0
+Hemoglobinopathy Toms River,C5190689,SNOMEDCT_US,anemia,0
+HNSHA due to glutathione synthetase deficiency,C0272072,SNOMEDCT_US,anemia,0
+HNSHA due to diphosphoglycerate mutase deficiency,C0272069,SNOMEDCT_US,anemia,0
+HNSHA due to phosphoglycerate kinase deficiency,C0272068,SNOMEDCT_US,anemia,0
+Anemia due to pentose phosphate pathway defect,C0272061,SNOMEDCT_US,anemia,0
+Anemia due to intrinsic red cell abnormality,C0272030,SNOMEDCT_US,anemia,0
+Anemia due to and following chemotherapy,C4708167,SNOMEDCT_US,anemia,0
+Anemia following acute postoperative blood loss,C4074923,SNOMEDCT_US,anemia,0
+Anemia due to chronic infectious disease,C5230175,SNOMEDCT_US,anemia,0
+Anemia in chronic kidney disease stage 4,C4273456,SNOMEDCT_US,anemia,0
+Anemia in chronic kidney disease stage 5,C4273455,SNOMEDCT_US,anemia,0
+Anemia due to disturbance of hemoglobin synthesis,C0271976,SNOMEDCT_US,anemia,0
+HNSHA due to glucose phosphate isomerase deficiency,C0272064,SNOMEDCT_US,anemia,0
+HNSHA due to decreased adenosine deaminase activity,C0272075,SNOMEDCT_US,anemia,0
+"Autoimmune hemolytic anemia, autoimmune thrombocytopenia, primary immunodeficiency syndrome",C5543159,SNOMEDCT_US,anemia,0
+"Drug-induced immune hemolytic anemia, hapten type",C1264011,SNOMEDCT_US,anemia,0
+"Pancreatic insufficiency, dyserythropoietic anemia, calvarial hyperostosis syndrome",C4302747,SNOMEDCT_US,anemia,0
+Anemia co-occurrent with human immunodeficiency virus infection,C4076216,SNOMEDCT_US,anemia,0
+HNSHA due to gamma glutamyl cysteine synthetase deficiency,C0272071,SNOMEDCT_US,anemia,0
+"Anemia, pre-end stage renal disease on erythropoietin protocol",C3472694,SNOMEDCT_US,anemia,0
+Anemia due to chronic kidney disease stage 1,C5438213,SNOMEDCT_US,anemia,0
+HNSHA due to NADH diaphorase deficiency,C0272076,SNOMEDCT_US,anemia,0
+Anemia due to alloimmune destruction of transfused red cells,C1264526,SNOMEDCT_US,anemia,0
+Anemia co-occurrent and due to chronic kidney disease stage 3,C4076096,SNOMEDCT_US,anemia,0
+"Congenital sideroblastic anemia, B-cell immunodeficiency, periodic fever, developmental delay syndrome",C4707403,SNOMEDCT_US,anemia,0
+"Autoimmune hemolytic anemia, categorized by antibody class AND/OR complement",C1264012,SNOMEDCT_US,anemia,0
+Anemia in the puerperium - baby delivered during current episode of care,C0473327,SNOMEDCT_US,anemia,0
+Anemia in the puerperium - baby delivered during previous episode of care,C0473325,SNOMEDCT_US,anemia,0
+Hemolytic disease of fetus OR newborn due to ABO immunization,C0270202,MTH,anemia,0
+Anemia due to disturbance of proliferation AND/OR differentiation of hematopoietic stem cells,C0271920,SNOMEDCT_US,anemia,0
+Anemia due to disturbance of proliferation AND/OR differentiation of erythroid precursor cells,C0271921,SNOMEDCT_US,anemia,0
+Hemolytic disease of fetus OR newborn due to RhD isoimmunization,C0158962,MTH,anemia,0
+REVESZ SYNDROME (disorder),C1327916,MTH,anemia,0
+Deficiency anemias,C0041782,SNOMEDCT_US,anemia,0
+"Deficiency anemias, excluding iron",C0564735,SNOMEDCT_US,anemia,0

@@ -1,0 +1,3 @@
+defaults: 
+  - model_config: config_bert
+  - args: cross_val

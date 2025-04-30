@@ -1,0 +1,91 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Diarrhea,C0011991,MTH,diarrhea,388
+Hemorrhagic diarrhea,C0151594,MTH,diarrhea,0
+Chronic diarrhea,C0401151,SNOMEDCT_US,diarrhea,1
+Functional diarrhea,C0156173,SNOMEDCT_US,diarrhea,0
+Neonatal diarrhea,C0235840,MTH,diarrhea,0
+Infantile Diarrhea,C0011992,MTH,diarrhea,0
+Osmotic diarrhea,C0267556,SNOMEDCT_US,diarrhea,0
+Secretory diarrhea,C0267557,SNOMEDCT_US,diarrhea,0
+Dysentery,C0013369,MTH,diarrhea,0
+Enteric campylobacteriosis,C0275982,MTH,diarrhea,0
+Dysenteric diarrhea,C0277526,MTH,diarrhea,0
+Protracted diarrhea,C0473133,SNOMEDCT_US,diarrhea,0
+Acute diarrhea,C0740441,SNOMEDCT_US,diarrhea,2
+Traveler's diarrhea,C0277528,SNOMEDCT_US,diarrhea,0
+Epidemic diarrhea,C0277527,SNOMEDCT_US,diarrhea,0
+Psychogenic diarrhea,C0850614,SNOMEDCT_US,diarrhea,0
+Nervous diarrhea,C0232711,SNOMEDCT_US,diarrhea,0
+Viral gastroenteritis,C0152517,SNOMEDCT_US,diarrhea,3
+Antibiotic-associated diarrhea,C0578159,SNOMEDCT_US,diarrhea,1
+Toddler diarrhea,C0473132,SNOMEDCT_US,diarrhea,0
+Inflammatory diarrhea,C0521604,SNOMEDCT_US,diarrhea,0
+Postprandial diarrhea,C0232709,SNOMEDCT_US,diarrhea,0
+Non-infective diarrhea,C0267436,SNOMEDCT_US,diarrhea,0
+Allergic diarrhea,C0267437,SNOMEDCT_US,diarrhea,0
+Postcholecystectomy diarrhea,C0267656,SNOMEDCT_US,diarrhea,0
+Prototheca diarrhea,C0473127,SNOMEDCT_US,diarrhea,0
+Dietetic diarrhea,C0267438,SNOMEDCT_US,diarrhea,0
+Severe diarrhea,C1443924,SNOMEDCT_US,diarrhea,4
+Clostridium difficile diarrhea,C0235952,SNOMEDCT_US,diarrhea,0
+Congenital chloride diarrhea,C0267662,MTH,diarrhea,0
+Brainerd diarrhea,C1960276,SNOMEDCT_US,diarrhea,0
+Bovine Viral Diarrhea Viruses,C0006063,MTH,diarrhea,0
+Diarrhea due to drug,C1996989,SNOMEDCT_US,diarrhea,0
+At risk of diarrhea,C3875016,SNOMEDCT_US,diarrhea,0
+"Nausea, vomiting and diarrhea",C0151791,SNOMEDCT_US,diarrhea,0
+Post-vagotomy syndrome,C0311268,SNOMEDCT_US,diarrhea,0
+Constipation alternates with diarrhea,C0474495,SNOMEDCT_US,diarrhea,0
+Porcine epidemic diarrhea virus,C0318855,MSH,diarrhea,0
+Irritable bowel syndrome with diarrhea,C0348898,SNOMEDCT_US,diarrhea,0
+Congenital secretory diarrhea,C0267661,SNOMEDCT_US,diarrhea,0
+Diarrhea care education,C1443405,SNOMEDCT_US,diarrhea,0
+Diarrhea care assessment,C1443403,SNOMEDCT_US,diarrhea,0
+"Congenital secretory diarrhea, sodium type (disorder)",C0267663,MTH,diarrhea,0
+Chronic constipation with overflow,C0232710,SNOMEDCT_US,diarrhea,0
+Hollow visceral neuropathy,C0400875,SNOMEDCT_US,diarrhea,0
+Diarrhea care management,C1443404,SNOMEDCT_US,diarrhea,0
+Carcinoid syndrome diarrhea,C4543399,SNOMEDCT_US,diarrhea,0
+Raw-milk associated diarrhea,C0267659,SNOMEDCT_US,diarrhea,0
+Trichohepatoenteric Syndrome,C1857276,MTH,diarrhea,0
+Non-infective neonatal diarrhea,C4303238,SNOMEDCT_US,diarrhea,0
+Sensation as if diarrhea will start,C0474365,SNOMEDCT_US,diarrhea,0
+Spurious diarrhea - overflow,C0344374,SNOMEDCT_US,diarrhea,0
+Chronic diarrhea of unknown origin,C0267664,SNOMEDCT_US,diarrhea,0
+Nebraska calf diarrhea virus,C0318715,SNOMEDCT_US,diarrhea,0
+Syndromic congenital sodium diarrhea,C5680120,SNOMEDCT_US,diarrhea,0
+Alteration in bowel elimination: diarrhea,C0231363,SNOMEDCT_US,diarrhea,0
+Hyperalimentation formula for severe diarrhea,C0311183,SNOMEDCT_US,diarrhea,0
+Diarrhea care,C1171188,SNOMEDCT_US,diarrhea,0
+Hypokalemic alkalosis due to diarrhea,C4076043,SNOMEDCT_US,diarrhea,0
+"Diarrhea 4, Malabsorptive, Congenital",C1835888,MSH,diarrhea,0
+Defecation reflex - spurious diarrhea,C1638412,SNOMEDCT_US,diarrhea,0
+HIV Enteropathy,C0282616,MSH,diarrhea,0
+Chronic diarrhea due to glucoamylase deficiency,C4275068,SNOMEDCT_US,diarrhea,0
+"Bovine diarrhea virus, noncytopathic strain",C1265374,SNOMEDCT_US,diarrhea,0
+"Bovine diarrhea virus, type 1",C1265372,SNOMEDCT_US,diarrhea,0
+"Bovine diarrhea virus, type 2",C1265373,SNOMEDCT_US,diarrhea,0
+Congenital chronic diarrhea with protein-losing enteropathy,C4751003,SNOMEDCT_US,diarrhea,0
+Chronic diarrhea with villous atrophy syndrome,C4518335,SNOMEDCT_US,diarrhea,0
+Chronic diarrhea of infants AND/OR young children,C0267660,SNOMEDCT_US,diarrhea,0
+Irritable bowel syndrome variant of childhood with diarrhea,C0341419,SNOMEDCT_US,diarrhea,0
+Diarrhea not present,C0474498,SNOMEDCT_US,diarrhea,0
+"Infantile erythroderma, failure to thrive and diarrhea syndrome",C1304486,SNOMEDCT_US,diarrhea,0
+Diarrhea of presumed infectious origin,C0152522,SNOMEDCT_US,diarrhea,0
+Diarrhea in pregnancy,C4543653,SNOMEDCT_US,diarrhea,0
+Intractable diarrhea with choanal atresia and eye anomaly syndrome,C4304307,SNOMEDCT_US,diarrhea,0
+Diarrhea due to staphylococcus,C1313963,SNOMEDCT_US,diarrhea,0
+"Diarrhea and vomiting, symptom",C0474496,SNOMEDCT_US,diarrhea,0
+Insulin-dependent diabetes mellitus secretory diarrhea syndrome,C0342288,MTH,diarrhea,0
+Chronic infantile diarrhea due to guanylate cyclase 2C overactivity,C5191644,SNOMEDCT_US,diarrhea,0
+Diarrhea-associated hemolytic uremic syndrome,C1268936,MTH,diarrhea,0
+Anti-diarrhea mucosal barrier,C3876539,SNOMEDCT_US,diarrhea,0
+Diarrhea after gastrointestinal tract surgery,C0473129,SNOMEDCT_US,diarrhea,0
+Prion protein systemic amyloidosis,C4518776,SNOMEDCT_US,diarrhea,0
+Diarrhea due to alcohol intake,C0267658,SNOMEDCT_US,diarrhea,0
+Diarrhea due to laxative abuse,C0473130,SNOMEDCT_US,diarrhea,0
+Diarrhea-negative hemolytic uremic syndrome,C1268937,SNOMEDCT_US,diarrhea,0
+Diarrhea and vomiting after gastrointestinal tract surgery,C0565554,SNOMEDCT_US,diarrhea,0
+Diarrhea due to ingestion of unabsorbable substances,C0473131,SNOMEDCT_US,diarrhea,0
+Rapadilino syndrome,C1849453,MSH,diarrhea,0
+Diarrheal disorder,C1290807,MTH,diarrhea,0

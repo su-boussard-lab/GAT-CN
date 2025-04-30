@@ -1,0 +1,64 @@
+data: 
+  num_workers: 0 #int(os.cpu_count() - 4) - Multi cpu workers
+  max_token_length: 512 #1024 # 256 
+  return_overflowing_tokens: false  # true 
+  preprocessed_data_folder: data_preprocessed 
+  full_train_path: TrainTest/train
+  test_path: TrainTest/test
+  train_path: TrainVal/train
+  val_path: TrainVal/val
+  graph_data_folder: 'graph_data'
+  dic_feature_path: 'dic_feature.pkl'
+  dic_dic: 'dic_dic_pmi.npy'
+  
+model: 
+  n_epochs: 20 # Max Epochs, BERT paper setting [3,4,5] from gnn paper
+  batch_size: 32
+  threshold: 0.5
+  n_labels: 4 
+  train_size: None #len(train_df)
+  regularization: 
+    dropout_p: 0.2
+  bert: 
+    model_name: "emilyalsentzer/Bio_ClinicalBERT" #"allenai/biomed_roberta_base" #"allenai/longformer-base-4096" # 'distilroberta-base',
+    cls_pooling: true
+    return_sequence: false
+    resize_token_embeddings: false
+    longformer: false
+  optimizer:
+    scheduler: reduce_on_plateau
+    split_lr: false
+    lr: 3e-5  # 1.5e-6 (2e-5 :recommended in bert model) # Learning rate for BERT                                                           # Learning Rate for ber        # learning rate for BERT
+    warmup: 0.2
+    weight_decay: 0.01
+  loss: 
+    with_imbalance: false
+    pos_weight: [0.54, 1.27, 2.1, 1.0]
+    class_weight: [1.0, 1.5, 2.0, 1.3]
+
+train: 
+  test_mode: false #True  # Test Mode enables `fast_dev_run` to test only
+  profiler: false
+  benchmark: false
+  fp16: false  # Enable train on FP16
+  deterministic: true
+  gpus: 0 #[config['gpu']] if torch.cuda.is_available() else None,
+  logger: 
+    log_every_n_steps: 1 
+  callback: 
+    checkpoint_callback: true
+    early_stopping_callback: true
+    checkpointing:
+      dirpath: "checkpoints"
+      filename: '{epoch}-{step}-{val_loss:.2f}'
+      save_top_k: 3
+      save_last: true
+      verbose: true
+      monitor: "val_loss"
+      mode: "min"
+    early_stopping: 
+      monitor: "val_loss"
+      patience: 5 # after 5 steps where val_loss didn't change it stops 
+  validate: 
+    num_sanity_val_steps: 2
+    check_val_every_n_epoch: 1 # to change when testing on whole training set to go faster 

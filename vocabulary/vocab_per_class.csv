@@ -1,0 +1,207 @@
+NAME,DIAGNOSE,TYPE,OCCURENCE
+pain,class_1,seed,512
+ach,class_1,additional,461
+tens,class_1,additional,374
+tender,class_1,clinician,369
+numb,class_1,additional,353
+distress,class_1,additional,308
+radiat,class_1,clinician,227
+diffic,class_1,additional,211
+dysuria,class_1,seed,167
+sore,class_1,additional,140
+wound,class_1,additional,134
+tightness,class_1,seed,116
+pressure,class_1,seed,111
+burn,class_1,additional,109
+sting,class_1,additional,103
+neuropathy,class_1,clinician,77
+algia,class_1,seed,62
+tingl,class_1,additional,54
+discomfort,class_1,seed,52
+sharp,class_1,clinician,49
+spasm,class_1,additional,42
+heav,class_1,additional,31
+ cp ,class_1,abbreviation,31
+irrit,class_1,additional,30
+inflammation,class_1,additional,29
+dull,class_1,clinician,26
+localize,class_1,clinician,24
+migraine,class_1,clinician,22
+cramp,class_1,seed,21
+ ha ,class_1,abbreviation,17
+swollen,class_1,additional,16
+bad,class_1,additional,13
+uncomfort,class_1,additional,13
+radiculopathy,class_1,seed,11
+damage,class_1,additional,10
+suffer,class_1,additional,8
+stabbing,class_1,clinician,8
+throbbing,class_1,clinician,7
+shooting,class_1,clinician,6
+crisi,class_1,additional,5
+bother,class_1,additional,4
+biliary colic,class_1,snomedct_us,4
+dynia,class_1,seed,4
+pleurisy,class_1,clinician,4
+ lbp ,class_1,abbreviation,3
+angina pectoris,class_1,snomedct_us,2
+lancinating,class_1,additional,2
+pounding,class_1,clinician,1
+hurt,class_1,additional,1
+h/a,class_1,abbreviation,1
+excruciating,class_1,clinician,1
+prick,class_1,additional,1
+naus,class_2,seed,161
+vomit,class_2,seed,156
+bowel,class_2,additional,133
+abdom,class_2,additional,123
+dry,class_2,additional,118
+dri,class_2,additional,117
+diar,class_2,seed,114
+fluid,class_2,additional,80
+ age ,class_2,abbreviation,62
+gastro,class_2,clinician,58
+ gi ,class_2,abbreviation,52
+electrolyte,class_2,additional,52
+n/v,class_2,abbreviation,47
+stool,class_2,clinician,47
+dehy,class_2,seed,39
+bloody,class_2,clinician,39
+ bm ,class_2,abbreviation,32
+emes,class_2,seed,30
+sweat,class_2,additional,28
+reflux,class_2,additional,24
+ abd ,class_2,abbreviation,20
+ gerd ,class_2,abbreviation,20
+liquid,class_2,additional,20
+loose,class_2,clinician,19
+hyponatremia,class_2,clinician,19
+stomach,class_2,additional,15
+sick,class_2,additional,14
+watery,class_2,clinician,12
+ cinv ,class_2,abbreviation,12
+rectum,class_2,additional,12
+light-headed,class_2,additional,12
+enteritis,class_2,clinician,9
+exhaust,class_2,additional,7
+digest,class_2,additional,7
+gastrit,class_2,seed,7
+ejection,class_2,additional,6
+throw,class_2,additional,5
+vertigo,class_2,additional,5
+ ponv ,class_2,abbreviation,5
+thirst,class_2,clinician,4
+loss of consciousness,class_2,clinician,4
+nb/nb,class_2,abbreviation,3
+bloat,class_2,additional,3
+regurgitat,class_2,additional,3
+losse,class_2,additional,2
+dyspepsia,class_2,additional,2
+hyponatremic,class_2,clinician,1
+light headed,class_2,clinician,1
+lose consciousness,class_2,clinician,1
+hypernat,class_2,seed,1
+ cbc,class_3,abbreviation,161
+anem,class_3,seed,148
+blood,class_3,additional,137
+weak,class_3,clinician,102
+dizz,class_3,additional,96
+tired,class_3,additional,83
+lightheaded,class_3,additional,75
+fatigue,class_3,clinician,66
+marrow,class_3,clinician,57
+iron,class_3,additional,33
+normocytic,class_3,clinician,33
+hemoglobin,class_3,additional,25
+ rbc ,class_3,abbreviation,17
+palpit,class_3,additional,13
+mucous,class_3,additional,12
+deficien,class_3,additional,12
+cold,class_3,additional,8
+hematocrit,class_3,additional,8
+drows,class_3,additional,5
+macrocytic,class_3,clinician,4
+microcytic,class_3,clinician,4
+myelodysplastic,class_3,clinician,2
+pale,class_3,clinician,2
+pallor,class_3,additional,2
+letharg,class_3,additional,1
+fever,class_4,seed,342
+oral,class_4,clinician,313
+infect,class_4,additional,306
+cough,class_4,clinician,292
+ wbc ,class_4,abbreviation,261
+lung,class_4,additional,252
+neut,class_4,seed,246
+respirat,class_4,additional,243
+chill,class_4,additional,235
+ cxr ,class_4,abbreviation,199
+seps,class_4,seed,197
+shortness of breath,class_4,clinician,196
+febri,class_4,additional,181
+ bp ,class_4,abbreviation,160
+pneumo,class_4,seed,159
+sob,class_4,additional,141
+antibiotics,class_4,clinician,138
+viral,class_4,additional,110
+elevated,class_4,clinician,106
+ anc ,class_4,abbreviation,103
+neupogen,class_4,clinician,102
+core,class_4,clinician,88
+bacteria,class_4,additional,82
+pancy,class_4,seed,77
+tissue,class_4,additional,77
+confus,class_4,additional,76
+consolid,class_4,seed,76
+rectal,class_4,clinician,73
+shock,class_4,clinician,68
+neulasta,class_4,clinician,67
+ pcp ,class_4,abbreviation,62
+virus,class_4,additional,54
+dyspnea,class_4,clinician,51
+inflam,class_4,seed,47
+ pna ,class_4,abbreviation,45
+blood pressure,class_4,clinician,44
+infiltrate,class_4,clinician,36
+oxygen,class_4,clinician,36
+septic,class_4,seed,32
+ sirs ,class_4,abbreviation,32
+hypoxia,class_4,clinician,31
+rigor,class_4,clinician,30
+ sbp ,class_4,abbreviation,27
+parenchyma,class_4,additional,23
+high-grade,class_4,clinician,18
+chest x-ray,class_4,clinician,18
+shaking,class_4,clinician,14
+white blood cell,class_4,clinician,14
+leukopenia,class_4,additional,14
+heart rate,class_4,additional,14
+low-grade,class_4,clinician,13
+faint,class_4,additional,10
+leukocyte,class_4,additional,10
+flushing,class_4,additional,9
+pressors,class_4,clinician,8
+difficulty breathing,class_4,additional,8
+hypoxemia,class_4,clinician,7
+energy,class_4,additional,7
+ map ,class_4,abbreviation,6
+phlegm,class_4,additional,5
+shiver,class_4,additional,4
+disorient,class_4,additional,3
+f/c,class_4,abbreviation,3
+hypertherm,class_4,seed,3
+thermometer,class_4,clinician,3
+feeling hot,class_4,additional,2
+idiopathic pulmonary fibrosis,class_4,snomedct_us,2
+ fn ,class_4,abbreviation,2
+toxin,class_4,additional,2
+high temperature,class_4,additional,2
+malaria,class_4,snomedct_us,2
+trembl,class_4,additional,2
+body temperature,class_4,clinician,1
+presumed source,class_4,clinician,1
+acute bronchiolitis,class_4,snomedct_us,1
+low white count,class_4,clinician,1
+ psi ,class_4,abbreviation,1
+ ne ,class_4,abbreviation,1
+agran,class_4,seed,1

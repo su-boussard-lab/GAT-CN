@@ -1,0 +1,129 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Sepsis,C0243026,MTH,sepsis,552
+Puerperal sepsis,C0269936,MTH,sepsis,0
+Dental abscess,C0518988,MTH,sepsis,0
+Bacterial sepsis,C0684256,SNOMEDCT_US,sepsis,1
+Sepsis-Associated Encephalopathy,C0393642,MSH,sepsis,0
+Viremia,C0042749,MTH,sepsis,1
+Bacterial sepsis of newborn,C3665339,MTH,sepsis,0
+Neutropenic sepsis,C0877153,SNOMEDCT_US,sepsis,7
+Perinatal sepsis,C4050400,MTH,sepsis,0
+Clinical sepsis,C3164780,SNOMEDCT_US,sepsis,0
+Sepsis due to fungus,C0744235,SNOMEDCT_US,sepsis,0
+Gastritis with sepsis,C0341191,SNOMEDCT_US,sepsis,0
+Sepsis due to Erysipelothrix,C3164123,MTH,sepsis,0
+Miscarriage with sepsis,C0269398,SNOMEDCT_US,sepsis,0
+Sepsis screening,C5396823,SNOMEDCT_US,sepsis,0
+Postoperative sepsis,C3698200,SNOMEDCT_US,sepsis,0
+Gram positive sepsis,C0036686,MTH,sepsis,0
+History of sepsis,C4039922,SNOMEDCT_US,sepsis,0
+Post-splenectomy sepsis,C3698065,SNOMEDCT_US,sepsis,0
+Sepsis due to Listeria monocytogenes,C3163840,MTH,sepsis,0
+Neonatal Early-Onset Sepsis,C1096452,MSH,sepsis,0
+Neonatal Late-Onset Sepsis,C1096721,MSH,sepsis,0
+At risk for sepsis,C4047386,SNOMEDCT_US,sepsis,0
+Abdominal Infection,C1112209,MTH,sepsis,10
+Intrauterine sepsis of fetus,C0270180,SNOMEDCT_US,sepsis,0
+Infectious disorder of bronchus,C0340238,MTH,sepsis,0
+Education about sepsis,C4511520,SNOMEDCT_US,sepsis,0
+Biliary tract infection,C0920156,MTH,sepsis,0
+Lung injury with sepsis,C0340256,SNOMEDCT_US,sepsis,0
+Myocardial dysfunction with sepsis,C0349511,SNOMEDCT_US,sepsis,0
+Gastrointestinal hemorrhage with sepsis,C0349416,SNOMEDCT_US,sepsis,0
+Sepsis caused by Klebsiella pneumoniae,C4546278,SNOMEDCT_US,sepsis,0
+Infectious disorder of trachea,C0340223,SNOMEDCT_US,sepsis,0
+Gastrointestinal lesion with sepsis,C5687090,SNOMEDCT_US,sepsis,0
+Sepsis of the newborn,C0456103,MTH,sepsis,0
+Sepsis caused by Pseudomonas aeruginosa,C4303270,SNOMEDCT_US,sepsis,0
+Neonatal sepsis caused by Malassezia,C4303439,SNOMEDCT_US,sepsis,0
+Left ventricular failure with sepsis,C0349642,SNOMEDCT_US,sepsis,0
+Right ventricular failure with sepsis,C0349643,SNOMEDCT_US,sepsis,0
+Transient respiratory distress with sepsis,C1299608,SNOMEDCT_US,sepsis,0
+Gastrointestinal ulceration due to sepsis,C0342960,SNOMEDCT_US,sepsis,0
+Puerperal sepsis with postnatal complication,C0473511,SNOMEDCT_US,sepsis,0
+Family education about sepsis,C4511797,SNOMEDCT_US,sepsis,0
+Lemierre Syndrome,C0343525,MTH,sepsis,0
+Failed attempted termination of pregnancy with sepsis,C0269556,SNOMEDCT_US,sepsis,0
+Neonatal sepsis caused by Staphylococcus,C4316390,SNOMEDCT_US,sepsis,0
+Neonatal sepsis caused by Streptococcus,C4316433,SNOMEDCT_US,sepsis,0
+Sepsis caused by Serratia,C2887097,MTH,sepsis,0
+Sepsis due to Pseudomonas,C2887096,MTH,sepsis,0
+Sepsis caused by Enterococcus,C4040747,MTH,sepsis,0
+Sepsis caused by Salmonella,C3163971,MTH,sepsis,0
+Sepsis caused by Streptococcus,C3164125,MTH,sepsis,0
+Sepsis caused by Staphylococcus,C3164254,MTH,sepsis,0
+Perinatal sepsis caused by Escherichia coli,C4075721,SNOMEDCT_US,sepsis,0
+Perinatal sepsis caused by Streptococcus agalactiae,C4075728,SNOMEDCT_US,sepsis,0
+Acute kidney injury due to sepsis,C4302681,SNOMEDCT_US,sepsis,0
+Line sepsis associated with dialysis catheter,C4273551,SNOMEDCT_US,sepsis,0
+Sepsis during labor,C0269810,SNOMEDCT_US,sepsis,0
+Antibiotic given for suspected neonatal sepsis,C3661930,SNOMEDCT_US,sepsis,0
+Sepsis caused by Gonococcus,C4074916,SNOMEDCT_US,sepsis,0
+Sepsis caused by Chromobacterium,C4041414,SNOMEDCT_US,sepsis,0
+Sepsis caused by Meningococcus,C4040253,SNOMEDCT_US,sepsis,0
+Sepsis caused by Streptococcus pneumoniae,C2887084,MTH,sepsis,0
+Sepsis caused by Haemophilus influenzae,C2887091,MTH,sepsis,0
+Sepsis due to Streptococcus pyogenes,C3164128,MTH,sepsis,0
+Sepsis caused by anaerobic bacteria,C3164817,MTH,sepsis,0
+Sepsis caused by Streptococcus agalactiae,C3164126,MTH,sepsis,0
+Alert from sepsis monitoring system received,C4316713,SNOMEDCT_US,sepsis,0
+Sepsis caused by Gram negative bacteria,C3163829,MTH,sepsis,0
+Sepsis caused by coagulase negative Staphylococcus,C3164130,MTH,sepsis,0
+Transient neonatal neutropenia due to neonatal bacterial sepsis,C4302100,SNOMEDCT_US,sepsis,0
+Sepsis caused by Bacteroides,C0276064,SNOMEDCT_US,sepsis,0
+Sepsis caused by methicillin resistant Staphylococcus aureus,C3164390,MTH,sepsis,0
+Sepsis due to urinary tract infection,C0149801,SNOMEDCT_US,sepsis,0
+Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection,C4074815,SNOMEDCT_US,sepsis,0
+Sepsis following obstructed labor,C4518602,SNOMEDCT_US,sepsis,0
+Sepsis of newborn due to anaerobes,C0452199,SNOMEDCT_US,sepsis,0
+Sepsis of premature infant,C5681350,SNOMEDCT_US,sepsis,0
+Sepsis with cutaneous manifestations,C3696887,SNOMEDCT_US,sepsis,0
+Sepsis caused by methicillin susceptible Staphylococcus aureus,C4040829,SNOMEDCT_US,sepsis,0
+Sepsis due to Acinetobacter,C3164256,SNOMEDCT_US,sepsis,0
+Sepsis due to Actinomyces,C3164257,SNOMEDCT_US,sepsis,0
+Sepsis due to Candida,C3164815,SNOMEDCT_US,sepsis,0
+Sepsis caused by Peptostreptococcus,C4074899,SNOMEDCT_US,sepsis,0
+Sepsis in asplenic subject,C3697606,SNOMEDCT_US,sepsis,0
+Sepsis caused by Clostridium,C5547263,SNOMEDCT_US,sepsis,0
+Sepsis caused by Proteus,C5547265,SNOMEDCT_US,sepsis,0
+Sepsis due to Enterobacter,C3165034,SNOMEDCT_US,sepsis,0
+Sepsis caused by Coliform,C5547262,SNOMEDCT_US,sepsis,0
+Sepsis without septic shock,C5230289,SNOMEDCT_US,sepsis,0
+Sepsis of newborn due to Staphylococcus aureus,C0452197,SNOMEDCT_US,sepsis,0
+Sepsis of newborn due to Escherichia coli,C0452198,SNOMEDCT_US,sepsis,0
+Sepsis without acute organ dysfunction,C3862419,SNOMEDCT_US,sepsis,0
+Sepsis due to Staphylococcus aureus,C2887088,SNOMEDCT_US,sepsis,0
+Sepsis of newborn due to group B Streptococcus,C0495408,MTH,sepsis,0
+Sepsis caused by Erysipelothrix rhusiopathiae,C5547270,SNOMEDCT_US,sepsis,0
+Sepsis due to Bacillus anthracis,C3165033,SNOMEDCT_US,sepsis,0
+Sepsis with acquired immunodeficiency syndrome,C3698492,SNOMEDCT_US,sepsis,0
+Sepsis caused by Acinetobacter baumannii,C4546279,SNOMEDCT_US,sepsis,0
+Sepsis due to Streptococcus suis,C3164129,SNOMEDCT_US,sepsis,0
+Sepsis due to herpes simplex,C3165094,SNOMEDCT_US,sepsis,0
+Sepsis due to ectopic pregnancy,C4039336,SNOMEDCT_US,sepsis,0
+Sepsis due to oral infection,C3873471,SNOMEDCT_US,sepsis,0
+Sepsis due to incomplete miscarriage,C3873504,SNOMEDCT_US,sepsis,0
+Sepsis due to Escherichia coli,C3164258,SNOMEDCT_US,sepsis,2
+Sepsis caused by anaerobic streptococcus,C4074880,SNOMEDCT_US,sepsis,0
+Sepsis following induced termination of pregnancy,C2903332,SNOMEDCT_US,sepsis,0
+Sepsis caused by monkeypox virus,C5689051,SNOMEDCT_US,sepsis,0
+Sepsis during labor with antenatal problem,C0341971,SNOMEDCT_US,sepsis,0
+Sepsis associated with internal vascular access,C3661737,SNOMEDCT_US,sepsis,0
+Sepsis caused by vancomycin resistant Enterococcus,C5547423,SNOMEDCT_US,sepsis,0
+Sepsis due to Streptococcus group D,C3164127,SNOMEDCT_US,sepsis,0
+Sepsis of newborn due to Streptococcus agalactiae,C4018975,MTH,sepsis,0
+Sepsis following molar AND/OR ectopic pregnancy,C0269300,SNOMEDCT_US,sepsis,0
+"Sepsis following infusion, injection, transfusion AND/OR vaccination",C0274433,SNOMEDCT_US,sepsis,0
+Sepsis of fetus caused by Streptococcus pyogenes,C4543900,SNOMEDCT_US,sepsis,0
+Sepsis of neonate caused by Streptococcus pyogenes,C4543899,SNOMEDCT_US,sepsis,0
+Sepsis due to Haemophilus influenzae type B,C3164709,SNOMEDCT_US,sepsis,0
+"Size (area, depth), Sepsis, Arteriopathy, Denervation system",C4706371,SNOMEDCT_US,sepsis,0
+Sepsis due to disease caused by COVID-19,C5397145,SNOMEDCT_US,sepsis,0
+Sepsis due to methicillin-sensitive Staphylococcus aureus,C4721271,SNOMEDCT_US,sepsis,0
+Sepsis caused by Staphylococcus without acute organ dysfunction,C4316370,SNOMEDCT_US,sepsis,0
+Sepsis without acute organ dysfunction caused by Streptococcus pneumoniae,C4520289,SNOMEDCT_US,sepsis,0
+Sepsis without acute organ dysfunction caused by Serratia species,C4520287,SNOMEDCT_US,sepsis,0
+"S(AD) SAD (Size (area, depth) Sepsis, Arteriopathy, Denervation) system score",C4706375,SNOMEDCT_US,sepsis,0
+Septic Shock,C0036983,MTH,sepsis,85
+"Assessment using S(AD) SAD (Size (area, depth) Sepsis, Arteriopathy, Denervation) system",C4706383,SNOMEDCT_US,sepsis,0
+Systemic Inflammatory Response Syndrome,C0242966,MTH,sepsis,6
