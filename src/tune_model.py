@@ -1,30 +1,23 @@
 
 import numpy as np
-import pandas as pd
 import timeit
 import os
 import torch.multiprocessing
 import pytorch_lightning as pl
-from pytorch_lightning.callbacks import ModelCheckpoint, EarlyStopping
-from utils.utils import tmpdir_manager, update_nested_dict
+from utils.utils import update_nested_dict
 from pytorch_lightning.loggers import NeptuneLogger
 import torch
 import hydra 
 from omegaconf import DictConfig, OmegaConf 
 from data.datamodule import NoteBertDataModule, NoteBertGnnDataModule
 from model.model import NoteBertClassifier,  NoteBertGnnClassifier
-from utils.metrics import evaluate_model
 from preprocessing.split import get_data_and_vocab
-from config.definitions import ROOT_DIR, DIAGNOSES, CLASSES
-from pytorch_lightning.loggers import TensorBoardLogger
+from config.definitions import ROOT_DIR, CLASSES
 from ray import air, tune
-from ray.air import session
 from ray.tune import CLIReporter
-from ray.tune.schedulers import ASHAScheduler, PopulationBasedTraining
 from ray.tune.search.hyperopt import HyperOptSearch
 from ray.tune.search import ConcurrencyLimiter
-from ray.tune.integration.pytorch_lightning import TuneReportCallback, \
-    TuneReportCheckpointCallback
+from ray.tune.integration.pytorch_lightning import TuneReportCallback
 
 
 import sys

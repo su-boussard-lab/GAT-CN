@@ -9,15 +9,15 @@ import os
 project_id = 'som-nero-phi-boussard' # Location of stride datalake
 es = "som-nero-phi-boussard.ES_ACU_Oncology"
 client = bigquery.Client(project=project_id) # Set project to project_id
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/eliasaquand/.config/gcloud/application_default_credentials.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/path/to/your/credentials.json'
 os.environ['GCLOUD_PROJECT'] = "som-nero-phi-boussard" # specify environment
 db = "som-nero-phi-boussard" # Define the database
 
 # 1) Specify the job config to properly read the file
 job_config = bigquery.LoadJobConfig()
-job_config.autodetect = True # determines the datatype of the variable
+job_config.autodetect = True 
 job_config.write_disposition = 'WRITE_TRUNCATE'
-job_config.max_bad_records = 1 # allow 5 bad records; 
+job_config.max_bad_records = 1 
 
 # Read schema from JSON
 # job_config.schema = self.bq_client.schema_from_json(

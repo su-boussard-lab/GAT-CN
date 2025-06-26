@@ -2,26 +2,21 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from datetime import datetime, timedelta
 
 # Load packages for Big Query 
-#from google.cloud import bigquery
-import os
 
 import nltk.data
 import warnings
 from tqdm import tqdm
-from collections import Counter, OrderedDict
+from collections import OrderedDict
 from difflib import SequenceMatcher
 import re
 import matplotlib.pyplot as plt
-from multiprocessing import  Pool
 warnings.filterwarnings('ignore')
 tqdm.pandas()
 
 # For preprocessing
 import nltk
-from nltk.corpus import stopwords
 
 nltk.download("stopwords")
 nltk.download("punkt")
@@ -29,15 +24,11 @@ nltk.download("wordnet")
 nltk.download("omw-1.4")
 import re
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from nltk.tokenize import word_tokenize
-from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
 from nltk.stem import WordNetLemmatizer
 import spacy
 from negspacy.termsets import termset
 #from src.utils.config import config
-from negspacy.negation import Negex
 
 porter_stemmer = PorterStemmer()
 wordnet_lemmatizer = WordNetLemmatizer()
@@ -126,7 +117,6 @@ def shorten_similar_df_parallel(df, progress_bar = False):
 def aux_cpt_words(sent):
     """ Returns the number of words in a note"""
     try:
-        #words = [w for w in re.split(" |\n", sent) if (w != " " and w not in "\"'`~!@#$%^&*()-_=+{}[]\\|\t\n,<.>/?:;")]
         words = [w for w in re.split(" |\n", sent) if (w != " " and w not in "\"'`~!@#$%^&*()-_=+{}[]\\|\t\n,<.>/?:;")]
         return len(words)
     except:
@@ -180,10 +170,6 @@ def preprocess_text(text: str) -> str:
     text = compiled.sub("", text)
     compiled = re.compile(re.escape("stanford healthcare"), re.IGNORECASE)
     text = compiled.sub("", text)
-   
-    # remove non alphanumeric characters from the text 
-    # understand what does it do?
-    #text = re.sub("(\\W)+", " ", text )
     
     # Replace weird character:
     text = text.replace("¿", "")
@@ -237,7 +223,6 @@ def shorten(note, regexp, max_length = 512):
         
         cum_sums = np.cumsum([x[1] for x in sort_lengths_falses]) 
         cum_sums = np.concatenate(([0], cum_sums))
-        # cumulative sums of lengths: cum_sums[i] is the number of words we would get rid off if we deleted the i longest false sentences
 
         # find out the index of the last sentence we need to delete
         last_to_delete = np.where(cum_sums < new_length - max_length)[0][-1] + 1
@@ -249,10 +234,6 @@ def shorten(note, regexp, max_length = 512):
         merged_sentences = "\n".join(all_sentences)
         new_length = len([w for w in re.split(" |\n", merged_sentences) if (w != " " and w not in "\"'`~!@#$%^&*()-_=+{}[]\\|\t\n,<.>/?:;")])
         
-        # if new_length <= max_length:
-        #     return merged_sentences
-        # else:
-        #     all_sentences
             
         return merged_sentences
     
@@ -265,7 +246,7 @@ def preprocess(note_outcome, diag_by_patient, terms, folder_name, with_vocabular
 
     regexp = re.compile('|'.join(terms))
     # Filter to get notes with mentions of diagnoses
-    if with_vocabulary: # both are possible 
+    if with_vocabulary: 
         df_notes_with_mentions = note_outcome[note_outcome["note"].progress_apply(lambda x: bool(regexp.search(x.lower())))][['pat_deid', 'note', 'effective_time']].copy(deep=True)
         df_notes_with_mentions = df_notes_with_mentions.drop_duplicates()
         print(f'Df_notes_with_mentions: {df_notes_with_mentions.shape}')
@@ -273,7 +254,6 @@ def preprocess(note_outcome, diag_by_patient, terms, folder_name, with_vocabular
         print(f"nb_pat_with_mentions = {nb_pat_with_mentions}")
     else: 
         df_notes_with_mentions = note_outcome[['pat_deid', 'note', 'effective_time']]
-    # TODO: Preprocess Notes here
     
     ## Trim notes, keeping neighborhoods of diagnoses mentions
     df_notes_with_mentions['sentence_list'] = df_notes_with_mentions.note.progress_apply(lambda x: trim_notes(x, regexp, neighborhood_length = 2, with_vocabulary=with_vocabulary)) # try neighborhood_length = 1
@@ -297,7 +277,7 @@ def preprocess(note_outcome, diag_by_patient, terms, folder_name, with_vocabular
     grouped_by_pat.to_csv(f'{folder_name}/notes_to_process.csv', index = False)
 
     ## Trim notes based on similarity: this step is parallelized, so it's much faster on VM!!
-    df_notes = pd.read_csv(f'{folder_name}/notes_to_process.csv') #, sep = '\t'
+    df_notes = pd.read_csv(f'{folder_name}/notes_to_process.csv') 
     df_notes_notna = df_notes.dropna() # Only keep patients who have a note
 
     # Reverse the saved format to get a list
@@ -342,7 +322,6 @@ def preprocess(note_outcome, diag_by_patient, terms, folder_name, with_vocabular
 
     n_too_long = long_notes[long_notes.new_n_words > 512].shape[0]
     print('Proportion of notes that exceed max length: {}'.format(100*n_too_long/20000))
-    #print('Proportion of depression among patients with notes that are too long: {:.2f}%'.format(100*long_notes[long_notes.new_n_words > 512].depression.mean()))
 
     ## This is the histogram of originially long notes, not all notes!
     long_notes.hist(column="new_n_words", bins=100)

@@ -11,9 +11,6 @@ from neptune.new.types import File
 from config.definitions import DIAGNOSES
 
 
-
-# Link: https://towardsdatascience.com/evaluating-multi-label-classifiers-a31be83da6ea
-
 def evaluate_model(y_true, y_pred, classes, logger, threshold=0.5, result_folder="results", model_name="ClinicalBERT"):
     
     y_pred_binary = np.where(np.array(y_pred) > threshold, 1., 0.)

@@ -3,17 +3,15 @@ import pandas as pd
 import os
 import numpy as np
 #from bigquery import load_table, save_table
-from preprocessing.preprocess_notes import preprocess, preprocess_text
+from preprocessing.preprocess_notes import preprocess
 from sklearn.model_selection import train_test_split, StratifiedKFold
 from sklearn.preprocessing import LabelEncoder
-import sys
  
 # setting path
 # sys.path.append('../config')
 from config.definitions import ROOT_DIR
 
 import hydra 
-from omegaconf import DictConfig 
 
 def filter_vocab(vocab_per_class, note_outcome):
     single_label_df = note_outcome[note_outcome["total"] == 1]

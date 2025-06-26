@@ -43,18 +43,14 @@ def create_word_window_freq_and_word_pair_count(doc_word_list, word_id_map):
     windows = []
 
     for doc in doc_word_list.keys():
-        #doc_words = aux_cpt_words(note.lower())
-        #words = list(set(vocab).intersection(set(doc_words)))
         words = doc_word_list[doc]
         length = len(words)
         if length <= window_size:
             windows.append(words)
         else:
-            # print(length, length - window_size + 1)
             for j in range(length - window_size + 1):
                 window = words[j: j + window_size]
                 windows.append(window)
-                # print(window)
 
 
     word_window_freq = {}
@@ -160,12 +156,10 @@ def save_edges_matrix(df, dictionary, folder_name, pmi_matrix=False):
     if pmi_matrix: 
         # create pmi matrix 
         dic_dic_pmi = create_pmi_matrix(word_window_freq, word_pair_count, windows, vocab, vocab_size)
-        # np.save("../graph_data/TrainVal/train_dic_dic_pmi.npy", pmi.toarray())
         np.save(f"{folder_name}/dic_dic_pmi.npy", dic_dic_pmi.toarray())
         
     # create_doc_word_matrix
     doc_word_matrix = create_doc_word_matrix(word_doc_list, windows, word_id_map, df.shape[0], vocab_size)
-    # np.save("../graph_data/TrainVal/train_word_matrix.npy", doc_word_matrix.toarray())
     np.save(f"{folder_name}/doc_word_matrix.npy", doc_word_matrix.toarray())
     
    

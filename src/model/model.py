@@ -1,7 +1,6 @@
-from transformers import AutoModel,  AutoTokenizer, LongformerModel, LongformerTokenizer, AdamW, get_cosine_schedule_with_warmup, get_polynomial_decay_schedule_with_warmup, get_linear_schedule_with_warmup
+from transformers import AutoModel,  AutoTokenizer, LongformerModel, AdamW, get_cosine_schedule_with_warmup, get_linear_schedule_with_warmup
 from sklearn.metrics import classification_report
-from torch.optim.lr_scheduler import ReduceLROnPlateau, StepLR
-#from ignite.contrib.handlers.param_scheduler import LRScheduler
+from torch.optim.lr_scheduler import ReduceLROnPlateau
 import torch.nn as nn
 import numpy as np
 import pandas as pd
@@ -61,7 +60,6 @@ class NoteClassifier(pl.LightningModule):
         self.accuracy_weighted_val = torchmetrics.Accuracy(task="multilabel", threshold=self.threshold, num_labels=self.n_labels, average="weighted")
         
     
-    # Claudio's function
     def postprocess(
         self,
         embeddings: torch.Tensor,
@@ -95,7 +93,6 @@ class NoteClassifier(pl.LightningModule):
             input_mask_expanded = (
                 attention_mask.unsqueeze(-1).expand(embeddings.size()).float()
             )
-            # you can also have torch.max() and do max pooling here 
             sum_embeddings = torch.sum(embeddings * input_mask_expanded, 1)   
             sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-9)
             embeddings = sum_embeddings / sum_mask
@@ -140,8 +137,6 @@ class NoteClassifier(pl.LightningModule):
         _, logits, _ = self(batch)
         return logits
     
-    
-    # inspiration: https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
     def configure_optimizers(self):
         params_1x = [param for name, param in self.named_parameters() if "pretrained_model." not in name]
         if self.config.optimizer.split_lr: 
@@ -216,8 +211,6 @@ class NoteBertClassifier(NoteClassifier,):
         
     def forward(self, batch):
         
-        # BEST WILL BE to remove all these if and do everything in a collate_fn 
-        # function that changes depending on the context
         if type(batch) is not dict:
             input_dict, step_chunks = batch
         else: 
@@ -227,11 +220,6 @@ class NoteBertClassifier(NoteClassifier,):
         
         # bert layer
         output = self.pretrained_model(input_ids=input_ids, attention_mask=attention_mask)
-            
-        #pooled_output = torch.mean(output.last_hidden_state, 1) # shape: [1, 768] 
-        #(account for PAD TOKENS NO?) no that's why it is not good -> change that
-        # the best will be to do like in postprocess with cls_pooling, return_sequence 
-        # pooled_output = output.pooler_output # To try
 
         pooled_output = output.last_hidden_state
         pooled_output = self.postprocess(
@@ -243,7 +231,6 @@ class NoteBertClassifier(NoteClassifier,):
             ) 
         
         if self.return_sequence: 
-            # TODO: NOT CORRECT only for the shape (understand why claudio return the full sequence)
             pooled_output = torch.mean(output.last_hidden_state, 1) 
             
         # final logits
@@ -255,7 +242,7 @@ class NoteBertClassifier(NoteClassifier,):
         
         # calculate loss
         loss = 0
-        if labels is not None: # can be None when we predict 
+        if labels is not None: 
             labels = scatter_max(labels, step_chunks, dim=0)[0]
             loss = self.loss_fct(logits.view(-1, self.n_labels), labels.view(-1, self.n_labels))
 
@@ -263,10 +250,8 @@ class NoteBertClassifier(NoteClassifier,):
     
     def validation_epoch_end(self, outputs):
         avg_val_loss = torch.stack([x["val_loss"] for x in outputs]).mean()
-        #tensorboard_logs = {'avg_val_loss': avg_loss}
-        #self.log("avg_val_loss", avg_val_loss, prog_bar=True, logger=True, on_epoch=True) # don't know if useful 
 
-        return {'avg_val_loss': avg_val_loss} #, 'log': tensorboard_logs} #val_loss
+        return {'avg_val_loss': avg_val_loss} 
     
     def training_epoch_end(self, outputs):
         labels = []
@@ -312,20 +297,12 @@ class NoteBertGnnClassifier(NoteClassifier):
     def __init__(self, model_config):
         super().__init__(model_config)
         
-        #self.seed = model_config.random_seed
         #tuning
-        #self.loss_type = self.config['loss'] # can allow you to test different losses 
         self.agg_type = self.config.gnn.agg
         self.hidden = self.config.gnn.hidden
         self.s_drop = self.config.gnn.s_drop 
         self.kernel_out = self.config.gnn.kernel_out
         self.dic_hidden = self.config.gnn.dic_hidden
-        #self.gpu = self.config['gpu']
-        
-        # modules:
-        #self.tokenizer = AutoTokenizer.from_pretrained(self.config.bert.model_name) 
-        #self.pretrained_model = AutoModel.from_pretrained(self.config.bert.model_name)
-        # Transformers PLM name can be different than Transformers Tokenizer Name? 
         
         # graphsage      
         if self.config.gnn.post_word_edge:
@@ -358,14 +335,11 @@ class NoteBertGnnClassifier(NoteClassifier):
                 'contains' : SAGEConv((self.hidden, self.dic_hidden), self.dic_hidden, aggregator_type= self.agg_type, feat_drop=self.s_drop, kernel_out = self.kernel_out, kernel_sizes=self.config.gnn.kernel_sizes)},
                 aggregate='sum').double()
         else: 
-            # Check self.pretrained_model.hidden_size == 768 sinon set in config: 
-            # 'in' out_feat is 192 (= 382 /2) 
             self.conv1 = dglnn.HeteroGraphConv({
                     'in' : SAGEConv((201,self.pretrained_model.config.hidden_size), self.hidden, aggregator_type= self.agg_type, feat_drop=self.s_drop,kernel_out=self.kernel_out, kernel_sizes=self.config.gnn.kernel_sizes),
                     'co-occur' : SAGEConv((201,201), self.dic_hidden, aggregator_type=self.agg_type,feat_drop=self.s_drop,kernel_out=self.kernel_out, kernel_sizes=self.config.gnn.kernel_sizes)},
                     aggregate='sum').double()
             
-            # 'in' out_feat is  (= 768 /2)
             self.conv2 = dglnn.HeteroGraphConv({
                     'in' : SAGEConv((self.dic_hidden, self.hidden), int(self.hidden/2), aggregator_type= self.agg_type, feat_drop=self.s_drop, kernel_out = self.kernel_out, kernel_sizes=self.config.gnn.kernel_sizes),
                     'co-occur' : SAGEConv((self.dic_hidden, self.dic_hidden), self.dic_hidden, aggregator_type=self.agg_type,feat_drop=self.s_drop,kernel_out=self.kernel_out, kernel_sizes=self.config.gnn.kernel_sizes)},
@@ -376,9 +350,6 @@ class NoteBertGnnClassifier(NoteClassifier):
         
     
     def forward(self, batch, **kwargs):
-        # BEST WILL BE to remove all these if and do everything in a collate_fn 
-        # function that changes depending on the context
-        
         if type(batch) is not dict:
             input_dict, step_chunks = batch
         else: 
@@ -391,60 +362,54 @@ class NoteBertGnnClassifier(NoteClassifier):
         edges = scatter_max(edges, step_chunks, dim=0)[0]
      
         # post embedding
-        outputs_data = self.pretrained_model(input_ids=text_data, **kwargs) # return: last_hidden_state, pooler_output, hidden_states, attentions
-        #p_feat = outputs_data[1] 
+        outputs_data = self.pretrained_model(input_ids=text_data, **kwargs) 
 
         pooled_output = outputs_data.last_hidden_state
-        # TODO: add attention masks to use when not cls_pooling
 
         p_feat = self.postprocess(
                 pooled_output,
                 step_chunks,
                 cls_pooling=self.cls_pooling,
-                #return_sequence=self.return_sequence,
             ) 
             
-        # if self.return_sequence: 
-        #     # TODO: NOT CORRECT only for the shape (understand why claudio return the full sequence)
-        #     p_feat = torch.mean(output.last_hidden_state, 1) 
         
         #graph
         edge_index = torch.nonzero(edges, as_tuple=False).T
-        dic_index = torch.nonzero(self.dic_dic, as_tuple=False).T #.to(f"cuda:{self.gpu}")
+        dic_index = torch.nonzero(self.dic_dic, as_tuple=False).T 
         
         if self.config.gnn.post_word_edge:
             g = dgl.heterograph(data_dict = {('dic', 'in', 'post')  : (edge_index[1], edge_index[0]),
                                             ('post', 'contains', 'dic') :(edge_index[0], edge_index[1]),
                                             ('dic', 'co-occur', 'dic')  : (dic_index[0], dic_index[1])},
-                            num_nodes_dict = {'dic':len(self.dic_feature), 'post':len(p_feat)}) #.to(f"cuda:{self.gpu}")
+                            num_nodes_dict = {'dic':len(self.dic_feature), 'post':len(p_feat)}) 
         else:
             g = dgl.heterograph(data_dict = {('dic', 'in', 'post')  : (edge_index[1], edge_index[0]),
                                             ('dic', 'co-occur', 'dic')  : (dic_index[0], dic_index[1])},
-                            num_nodes_dict = {'dic':len(self.dic_feature), 'post':len(p_feat)}) #.to(f"cuda:{self.gpu}")
+                            num_nodes_dict = {'dic':len(self.dic_feature), 'post':len(p_feat)}) 
             
-        d_feat = torch.tensor(self.dic_feature.numpy().astype(np.float32),dtype = torch.double) #.to(f"cuda:{self.gpu}")
+        d_feat = torch.tensor(self.dic_feature.numpy().astype(np.float32),dtype = torch.double) 
         
         g.ndata['features'] = {'post' : p_feat.double(), 'dic' : d_feat}
         if self.config.gnn.post_word_edge:
-            g.edata['features'] = {'co-occur' : torch.tensor(coo_matrix(self.dic_dic).data), #.to(f"cuda:{self.gpu}"), 
-                               'in':torch.tensor(coo_matrix(edges).data), #.cpu()).data)}#.to(f"cuda:{self.gpu}")}
+            g.edata['features'] = {'co-occur' : torch.tensor(coo_matrix(self.dic_dic).data), 
+                               'in':torch.tensor(coo_matrix(edges).data), 
                                'contains':torch.tensor(coo_matrix(edges).data)}
         else:
-            g.edata['features'] = {'co-occur' : torch.tensor(coo_matrix(self.dic_dic).data), #.to(f"cuda:{self.gpu}"), 
-                                   'in':torch.tensor(coo_matrix(edges).data)} #.cpu()).data)}#.to(f"cuda:{self.gpu}")}
+            g.edata['features'] = {'co-occur' : torch.tensor(coo_matrix(self.dic_dic).data), 
+                                   'in':torch.tensor(coo_matrix(edges).data)} 
         
-        train_nid = {'post': torch.tensor(range(len(p_feat))), #.to(f"cuda:{self.gpu}"),
-                    'dic': torch.tensor(range(len(self.dic_feature)))} #.to(f"cuda:{self.gpu}")} #
+        train_nid = {'post': torch.tensor(range(len(p_feat))), 
+                    'dic': torch.tensor(range(len(self.dic_feature)))} 
         #, 
         
         collator = dgl.dataloading.NodeCollator(g, train_nid, self.sampler)
         dataloader = DataLoader(
             collator.dataset, collate_fn=collator.collate,
-            batch_size=int(g.number_of_nodes()/5), shuffle=False, drop_last=False) # pk pas shuffle = True
+            batch_size=int(g.number_of_nodes()/5), shuffle=False, drop_last=False) 
         
         post_output = None
         for i,(input_nodes, output_nodes, blocks) in enumerate(dataloader):
-            input_features = blocks[0].srcdata['features']     # returns a dict
+            input_features = blocks[0].srcdata['features']     
             output = self.conv1(blocks[0], input_features,blocks[0].edata['features'])   
             output = self.conv2(blocks[1], output,blocks[1].edata['features'])
 
@@ -469,57 +434,4 @@ class NoteBertGnnClassifier(NoteClassifier):
         
 
 
-    # def configure_optimizers(self):
-    #     params_1x = [param for name, param in self.named_parameters() if "bert_data." not in name]
-    #     optimizer  = AdamW([{'params': params_1x},
-    #                         {'params': self.bert_data.parameters(),
-    #                         'lr': self.lr * 10}],
-    #                          lr=self.lr) #, weight_decay=self.config.optimizer.weight_decay)
-
-    #     # optimizer = AdamW(self.parameters(), lr=self.lr)
-    #     scheduler = ExponentialLR(optimizer, gamma=0.5)
-
-    #     return {
-    #         'optimizer': optimizer,
-    #         'scheduler': scheduler,
-    #     }
-        
-        
-    # def validation_epoch_end(self, outputs):
-    #     loss = torch.tensor(0, dtype=torch.float)
-    #     for i in outputs:
-    #         loss += i['loss'] #.cpu().detach()
-    #     _loss = loss / len(outputs)
-    #     loss = float(_loss)
-    #     y_true = []
-    #     y_pred = []
-
-    #     for i in outputs:
-    #         y_true += i['y_true']
-    #         y_pred += i['y_pred']
-
-    #     # save:   
-    #     predict_dict['y_pred'] = y_pred
-    #     predict_dict['y_true'] = y_true
-            
-    #     y_pred = np.asanyarray(y_pred)
-    #     y_true = np.asanyarray(y_true)
-
-    #     m = gr_metrics(y_pred, y_true)
-    #     classwise_FScores = class_FScore(y_pred, y_true, self.num_labels)
-        
-    #     metrics_dict['Precision'] = [m[0]]
-    #     metrics_dict['Recall'] = [m[1]]
-    #     metrics_dict['FScore'] = [m[2]]
-    #     metrics_dict['OE']= [m[3]]
-        
-    #     tensorboard_logs = {
-    #         'val_loss': loss,
-    #         'val_precision': m[0],
-    #         'val_recall': m[1],
-    #         'val_f1': m[2],
-    #         'val_OE': m[3]
-    #     }
-        
-    #     pprint(tensorboard_logs)
-    #     return {'loss': _loss, 'log': tensorboard_logs}
+   

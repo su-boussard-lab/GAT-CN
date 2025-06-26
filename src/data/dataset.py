@@ -26,7 +26,7 @@ class NoteDataset(Dataset):
     
         
     
-# check the tutorial to add more stuff if you consider the dataset is umbalanced (e.g sample the classs_1)
+
 class NoteBertDataset(NoteDataset):
     
     def __init__(self, data, tokenizer, classes, max_token_length: int = 512, return_overflowing_tokens: bool = False): 
@@ -76,9 +76,8 @@ class NoteBertGnnDataset(NoteDataset):
         tokens = self.tokenize_note(item.NOTE)
 
         if self.return_overflowing_tokens: 
-            #num_chunks = len(tokens)
             num_chunks = tokens.input_ids.shape[0]
-            label = torch.FloatTensor([item[self.classes].values.tolist()]*num_chunks) #torch.tensor(self.labels[index], dtype=torch.double)
+            label = torch.FloatTensor([item[self.classes].values.tolist()]*num_chunks) 
             edges = torch.FloatTensor([self.adj_dict[index].tolist()]*num_chunks)
             return {'input_ids': tokens.input_ids.type(torch.long), 'edges': edges, 'labels': label}
         else: 

@@ -1,6 +1,5 @@
 
 import numpy as np
-import pandas as pd
 import os
 import torch.multiprocessing
 import pytorch_lightning as pl
@@ -16,7 +15,6 @@ from preprocessing.split import get_data_and_vocab
 from config.definitions import ROOT_DIR, DIAGNOSES, CLASSES
 from utils.utils import tmpdir_manager, update_nested_dict
 from lime.lime_text import LimeTextExplainer
-import torch.nn.functional as F
 import matplotlib.pyplot as plt
 
 

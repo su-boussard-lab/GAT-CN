@@ -1,166 +1,9 @@
-import os
-import pandas as pd
-import numpy as np
-from pprint import pprint
-# torch:
-import torch
-from torch.utils.data import Dataset, DataLoader, TensorDataset,random_split
-from torch.optim.lr_scheduler import ExponentialLR, CosineAnnealingWarmRestarts
 
-from transformers import AdamW #, #get_cosine_schedule_with_warmup, get_cosine_with_hard_restarts_schedule_with_warmup
+import torch
 from torch import nn
 import torch.nn.functional as F
-from pytorch_lightning import LightningDataModule, LightningModule, Trainer, seed_everything
-from pytorch_lightning.callbacks.early_stopping import EarlyStopping
-from transformers import BertTokenizer, AdamW, BertModel
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-from sklearn.model_selection import train_test_split
-from pytorch_lightning.loggers import TensorBoardLogger
-
-#gcn
-from scipy.sparse import coo_matrix
-import dgl
-import dgl.nn.pytorch as dglnn
 from dgl import function as fn
 from dgl.utils import expand_as_pair, check_eq_shape
-
-from functools import partial
-import math
-from tqdm import tqdm 
-
-"""Heterograph NN modules"""
-# class HeteroGraphConv(nn.Module):
-
-#     def __init__(self, mods, aggregate='sum'):
-#         super(HeteroGraphConv, self).__init__()
-        
-#         self.mods = nn.ModuleDict(mods)
-#         # Do not break if graph has 0-in-degree nodes.
-#         # Because there is no general rule to add self-loop for heterograph.
-#         for _, v in self.mods.items():
-#             set_allow_zero_in_degree_fn = getattr(v, 'set_allow_zero_in_degree', None)
-#             if callable(set_allow_zero_in_degree_fn):
-#                 set_allow_zero_in_degree_fn(True)
-#         if isinstance(aggregate, str):
-#             self.agg_fn = get_aggregate_fn(aggregate)
-#         else:
-#             self.agg_fn = aggregate
-
-#     def forward(self, g, inputs, mod_args=None, mod_kwargs=None):
-    
-#         if mod_args is None:
-#             mod_args = {}
-#         if mod_kwargs is None:
-#             mod_kwargs = {}
-#         outputs = {nty : [] for nty in g.dsttypes} 
-#         if isinstance(inputs, tuple) or g.is_block:
-            
-#             if isinstance(inputs, tuple):
-#                 src_inputs, dst_inputs = inputs
-#             else:
-#                 src_inputs = inputs
-#                 dst_inputs = {k: v[:g.number_of_dst_nodes(k)] for k, v in inputs.items()}
-#             for stype, etype, dtype in g.canonical_etypes:
-#                 rel_graph = g[stype, etype, dtype]
-#                 if rel_graph.number_of_edges() == 0:
-#                     continue
-#                 if stype not in src_inputs or dtype not in dst_inputs:
-#                     continue
-#                 dstdata = self.mods[etype](
-#                     rel_graph,
-#                     (src_inputs[stype], dst_inputs[dtype]),
-#                     *mod_args.get(etype, ()),
-#                     **mod_kwargs.get(etype, {}))
-#                 outputs[dtype].append(dstdata)
-#         else:
-#             for stype, etype, dtype in g.canonical_etypes:
-#                 rel_graph = g[stype, etype, dtype]
-#                 if rel_graph.number_of_edges() == 0:
-#                     continue
-#                 if stype not in inputs:
-#                     continue
-#                 dstdata = self.mods[etype](
-#                     rel_graph,
-#                     (inputs[stype], inputs[dtype]),
-#                     *mod_args.get(etype, ()),
-#                     **mod_kwargs.get(etype, {}))
-#                 outputs[dtype].append(dstdata)
-#         rsts = {}
-#         for nty, alist in outputs.items():
-#             print("NTY")
-#             print(nty)
-#             print("ALIST")
-#             print(alist)
-#             if len(alist) != 0:
-#                 rsts[nty] = self.agg_fn(alist, nty)
-#                 print("rsts[nty]")
-#                 print(rsts[nty])
-#         print("RSTS")
-#         print(rsts)
-#         return rsts
-
-
-# def _max_reduce_func(inputs, dim):
-#     return torch.max(inputs, dim=dim)[0]
-
-# def _min_reduce_func(inputs, dim):
-#     return torch.min(inputs, dim=dim)[0]
-
-# def _sum_reduce_func(inputs, dim):
-#     return torch.sum(inputs, dim=dim)
-
-# def _mean_reduce_func(inputs, dim):
-#     return torch.mean(inputs, dim=dim)
-
-# def _stack_agg_func(inputs, dsttype): # pylint: disable=unused-argument
-#     if len(inputs) == 0:
-#         return None
-#     return torch.stack(inputs, dim=1)
-
-
-# def _depth_agg_func(inputs, dsttype):
-    
-#     if len(inputs) == 1:
-#         return inputs[0]
-    
-#     depthwise = nn.Conv2d(len(inputs), len(inputs), kernel_size=3, padding=1, groups=len(inputs)).to(f"cuda:1")
-#     pointwise = nn.Conv2d(len(inputs), 1, kernel_size=1).to(f"cuda:1")
-
-#     out = depthwise(torch.stack(inputs, dim=0).unsqueeze(0))#.float())
-#     out = pointwise(out)
-    
-#     return out.squeeze(0).squeeze(0)#.double()
-
-# def _agg_func(inputs, dsttype, fn): # pylint: disable=unused-argument
-#     if len(inputs) == 0:
-#         return None
-#     stacked = torch.stack(inputs, dim=0)
-#     return fn(stacked, dim=0)
-
-# def get_aggregate_fn(agg):
-
-#     if agg == 'sum':
-#         fn = _sum_reduce_func
-#     elif agg == 'max':
-#         fn = _max_reduce_func
-#     elif agg == 'min':
-#         fn = _min_reduce_func
-#     elif agg == 'mean':
-#         fn = _mean_reduce_func
-#     elif agg == 'stack':
-#         fn = None  # will not be called
-#     elif agg == 'depth':
-#         fn = None  # will not be called
-#     else:
-#         raise DGLError('Invalid cross type aggregator. Must be one of '
-#                        '"sum", "max", "min", "mean","depth" or "stack". But got "%s"' % agg)
-#     if agg == 'stack':
-#         return _stack_agg_func
-#     elif agg == 'depth':
-#         return _depth_agg_func
-#     else:
-#         return partial(_agg_func, fn=fn)
-
 
 
 class SAGEConv(nn.Module):
@@ -185,7 +28,6 @@ class SAGEConv(nn.Module):
         self.feat_drop = nn.Dropout(feat_drop)
         self.activation = activation
         self.kernel_sizes = kernel_sizes
-        # aggregator type: mean/pool/lstm/gcn
         if aggregator_type == 'pool':
             self.fc_pool = nn.Linear(self._in_src_feats, self._in_src_feats)
             
@@ -196,10 +38,7 @@ class SAGEConv(nn.Module):
             
         if aggregator_type != 'gcn':
             self.fc_self = nn.Linear(self._in_dst_feats, out_feats, bias=bias) 
-            # 384, 192 pr conv1 et post
-            # 201, 85 pr conv1 et dic
-            
-        
+
         if aggregator_type == 'cnn':
             self.convs = nn.ModuleList([nn.Conv2d(1, kernel_out, kernel_size=(window, self._in_src_feats)) for window in self.kernel_sizes])
             self.fc_convs = nn.Linear(len(self.kernel_sizes)*kernel_out, self._in_src_feats)
@@ -265,45 +104,31 @@ class SAGEConv(nn.Module):
     
     def _cnn_reducer(self, nodes):
         
-        m = nodes.mailbox['m'] # (B, L, D) 
-        # B: the batch_size
-        # L: the number of incoming messages for each node
-        # D: the dimensionality of the messages 
-        #(16, 10, 32) where there are 16 nodes in the batch, each node receives 10 messages, and each message has a dimensionality of 32.
+        m = nodes.mailbox['m']
         batch_size = m.shape[0] 
 
-        # equation (6) in the paper 
-        x = [conv(m.unsqueeze(1)).squeeze(3) for conv in self.convs] # [batch_size, num_filter, max_length -kernel_size +1] 
-        # num_filter = kernel_out = 50
-        # max_length = L (number of neighbors available); kernel_size = 1
-        #[batch_size, num_filter, max_length -kernel_size +1] = D - 1 + 1 = D
+        x = [conv(m.unsqueeze(1)).squeeze(3) for conv in self.convs] 
         
-        output = [F.max_pool1d(x_i, (x_i.size(2))).squeeze(2) for x_i in x] # [batch_size, num_filter]
-        # num_filter = kernel_out = 50
-        # batch_size = D 
-        # for each node in D, you take the maximum of the output of the conv2d for each message 
-        # output = c hat in (9) in paper
+        output = [F.max_pool1d(x_i, (x_i.size(2))).squeeze(2) for x_i in x]
         
         output = torch.cat(output, dim = 1)
-        y = self.fc_convs(output) # [D = batch.size, self._in_src_feats] 
-        # fc_conv = premiere partie de F_c in in (10) in paper 
-        
-        return {'neigh': y}  # y = N_N(v)^k
+        y = self.fc_convs(output) 
+
+        return {'neigh': y}  
         
     
     def _depth_reducer(self, nodes):
 
-        m = nodes.mailbox['m'] # (B, L, D)
+        m = nodes.mailbox['m'] 
         batch_size = m.shape[0]
 
-        #[1 ,2, 35, 85] 최종적으로는 35,85 가 나와야지
         depthwise = nn.Conv2d(batch_size, batch_size, kernel_size=3, padding=1, groups=len(inputs))
         pointwise = nn.Conv2d(batch_size, 1, kernel_size=1)
 
-        out = depthwise(torch.stack(inputs, dim=0).unsqueeze(0))#.float())
+        out = depthwise(torch.stack(inputs, dim=0).unsqueeze(0))
         out = pointwise(out)
 
-        return out.squeeze(0).squeeze(0)#.double()
+        return out.squeeze(0).squeeze(0)
     
     def _compatibility_check(self):
         """Address the backward compatibility issue brought by #2747"""
@@ -373,7 +198,7 @@ class SAGEConv(nn.Module):
             elif self._aggre_type == 'gcn':
                 check_eq_shape(feat)
                 graph.srcdata['h'] = self.fc_neigh(feat_src) if lin_before_mp else feat_src
-                if isinstance(feat, tuple):  # heterogeneous
+                if isinstance(feat, tuple):
                     graph.dstdata['h'] = self.fc_neigh(feat_dst) if lin_before_mp else feat_dst
                 else:
                     if graph.is_block:
@@ -381,7 +206,6 @@ class SAGEConv(nn.Module):
                     else:
                         graph.dstdata['h'] = graph.srcdata['h']
                 graph.update_all(msg_fn, fn.sum('m', 'neigh'))
-                # divide in_degrees
                 degs = graph.in_degrees().to(feat_dst)
                 h_neigh = (graph.dstdata['neigh'] + graph.dstdata['h']) / (degs.unsqueeze(-1) + 1)
                 if not lin_before_mp:
@@ -398,25 +222,19 @@ class SAGEConv(nn.Module):
             elif self._aggre_type == 'bilstm':
                 graph.srcdata['h'] = feat_src
                 graph.update_all(msg_fn, self._bilstm_reducer)
-                #graph.update_all(fn.u_mul_e('h', 'a', 'm'),self._bilstm_reducer)
                 h_neigh = self.fc_neigh(graph.dstdata['neigh'])
 
             elif self._aggre_type == 'cnn':
                 graph.srcdata['h'] = feat_src
-                # graph.update_all(fn.u_mul_e('h', 'a', 'm'),self._cnn_reducer)
                 graph.update_all(msg_fn, self._cnn_reducer)
-                h_neigh = self.fc_neigh(graph.dstdata['neigh']) # equation (7) in paper
-                # 32 x 192 # B x out_feats for dic-post edge
-                # nber of dest dic x 81 for dic-dic edge
-                  
+                h_neigh = self.fc_neigh(graph.dstdata['neigh'])     
             else:
                 raise KeyError('Aggregator type {} not recognized.'.format(self._aggre_type))
 
-            # GraphSAGE GCN does not require fc_self.
             if self._aggre_type == 'gcn':
                 rst = h_neigh
             else:
-                rst = self.fc_self(h_self) + h_neigh # (7) in paper concat h_v^k-1 + h_n(v)^k
+                rst = self.fc_self(h_self) + h_neigh 
 
             # bias term
             if self.bias is not None:

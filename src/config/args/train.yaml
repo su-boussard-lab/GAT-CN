@@ -1,12 +1,12 @@
 logger: 
-  project_name: "esaquand/bert"  # "saquand.elia/gnn" #"eliasaquand/thesis"  
+  project_name: "esaquand/bert"  
   run_id: None #GNN-106
   api_token: "eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiJhZjRmODg1Yi0yZjVlLTQyOWYtOTk1Ny0wZGM0MmM5YzQ2NWQifQ=="
   description: ""
   prefix: "training"
 
 data: 
-  testing: false # attention quand train on all data we don't validate on test set 
+  testing: false 
   hack: false
 
 model: 

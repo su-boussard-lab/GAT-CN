@@ -1,6 +1,5 @@
 
 import numpy as np
-import pandas as pd
 import os
 import torch.multiprocessing
 import pytorch_lightning as pl
@@ -176,8 +175,6 @@ def train_model(cfg: DictConfig) -> None:
     # result_folder = os.path.join(ROOT_DIR, args.model.predict.result_folder)
     evaluate_model(true_labels, predictions, DIAGNOSES, logger) # threshold=model_config.model.threshold, result_folder=result_folder, model_name=args.model.model_name
     
-
-
 
 
 if __name__ == "__main__":

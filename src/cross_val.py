@@ -1,14 +1,8 @@
 
-import numpy as np
 import os
-import pandas as pd
-import matplotlib.pyplot as plt
-import argparse
 import torch.multiprocessing
-#from bigquery import load_table, save_table
 
 import pytorch_lightning as pl
-#from pytorch_lightning.metrics.functional import accuracy, f1, auroc
 from pytorch_lightning.callbacks import ModelCheckpoint, EarlyStopping
 from pytorch_lightning.loggers import TensorBoardLogger
 
@@ -20,16 +14,13 @@ from config.definitions import ROOT_DIR
 from data.datamodule import Note_Data_Module
 from model import Note_Classifier
 
-from metrics import evaluate
-from sklearn import metrics 
-
 from sklearn.model_selection import ParameterGrid
 from preprocessing.split import get_data_and_vocab
 
 
 RANDOM_SEED = 42
 pl.seed_everything(RANDOM_SEED)
-torch.multiprocessing.set_sharing_strategy('file_system') # see if it corrects the issue by resuming the training 
+torch.multiprocessing.set_sharing_strategy('file_system') 
 
 @hydra.main(
         config_path = "./config",

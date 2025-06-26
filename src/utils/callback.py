@@ -15,7 +15,6 @@ class EpochTimeLogger(Callback):
     def on_train_epoch_end(self, trainer, pl_module):
         epoch_time = time.time() -  self.train_start_time
         trainer.logger.log_metrics({"train_epoch_time": epoch_time}, step=self.training_iter)
-        #trainer.logger.experiment['epoch_time'].append(value=epoch_time, step=self.i) #= epoch_time #, step=trainer.current_epoch)
         self.training_iter += 1
         
     def on_predict_epoch_start(self, trainer, pl_module):
@@ -24,6 +23,5 @@ class EpochTimeLogger(Callback):
     def on_predict_epoch_end(self, trainer, pl_module):
         epoch_time = time.time() - self.predict_start_time
         trainer.logger.log_metrics({"predict_epoch_time": epoch_time}, step=self.predict_iter)
-        #trainer.logger.experiment['epoch_time'].append(value=epoch_time, step=self.i) #= epoch_time #, step=trainer.current_epoch)
         self.predict_iter += 1
         
