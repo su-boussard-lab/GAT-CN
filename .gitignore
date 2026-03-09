@@ -1,4 +1,5 @@
 .DS_Store
+.idea/
 resource/.DS_Store
 temp_info/
 models/

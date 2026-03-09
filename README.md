@@ -8,20 +8,8 @@
 We introduce a novel Natural Language Processing (NLP) model, Graph-Augmented Transformer for Clinical Notes (GAT-CN), that combines transformer-based architecture with a graph neural network (GNN), to embed and analyze unstructured clinical data. GAT-CN was designed to extract post-chemotherapy-related diagnoses from clinical notes—such pain, nausea, vomiting, dehydration, diarrhea, anemia, neutropenia, fever, sepsis, and pneumonia.
 
 ## Objectives
-**First Objective: main question**
 
-    1. Can we classify chemotherapy patients' adverse outcomes through clinical notes?
-
-**Second Objective: quantity + type**
-
-    1. What types of notes? 
-    2. How many notes do we need to classify? 
-    3. Which of my notes (timing) are the ones that tell me what's going on? e.g do we need notes in between ACU events or only ACU event notes? can we 4. classify with the first half of the notes only? are the notes after chemotherapy most relevant? are the notes close to ACU most relevant? If we can score them somehow (like feature selection) that will be super relevant. 
-
-**Third Objective: edge cases**
-
-    1. Which conditions are difficult to classify?
-    2. Are there any mismatch between notes and the diagnosis code (after classification)?
+The primary goal of this study is to develop and evaluate a graph-augmented language model that improves the extraction of chemotherapy-related toxicity symptoms from clinical notes to support earlier monitoring of adverse events in oncology care.
 
 ----------------------------
 
@@ -39,8 +27,7 @@ We introduce a novel Natural Language Processing (NLP) model, Graph-Augmented Tr
 - > Class 4: Sepsis, Neutropenia, Fever, Pneumonia
 
 ## Development
-- Programming Language: Python 
-- Computing Platform: Carina (https://carinadocs.sites.stanford.edu)
+- Programming Language: Python
 - Experiment tracker and model registry: Neptune AI (https://neptune.ai/)
 
 ## Usage
@@ -100,13 +87,12 @@ Neptune AI is used for logging: you can easily set up an account at https://nept
 Neptune AI stores model hyperparameters, resuls, checkpoints, etc but you can also save the model checkpoints by creating a checkpoint folder and run: 
 `python train.py model_config.train.callback.checkpointing.dirpath=<your_checkpoint_folder>`
 
-Note: cross_val.py script is outdated. 
 
 ## License
 MIT
 
 ## Authors
-Elia Saquand, Behzad Naderalvojoud, Max Schuessler, Malvika Pillai, Brian Travis Rice, Doug Blayney, Tina Hernandez-Boussard
+Elia Saquand, Behzad Naderalvojoud, Max Schuessler, Malvika Pillai, Brian Travis Rice, Douglas W. Blayney, Tina Hernandez-Boussard
 
 
 
