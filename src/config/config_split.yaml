@@ -1,0 +1,3 @@
+data_path: "data_wo_vocabulary"
+cross_val: False
+with_vocabulary: False

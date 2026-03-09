@@ -1,0 +1,596 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Pneumonia,C0032285,MTH,pneumonia,347
+Pneumocystis jiroveci pneumonia,C1535939,MTH,pneumonia,0
+Streptococcal pneumonia,C0155862,MTH,pneumonia,0
+Aspiration Pneumonia,C0032290,MTH,pneumonia,55
+"Pneumonia, Interstitial",C0206061,MTH,pneumonia,0
+Mycoplasma pneumonia,C0032302,MTH,pneumonia,0
+"Pneumonia, Viral",C0032310,MSH,pneumonia,0
+Staphylococcal Pneumonia,C0032308,MTH,pneumonia,0
+"Pneumonia, Bacterial",C0004626,MSH,pneumonia,0
+Lobar Pneumonia,C0032300,MTH,pneumonia,0
+Eosinophilic Pneumonia,C1527407,MTH,pneumonia,0
+Cytomegaloviral pneumonia,C0276253,MTH,pneumonia,0
+"Pneumonia, Lipid",C0032298,MTH,pneumonia,0
+Legionnaires' Disease,C0023241,MTH,pneumonia,0
+Chlamydial pneumonia,C0339959,MTH,pneumonia,0
+Atypical pneumonia,C1412002,MTH,pneumonia,10
+Bronchopneumonia,C0006285,MTH,pneumonia,0
+Extrinsic allergic alveolitis,C0002390,MTH,pneumonia,0
+Congenital pneumonia,C0158935,SNOMEDCT_US,pneumonia,0
+Organizing Pneumonia,C0264383,MSH,pneumonia,0
+Varicella pneumonia,C0339971,MTH,pneumonia,0
+Lymphoid interstitial pneumonia,C0264511,MTH,pneumonia,0
+Adenoviral pneumonia,C0276156,SNOMEDCT_US,pneumonia,0
+Hypostatic pneumonia,C0264522,SNOMEDCT_US,pneumonia,0
+Desquamative interstitial pneumonia,C0238378,MTH,pneumonia,0
+Haemophilus influenzae pneumonia,C0276026,SNOMEDCT_US,pneumonia,0
+Parainfluenza virus pneumonia,C0276333,SNOMEDCT_US,pneumonia,0
+Fungal pneumonia,C0339961,SNOMEDCT_US,pneumonia,0
+Recurrent pneumonia,C0694550,MTH,pneumonia,1
+Pneumonia due to Pseudomonas,C0155860,SNOMEDCT_US,pneumonia,0
+Bronchiolitis Obliterans Organizing Pneumonia,C0242770,MTH,pneumonia,0
+Tuberculous pneumonia,C0275891,SNOMEDCT_US,pneumonia,0
+Idiopathic Pulmonary Fibrosis,C1800706,MTH,pneumonia,4
+"Pneumonia, Necrotizing",C0264515,MSH,pneumonia,0
+Inhalational anthrax,C0155866,MTH,pneumonia,0
+Cholesterol pneumonia,C0549472,MSH,pneumonia,0
+Hospital acquired pneumonia,C0949083,MTH,pneumonia,1
+"Pneumonia, Ventilator-Associated",C1701940,MSH,pneumonia,0
+Salmonella pneumonia,C0152489,SNOMEDCT_US,pneumonia,0
+Rheumatic pneumonia,C0152450,SNOMEDCT_US,pneumonia,0
+Neonatal pneumonia,C0339968,SNOMEDCT_US,pneumonia,0
+Anti-Glomerular Basement Membrane Disease,C0403529,MTH,pneumonia,0
+Proteus pneumonia,C1260917,SNOMEDCT_US,pneumonia,0
+Hemorrhagic pneumonia,C0339965,SNOMEDCT_US,pneumonia,0
+Pneumonia in aspergillosis,C0155867,SNOMEDCT_US,pneumonia,0
+Acute bronchiolitis,C0001311,SNOMEDCT_US,pneumonia,1
+Pneumonia due to Escherichia coli,C0276089,SNOMEDCT_US,pneumonia,0
+Pittsburgh pneumonia,C0317656,MTH,pneumonia,0
+Postobstructive pneumonia,C0747690,SNOMEDCT_US,pneumonia,26
+Ornithosis with pneumonia,C0153099,SNOMEDCT_US,pneumonia,0
+Acute interstitial pneumonia,C1279945,MTH,pneumonia,0
+Bilateral pneumonia,C1142578,SNOMEDCT_US,pneumonia,0
+Enterobacter pneumonia,C1096258,SNOMEDCT_US,pneumonia,0
+"Pneumonia, Rickettsial",C0032307,MSH,pneumonia,0
+Unresolved pneumonia,C0264381,SNOMEDCT_US,pneumonia,0
+Group B streptococcal pneumonia,C0348801,MTH,pneumonia,0
+Basal pneumonia,C0577702,SNOMEDCT_US,pneumonia,0
+Infective pneumonia,C0729704,SNOMEDCT_US,pneumonia,0
+Traumatic pneumonia,C0340143,SNOMEDCT_US,pneumonia,0
+Candidiasis of lung,C0153251,SNOMEDCT_US,pneumonia,0
+Mycobacterial pneumonia,C0339967,SNOMEDCT_US,pneumonia,0
+Pneumonia due to measles,C0339976,SNOMEDCT_US,pneumonia,0
+Chronic pneumonia,C4039254,SNOMEDCT_US,pneumonia,0
+Endogenous Lipid Pneumonia,C0264510,MSH,pneumonia,0
+Gonococcal pneumonia,C2893395,SNOMEDCT_US,pneumonia,0
+Rubella pneumonia,C2911579,SNOMEDCT_US,pneumonia,0
+Exogenous lipoid pneumonia,C5441721,MTH,pneumonia,0
+Granulomatous pneumonia,C0264384,SNOMEDCT_US,pneumonia,0
+Peribronchial pneumonia,C0264377,SNOMEDCT_US,pneumonia,0
+Achromobacter pneumonia,C0276071,SNOMEDCT_US,pneumonia,0
+Nocardial pneumonia,C0339949,SNOMEDCT_US,pneumonia,0
+Actinomycotic pneumonia,C0339955,SNOMEDCT_US,pneumonia,0
+Meningococcal pneumonia,C0339957,SNOMEDCT_US,pneumonia,0
+Lupus pneumonia,C0340142,SNOMEDCT_US,pneumonia,0
+Leishmanial pneumonia,C0343782,SNOMEDCT_US,pneumonia,0
+Pneumonia in typhoid fever,C0339956,SNOMEDCT_US,pneumonia,0
+Catarrhal pneumonia,C0264380,SNOMEDCT_US,pneumonia,0
+Nonspecific interstitial pneumonia,C1290344,MTH,pneumonia,0
+Congenital staphylococcal pneumonia,C0343320,SNOMEDCT_US,pneumonia,0
+Congenital pseudomonal pneumonia,C0343324,SNOMEDCT_US,pneumonia,0
+Congenital chlamydial pneumonia,C0349359,SNOMEDCT_US,pneumonia,0
+Infective pneumonia acquired prenatally,C0270151,SNOMEDCT_US,pneumonia,0
+Non-infectious pneumonia,C0264376,SNOMEDCT_US,pneumonia,0
+Cavitary pneumonia,C0747674,SNOMEDCT_US,pneumonia,0
+Pulmonary tularemia,C0339946,SNOMEDCT_US,pneumonia,0
+Focal pneumonia,C1290339,SNOMEDCT_US,pneumonia,0
+Confluent pneumonia,C1290340,SNOMEDCT_US,pneumonia,0
+Lingular pneumonia,C1960024,SNOMEDCT_US,pneumonia,0
+Postoperative pneumonia,C1279386,SNOMEDCT_US,pneumonia,0
+Murine pneumonia virus,C0206541,MSH,pneumonia,0
+Post measles pneumonia,C1112452,SNOMEDCT_US,pneumonia,0
+Acute eosinophilic pneumonia,C5235118,SNOMEDCT_US,pneumonia,0
+Community acquired pneumonia,C0694549,SNOMEDCT_US,pneumonia,5
+Pneumonia caused by Acinetobacter,C2063075,SNOMEDCT_US,pneumonia,0
+Abscess of lung with pneumonia,C0348806,SNOMEDCT_US,pneumonia,0
+H/O: pneumonia,C0455542,SNOMEDCT_US,pneumonia,0
+Primary atypical pneumonia,C0702135,MTH,pneumonia,0
+Pneumonia due to Gram negative bacteria,C0854248,SNOMEDCT_US,pneumonia,0
+Recurrent aspiration pneumonia,C0747651,SNOMEDCT_US,pneumonia,0
+Neonatal aspiration pneumonia,C0349497,SNOMEDCT_US,pneumonia,0
+Idiopathic pneumonia syndrome,C1504431,MTH,pneumonia,0
+Chronic interstitial pneumonia,C0221236,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by SARS-CoV-2,C5244027,SNOMEDCT_US,pneumonia,0
+Herpes simplex pneumonia,C0339975,SNOMEDCT_US,pneumonia,0
+Neonatal chlamydial pneumonia,C0339960,SNOMEDCT_US,pneumonia,0
+Pneumococcal lobar pneumonia,C2364009,SNOMEDCT_US,pneumonia,0
+Congenital bacterial pneumonia,C0349495,SNOMEDCT_US,pneumonia,0
+Congenital viral pneumonia,C0349494,SNOMEDCT_US,pneumonia,0
+Recurrent bacterial pneumonia,C0747667,SNOMEDCT_US,pneumonia,0
+Toxoplasma pneumonitis,C0339950,MTH,pneumonia,0
+Unresolved lobar pneumonia,C0264382,SNOMEDCT_US,pneumonia,0
+Congenital Escherichia coli pneumonia,C0343323,SNOMEDCT_US,pneumonia,0
+Acute aspiration pneumonia,C4023111,SNOMEDCT_US,pneumonia,0
+Left lower zone pneumonia,C0585104,SNOMEDCT_US,pneumonia,0
+Right lower zone pneumonia,C0585105,SNOMEDCT_US,pneumonia,0
+Idiopathic eosinophilic pneumonia,C3872845,SNOMEDCT_US,pneumonia,0
+Foreign body pneumonia,C0264386,SNOMEDCT_US,pneumonia,0
+Secondary bacterial pneumonia,C0339952,SNOMEDCT_US,pneumonia,0
+Mononuclear interstitial pneumonia,C0339974,SNOMEDCT_US,pneumonia,0
+Pneumonia in Q fever,C0276119,SNOMEDCT_US,pneumonia,0
+Postoperative aspiration pneumonia,C2585749,SNOMEDCT_US,pneumonia,0
+Bilateral basal pneumonia,C1960025,SNOMEDCT_US,pneumonia,0
+Cryptogenic pulmonary eosinophilia,C0008680,MTH,pneumonia,0
+Non-tuberculous mycobacterial pneumonia,C0349650,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Gram positive bacteria,C4518562,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Histoplasma capsulatum,C0276678,SNOMEDCT_US,pneumonia,0
+Pneumonia and influenza,C0155870,SNOMEDCT_US,pneumonia,0
+Chronic coccidioidomycotic pneumonia,C3839858,SNOMEDCT_US,pneumonia,0
+Legionella pneumonia suspected,C4750283,SNOMEDCT_US,pneumonia,0
+History of recurrent pneumonia,C3698389,SNOMEDCT_US,pneumonia,0
+History of aspiration pneumonia,C4040630,SNOMEDCT_US,pneumonia,0
+Right middle zone pneumonia,C0578577,SNOMEDCT_US,pneumonia,0
+Pneumonia due to infection by Streptococcus pyogenes,C2062470,SNOMEDCT_US,pneumonia,0
+Necrotizing pneumonia caused by Panton-Valentine leukocidin producing Staphylococcus aureus,C4706659,SNOMEDCT_US,pneumonia,0
+Manganese pneumonitis,C0238263,SNOMEDCT_US,pneumonia,0
+Idiopathic Interstitial Pneumonias,C2350236,MTH,pneumonia,0
+Uremic lung,C0340107,SNOMEDCT_US,pneumonia,0
+Idiopathic acute eosinophilic pneumonia,C4518469,SNOMEDCT_US,pneumonia,0
+Visna-maedi virus,C0042803,MTH,pneumonia,0
+Left upper zone pneumonia,C0578576,SNOMEDCT_US,pneumonia,0
+Right upper zone pneumonia,C0585106,SNOMEDCT_US,pneumonia,0
+Healthcare associated bacterial pneumonia,C1443238,SNOMEDCT_US,pneumonia,0
+Chronic exogenous lipoid pneumonia,C3873271,SNOMEDCT_US,pneumonia,0
+Acute exogenous lipoid pneumonia,C3873275,SNOMEDCT_US,pneumonia,0
+Chronic progressive coccidioidal pneumonia,C1562859,SNOMEDCT_US,pneumonia,0
+Congenital group B hemolytic streptococcal pneumonia,C0495390,SNOMEDCT_US,pneumonia,0
+Interstitial pneumonia with autoimmune features,C5396961,SNOMEDCT_US,pneumonia,0
+Aspiration pneumonia due to inhalation of milk,C1405205,SNOMEDCT_US,pneumonia,0
+Pulmonary African histoplasmosis,C0153275,SNOMEDCT_US,pneumonia,0
+Atypical pneumonia screening test,C1303257,SNOMEDCT_US,pneumonia,0
+Acute endogenous lipoid pneumonia,C5439202,SNOMEDCT_US,pneumonia,0
+Chronic endogenous lipoid pneumonia,C5439213,SNOMEDCT_US,pneumonia,0
+Aspiration pneumonia due to regurgitated food,C0264387,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Klebsiella pneumoniae,C0519030,MTH,pneumonia,0
+Acute pneumonia due to coccidioidomycosis,C3839862,SNOMEDCT_US,pneumonia,0
+GIP - Giant cell interstitial pneumonitis,C0153049,SNOMEDCT_US,pneumonia,0
+History of Pneumocystis jirovecii pneumonia,C3887139,SNOMEDCT_US,pneumonia,0
+Pneumonitis due to inhalation of vomitus,C0264390,SNOMEDCT_US,pneumonia,0
+Aspiration pneumonia due to near drowning,C0264391,SNOMEDCT_US,pneumonia,0
+Congenital group A hemolytic streptococcal pneumonia,C0343321,SNOMEDCT_US,pneumonia,0
+Acute ulcerative gastroenteritis complicating pneumonia,C1290808,SNOMEDCT_US,pneumonia,0
+Pneumococcal pneumonia with AIDS (acquired immunodeficiency syndrome),C0276524,SNOMEDCT_US,pneumonia,0
+Bacterial pneumonia with AIDS (acquired immunodeficiency syndrome),C0276523,SNOMEDCT_US,pneumonia,0
+Viral pneumonia with AIDS (acquired immunodeficiency syndrome),C0276528,SNOMEDCT_US,pneumonia,0
+Administration of prophylactic anti-infective agent for Pneumocystosis jirovecii pneumonia,C5396211,SNOMEDCT_US,pneumonia,0
+Aspiration pneumonia due to regurgitated gastric secretions,C0264388,SNOMEDCT_US,pneumonia,0
+Carrington syndrome,C2930941,MTH,pneumonia,0
+Aspiration pneumonia resulting from a procedure,C0274383,SNOMEDCT_US,pneumonia,0
+Pneumonia in pertussis,C0155865,SNOMEDCT_US,pneumonia,0
+Pneumonia due to respiratory syncytial virus,C0152413,SNOMEDCT_US,pneumonia,0
+Seasonal cryptogenic organizing pneumonia with biochemical cholestasis,C0340109,SNOMEDCT_US,pneumonia,0
+Cold agglutinin disease due to Mycoplasma pneumonia,C0272127,SNOMEDCT_US,pneumonia,0
+Pneumonia severity index,C1321595,MTH,pneumonia,0
+Bacterial pneumonia co-occurrent with human immunodeficiency virus infection,C4076007,SNOMEDCT_US,pneumonia,0
+Pneumonia with coccidioidomycosis,C0553969,SNOMEDCT_US,pneumonia,0
+Viral pneumonia due to Epstein-Barr virus infectious mononucleosis,C5568866,SNOMEDCT_US,pneumonia,0
+Pneumonia in systemic mycosis,C0276644,SNOMEDCT_US,pneumonia,0
+Pneumonia due to parasitic infestation,C0339969,SNOMEDCT_US,pneumonia,0
+Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection,C4076039,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Serratia,C4520337,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Ascaris,C3840016,SNOMEDCT_US,pneumonia,0
+Pneumonia due to influenza,C4038890,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Histoplasma,C2711145,SNOMEDCT_US,pneumonia,0
+Pneumonia due to methicillin resistant Staphylococcus aureus,C1142536,SNOMEDCT_US,pneumonia,0
+Pneumonia due to anaerobic bacteria,C1443976,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Enterococcus,C4520326,SNOMEDCT_US,pneumonia,0
+Pneumonia due to pleuropneumonia-like organism,C0553970,MTH,pneumonia,0
+Pneumonia due to Proteus mirabilis,C0276080,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Staphylococcus aureus,C2349530,SNOMEDCT_US,pneumonia,0
+Pneumonia with AIDS (acquired immunodeficiency syndrome),C0276527,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Chlamydia pneumoniae,C4510691,SNOMEDCT_US,pneumonia,0
+Pneumonia due to aerobic bacteria,C1443977,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Schistosoma mansoni,C3873307,SNOMEDCT_US,pneumonia,0
+Pneumonia due to H1N1 influenza,C4039003,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Bordetella parapertussis,C4041472,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Schistosoma japonicum,C3873305,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Schistosoma haematobium,C3873304,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Enterococcus faecalis,C4520363,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Enterococcus faecium,C4520366,SNOMEDCT_US,pneumonia,0
+Pneumonia due to methicillin susceptible Staphylococcus aureus,C2349529,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Human metapneumovirus,C2919364,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Human coronavirus,C4075701,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Pseudomonas aeruginosa,C5687188,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by Influenza A virus,C4750569,SNOMEDCT_US,pneumonia,0
+Pneumonia caused by vancomycin resistant Enterococcus,C5546959,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Severe acute respiratory syndrome coronavirus,C1260415,SNOMEDCT_US,pneumonia,0
+Pneumonia due to Influenza A virus subtype H1N1,C3661901,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae,C0038410,MTH,pneumonia,0
+Klebsiella pneumoniae,C0001699,MTH,pneumonia,18
+Mycoplasma pneumoniae,C0026941,MTH,pneumonia,0
+Chlamydophila pneumoniae,C0085504,MTH,pneumonia,0
+Pneumococcal 13-valent conjugate vaccine,C3152625,MTH,pneumonia,0
+Streptococcus pneumoniae type 20 capsular polysaccharide antigen,C2709756,MTH,pneumonia,0
+"Streptococcus pneumoniae Danish serotype 4, 6B, 9V, 14, 18C, 19F, and 23F capsular polysaccharide antigens conjugated only vaccine product",C0979582,SNOMEDCT_US,pneumonia,0
+Klebsiella pneumoniae subsp. ozaenae,C0315265,MSH,pneumonia,0
+Acute mycoplasmal bronchitis,C0339934,SNOMEDCT_US,pneumonia,0
+Administration of vaccine product containing only Streptococcus pneumoniae antigen (procedure),C0419707,MTH,pneumonia,0
+10-valent pneumococcal conjugate vaccine,C3849486,MSH,pneumonia,0
+Klebsiella rhinoscleromatis,C0022731,MSH,pneumonia,0
+Meningitis due to Friedlander bacillus,C0393434,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae antigen,C0370030,MTH,pneumonia,0
+Klebsiella pneumoniae subsp. pneumoniae,C0315264,MSH,pneumonia,0
+Infection due to Mycoplasma pneumoniae,C3241943,MTH,pneumonia,0
+Bacterial infection due to Klebsiella pneumoniae,C0343402,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae Infections,C1096584,MSH,pneumonia,0
+Streptococcus pneumoniae 14,C0522402,MTH,pneumonia,0
+Nocardia pneumoniae,C1463381,MSH,pneumonia,0
+Sepsis caused by Streptococcus pneumoniae,C2887084,MTH,pneumonia,0
+Mycoplasma pneumoniae DNA,C0369707,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae antibody,C0369704,SNOMEDCT_US,pneumonia,0
+Measurement of Mycoplasma pneumoniae antibody,C1271613,SNOMEDCT_US,pneumonia,0
+Bronchopneumonia due to Mycoplasma pneumoniae,C4038740,SNOMEDCT_US,pneumonia,0
+Arthritis of left knee caused by Streptococcus pneumoniae,C2888850,SNOMEDCT_US,pneumonia,0
+Arthritis of right knee caused by Streptococcus pneumoniae,C2888849,SNOMEDCT_US,pneumonia,0
+Adverse reaction to pneumococcal vaccine,C0570159,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9N,C0522404,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F,C0522403,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 3,C0522401,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae antibody,C0368889,SNOMEDCT_US,pneumonia,0
+"Mycoplasma species, not Mycoplasma pneumoniae",C1533065,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19A capsular polysaccharide antigen,C5575023,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 10A capsular polysaccharide antigen,C5575020,MTH,pneumonia,0
+Vaccine product containing only Streptococcus pneumoniae antigen (medicinal product),C5240157,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19A capsular polysaccharide unconjugated antigen,C5230665,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 10A capsular polysaccharide unconjugated antigen,C5230696,MTH,pneumonia,0
+Vaccine product containing only Streptococcus pneumoniae capsular polysaccharide antigen conjugated (medicinal product),C5240156,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9V capsular polysaccharide antigen,C5575019,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 17F capsular polysaccharide antigen,C5575017,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 2 capsular polysaccharide,C5575018,MTH,pneumonia,0
+Antigen of Streptococcus pneumoniae Danish serotype 22F capsular polysaccharide,C5551299,MTH,pneumonia,0
+Klebsiella quasipneumoniae subsp. similipneumoniae,C4758007,MSH,pneumonia,0
+Klebsiella quasipneumoniae subsp. quasipneumoniae,C4758009,MSH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 2 capsular polysaccharide unconjugated antigen,C5230666,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9V capsular polysaccharide unconjugated antigen,C5230670,MTH,pneumonia,0
+Antigen of Streptococcus pneumoniae Danish serotype 17F capsular polysaccharide unconjugated (substance),C5230673,MTH,pneumonia,0
+Streptococcus pneumoniae Danish serotype 22F capsular polysaccharide unconjugated antigen,C5230667,MTH,pneumonia,0
+Chlamydia pneumoniae culture,C1294277,SNOMEDCT_US,pneumonia,0
+Sepsis caused by Klebsiella pneumoniae,C4546278,SNOMEDCT_US,pneumonia,0
+Bronchopneumonia due to Streptococcus pneumoniae,C4040856,SNOMEDCT_US,pneumonia,0
+Bronchopneumonia due to Klebsiella pneumoniae,C4041068,SNOMEDCT_US,pneumonia,0
+Infection due to ESBL Klebsiella pneumoniae,C1444101,SNOMEDCT_US,pneumonia,0
+Extended spectrum beta-lactamase producing Klebsiella pneumoniae,C1444098,SNOMEDCT_US,pneumonia,0
+Measurement of Chlamydia pneumoniae antibody,C1294429,SNOMEDCT_US,pneumonia,0
+Administration of booster dose of pneumococcal vaccine,C1273956,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 10A,C1532692,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11A,C1626405,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6A,C2732283,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 20A,C4318708,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19A,C1532745,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7A,C1532929,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23A,C3697506,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6A Ab,C4483625,SNOMEDCT_US,pneumonia,0
+Chlamydophila pneumoniae antigen,C1291850,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae IgG,C0369705,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae rRNA,C0369708,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae DNA,C1977379,SNOMEDCT_US,pneumonia,0
+Chlamydophila pneumoniae IgG,C0882964,SNOMEDCT_US,pneumonia,0
+Chlamydophila pneumoniae rRNA,C1317222,SNOMEDCT_US,pneumonia,0
+Chlamydophila pneumoniae IgM,C0882965,SNOMEDCT_US,pneumonia,0
+Chlamydophila pneumoniae DNA,C0882966,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae IgA,C0552873,SNOMEDCT_US,pneumonia,0
+Chlamydophila pneumoniae IgA,C0882963,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae IgM,C0487620,SNOMEDCT_US,pneumonia,0
+Klebsiella pneumoniae DNA,C2964176,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae rRNA,C0370031,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae IgM,C0369706,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae antibody,C0370028,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae IgG,C0370029,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11A IgG,C4706452,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 20A IgG,C4483513,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 10A IgG,C4318705,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7A IgG,C4319132,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6A IgG,C4483621,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19A IgG,C4318660,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 12F,C1635028,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 22F,C1628500,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4,C1532750,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 23 antibody,C0552983,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F,C1627339,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 5,C1628972,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 2,C1630415,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18C,C1634519,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B,C1688613,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 12 antibody,C0552977,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F,C1689988,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 15B,C1532744,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18F,C3697112,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 16F,C3698417,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 12F Ab,C0552978,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 17F,C1688611,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9V,C1689958,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33F,C1689952,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1,C1532691,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae 19 antibody,C0552981,SNOMEDCT_US,pneumonia,0
+Invasive Streptococcus pneumoniae disease,C1320214,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19B,C3697994,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 8,C1628956,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18C Ab,C0552980,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 14 Ab,C4483471,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F Ab,C0552984,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae capsular polysaccharide IgG,C1979435,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1 Ab,C4318961,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 8 Ab,C4319133,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B Ab,C0552989,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 3 Ab,C4483540,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F Ab,C0552982,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F Ab,C0552991,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9N Ab,C0552993,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18F Ab,C2733522,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4 Ab,C4483563,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B IgG,C4482220,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 5 IgG,C1148421,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 2 IgG,C1545761,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 34 IgG,C1545764,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 43 IgG,C1545765,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18F IgG,C4483493,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 22F IgG,C4483520,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 17F IgG,C4319036,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18C IgG,C4318497,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 15B IgG,C4318661,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1 IgG,C0487608,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 14 IgG,C0487610,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F IgG,C0487612,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F IgG,C0487617,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9N IgG,C0487619,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 12F IgG,C0487609,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F IgG,C0487611,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 3 IgG,C0487613,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 8 IgG,C0487618,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4 IgG,C0487614,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19B IgG,C4482298,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33F IgG,C4482290,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9V IgG,C4318712,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae encephalitis,C4707240,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae polysaccharide antibody,C0443694,SNOMEDCT_US,pneumonia,0
+Allergy to pneumococcal vaccine,C0571562,SNOMEDCT_US,pneumonia,0
+Sepsis without acute organ dysfunction caused by Streptococcus pneumoniae,C4520289,SNOMEDCT_US,pneumonia,0
+Klebsiella pneumoniae subspecies pneumoniae or Raoultella planticola,C5229339,SNOMEDCT_US,pneumonia,0
+Klebsiella pneumoniae subspecies pneumoniae or Raoultella planticola or Raoultella terrigena,C4274004,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 28A,C2732887,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 15A,C2732938,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 41A,C3697106,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 12A,C3697388,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 32A,C3697491,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 47A,C3697547,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 16A,C3697669,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18A,C3698520,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 25A,C3697166,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 22A,C2711541,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33A,C2711542,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 17A,C3696883,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 35A,C3697688,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 24A,C3698022,SNOMEDCT_US,pneumonia,0
+KPC-2 producing Klebsiella pneumoniae,C4076369,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae present,C2585971,SNOMEDCT_US,pneumonia,0
+Otitis media caused by Streptococcus pneumoniae,C4303152,SNOMEDCT_US,pneumonia,0
+Klebsiella pneumoniae or Klebsiella oxytoca,C3839855,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae RNA,C1291192,SNOMEDCT_US,pneumonia,0
+Sinusitis caused by Streptococcus pneumoniae,C4303153,SNOMEDCT_US,pneumonia,0
+Myelitis caused by Mycoplasma pneumoniae,C5396488,SNOMEDCT_US,pneumonia,0
+Klebsiella pneumoniae complex,C5438171,SNOMEDCT_US,pneumonia,0
+Streptococcus acidominimus or Streptococcus pneumoniae,C5229262,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 10F,C2711391,SNOMEDCT_US,pneumonia,0
+Penicillin resistant Streptococcus pneumoniae,C1444104,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae IgA level,C1273334,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae RNA assay,C1294111,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae rRNA assay,C1294139,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae antigen assay,C1294928,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae antigen assay,C1294960,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 29,C1295885,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 10,C1532931,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 9,C1562120,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae DNA assay,C1294110,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae rRNA assay,C1294132,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 17,C1295883,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 16,C1295884,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9L,C1628314,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6F,C4706440,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 18,C1633978,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 19,C1265302,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 39,C2733553,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 27,C3698510,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11C,C3698559,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 31,C2732723,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 7 antibody,C1291933,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 10B,C1996964,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 13,C1997698,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 15,C1532743,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 23,C1532747,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 38,C1532749,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 15C,C2732936,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 22,C1285566,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9A,C1636195,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 32,C3697403,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19C,C3697404,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 44,C3696926,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 47F,C3697012,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 15F,C3697050,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 42,C3697913,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 21,C3698098,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6C,C3697188,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 12B,C3697189,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 25,C3697254,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7B,C3697374,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 25F,C3697572,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 41,C3697687,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 24B,C3697878,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 48,C3698071,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 35C,C3698310,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 35F,C3698405,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae IgM level,C1277872,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 33,C1532748,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 40,C1532751,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 6,C1532752,SNOMEDCT_US,pneumonia,0
+Chlamydia pneumoniae IgG level,C1277871,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7C,C3696952,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33D,C3697510,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 43,C3697729,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 24,C3697895,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11D,C3697964,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 45,C3698058,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 32F,C3698408,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 41F,C3698495,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 24F,C3698573,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 20,C1532746,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 11,C1285567,SNOMEDCT_US,pneumonia,0
+Carbapenem resistant Klebsiella pneumoniae,C2960635,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 12,C1265301,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 34,C1562552,SNOMEDCT_US,pneumonia,0
+Carbapenemase-producing Klebsiella pneumoniae,C5396916,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23B,C1997392,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 35,C1998089,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae antibody,C1294542,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 20B,C4706445,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6E,C4706439,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11E,C4706443,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33E,C4706444,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6H,C4706442,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 7,C2711904,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6D,C4305015,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33C,C3696949,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 46,C3697062,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11B,C3697519,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 35B,C3697991,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 36,C3698151,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18B,C3698258,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33B,C3696965,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 10C,C3697118,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11F,C3697227,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 47,C3697316,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 28F,C2732888,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 28,C2732893,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6G,C4706441,SNOMEDCT_US,pneumonia,0
+Multiple drug-resistant Klebsiella pneumoniae,C4075455,SNOMEDCT_US,pneumonia,0
+Mycoplasma pneumoniae DNA assay,C1294131,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 37,C3698439,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae capsular polysaccharide antigen conjugated,C4075102,SNOMEDCT_US,pneumonia,0
+Gemella species or Streptococcus pneumoniae,C4274007,SNOMEDCT_US,pneumonia,0
+Requires vaccination against Streptococcus pneumoniae,C5566423,SNOMEDCT_US,pneumonia,0
+Multiple drug-resistant Streptococcus pneumoniae,C1444103,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae 19 antibody assay,C1294549,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae serogroup 7 antibody,C1294558,SNOMEDCT_US,pneumonia,0
+Erythema multiforme due to Mycoplasma pneumoniae infection,C5395941,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae serogroup 12 antibody,C1294544,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae serogroup 23 antibody,C1294551,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 9 antibody,C2733221,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae capsular polysaccharide antigen,C1291905,SNOMEDCT_US,pneumonia,0
+Drug resistant Streptococcus pneumoniae disease,C4075262,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae serogroup 9 antibody,C1294561,SNOMEDCT_US,pneumonia,0
+Left hip joint arthritis caused by Streptococcus pneumoniae,C5547897,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae or Streptococcus viridans group,C4273994,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11A capsular polysaccharide antigen,C5575166,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7A capsular polysaccharide antigen,C4708123,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6A capsular polysaccharide antigen,C1291901,SNOMEDCT_US,pneumonia,0
+"Klebsiella species, not Klebsiella pneumoniae and not Klebsiella oxytoca",C4303969,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 1 antibody,C1294543,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 14 antibody,C1294546,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 18C antibody,C1294547,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 19F antibody,C1294550,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 3 antibody,C1294553,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 4 antibody,C1294554,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 12F antibody,C1294545,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 18F antibody,C1294548,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 7F antibody,C1294559,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 23F antibody,C1294552,SNOMEDCT_US,pneumonia,0
+Invasive drug resistant Streptococcus pneumoniae disease,C1320215,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae capsular polysaccharide virulence factor,C1291900,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae antigen-containing vaccine product,C5394974,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 9N antibody,C1294562,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae group A antigen assay,C1294961,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae group B antigen assay,C1294962,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae capsular polysaccharide antigen unconjugated,C5566338,SNOMEDCT_US,pneumonia,0
+Alpha-hemolytic Streptococcus not Streptococcus pneumoniae,C4075670,SNOMEDCT_US,pneumonia,0
+AmpC beta-lactamase producing Klebsiella pneumoniae,C5396945,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 6B antibody,C1294557,SNOMEDCT_US,pneumonia,0
+Measurement of Streptococcus pneumoniae Danish serotype 8 antibody,C1294560,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19A capsular polysaccharide conjugated antigen,C5439504,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6A capsular polysaccharide antigen conjugated,C5566352,SNOMEDCT_US,pneumonia,0
+Gemella morbillorum or Streptococcus acidominimus or Streptococcus pneumoniae,C4274006,SNOMEDCT_US,pneumonia,0
+Left shoulder region pneumococcal arthritis,C5547895,SNOMEDCT_US,pneumonia,0
+Streptococcus mitis or Streptococcus oralis or Streptococcus pneumoniae,C5229261,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 11A capsular polysaccharide unconjugated antigen,C5230671,SNOMEDCT_US,pneumonia,0
+Multiple drug-resistant Klebsiella pneumoniae subsp. ozaenae,C4075671,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae serogroup 20 capsular polysaccharide antigen,C5230693,SNOMEDCT_US,pneumonia,0
+Right hip joint arthritis caused by Streptococcus pneumoniae,C5547896,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18c capsular polysaccharide antigen conjugated,C5230715,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9V capsular polysaccharide antigen conjugated,C5230719,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 5 capsular polysaccharide antigen conjugated,C5230721,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F capsular polysaccharide antigen conjugated,C5230723,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 14 capsular polysaccharide antigen conjugated,C5230714,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F capsular polysaccharide antigen conjugated,C5230717,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4 capsular polysaccharide antigen conjugated,C5230720,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1 capsular polysaccharide antigen conjugated,C5230695,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F capsular polysaccharide antigen conjugated,C5230716,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B capsular polysaccharide antigen conjugated,C5230722,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 3 capsular polysaccharide antigen conjugated,C5566351,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 12F capsular polysaccharide antigen,C1291887,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18C capsular polysaccharide antigen,C1291888,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F capsular polysaccharide antigen,C1291889,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F capsular polysaccharide antigen,C1291890,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9N capsular polysaccharide antigen,C1291893,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F capsular polysaccharide antigen,C1291898,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B capsular polysaccharide antigen,C1291899,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 5 capsular polysaccharide antigen,C5575165,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 15B capsular polysaccharide antigen,C5575167,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 14 capsular polysaccharide antigen,C4708126,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1 capsular polysaccharide antigen,C4708130,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 33F capsular polysaccharide unconjugated antigen,C5230668,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 3 capsular polysaccharide antigen,C4708128,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4 capsular polysaccharide antigen,C4708131,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 8 capsular polysaccharide antigen,C4708124,SNOMEDCT_US,pneumonia,0
+Right shoulder region pneumococcal arthritis,C5547898,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 5 capsular polysaccharide unconjugated antigen,C5230669,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 15B capsular polysaccharide unconjugated antigen,C5230672,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1 capsular polysaccharide antigen unconjugated,C5566339,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18c capsular polysaccharide antigen unconjugated,C5566341,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 14 capsular polysaccharide antigen unconjugated,C5566343,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9N capsular polysaccharide antigen unconjugated,C5566344,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 3 capsular polysaccharide antigen unconjugated,C5566346,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F capsular polysaccharide antigen unconjugated,C5566348,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F capsular polysaccharide antigen unconjugated,C5566349,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 8 capsular polysaccharide antigen unconjugated,C5566350,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 12F capsular polysaccharide antigen unconjugated,C5566340,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B capsular polysaccharide antigen unconjugated,C5566342,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F capsular polysaccharide antigen unconjugated,C5566345,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4 capsular polysaccharide antigen unconjugated,C5566347,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19A capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231234,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6A capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231227,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4 capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231225,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 14 capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231228,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231232,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18C capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231235,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 18C capsular polysaccharide antigen conjugated to Clostridium tetani toxoid protein,C5231243,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae toxoid protein,C5231244,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 5 capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231224,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9V capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231229,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231231,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1 capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231223,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 3 capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231226,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231230,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 19F capsular polysaccharide antigen conjugated to Corynebacterium diphtheriae CRM197 protein,C5231233,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 14 capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231219,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 5 capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231220,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 1 capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231215,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 23F capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231216,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 4 capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231218,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 7F capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231221,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 6B capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231217,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 9V capsular polysaccharide antigen conjugated to nontypeable Haemophilus influenzae protein D,C5231222,SNOMEDCT_US,pneumonia,0
+Administration of pneumococcal 7-valent conjugate vaccine,C4544136,SNOMEDCT_US,pneumonia,0
+Administration of pneumococcal 13-valent conjugate vaccine,C4759623,SNOMEDCT_US,pneumonia,0
+Pneumococcal conjugate vaccination,C3661918,SNOMEDCT_US,pneumonia,0
+No Streptococcus pneumoniae Isolated,C4759487,SNOMEDCT_US,pneumonia,0
+Streptococcus pneumoniae Danish serotype 35D,C5549686,SNOMEDCT_US,pneumonia,0
+Anaphylaxis caused by vaccine product containing Streptococcus pneumoniae antigen,C5549835,SNOMEDCT_US,pneumonia,0

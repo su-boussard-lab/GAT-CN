@@ -1,0 +1,3286 @@
+NAME,DIAGNOSE,TYPE
+pain,class_1,seed
+ache,class_1,seed
+discomfort,class_1,seed
+radiculopathy,class_1,seed
+tightness,class_1,seed
+dynia,class_1,seed
+abdominal cris,class_1,seed
+algia,class_1,seed
+pressure,class_1,seed
+dysuria,class_1,seed
+headach,class_1,seed
+cramp,class_1,seed
+tendernes,class_1,seed
+gastrit,class_2,seed
+gastroenter,class_2,seed
+emes,class_2,seed
+diar,class_2,seed
+naus,class_2,seed
+hypernat,class_2,seed
+vomit,class_2,seed
+dehy,class_2,seed
+red cell,class_3,seed
+anem,class_3,seed
+septic,class_4,seed
+consolid,class_4,seed
+candidemia,class_4,seed
+pyrex,class_4,seed
+fever,class_4,seed
+agran,class_4,seed
+pancy,class_4,seed
+seps,class_4,seed
+inflam,class_4,seed
+pneumo,class_4,seed
+neut,class_4,seed
+febrile,class_4,seed
+hypertherm,class_4,seed
+radiat,class_1,clinician
+stabbing,class_1,clinician
+burning,class_1,clinician
+splitting,class_1,clinician
+dull,class_1,clinician
+shooting,class_1,clinician
+localize,class_1,clinician
+migraine,class_1,clinician
+noxious,class_1,clinician
+knife-like,class_1,clinician
+pounding,class_1,clinician
+hyperasthesia,class_1,clinician
+dyspareunia,class_1,clinician
+tender,class_1,clinician
+throbbing,class_1,clinician
+sharp,class_1,clinician
+agonizing,class_1,clinician
+painful,class_1,clinician
+radiating,class_1,clinician
+pleurisy,class_1,clinician
+hurts,class_1,clinician
+radiates,class_1,clinician
+aching,class_1,clinician
+low back pain,class_1,clinician
+excruciating,class_1,clinician
+neuropathy,class_1,clinician
+puke,class_2,clinician
+thirst,class_2,clinician
+hyponatremic,class_2,clinician
+passsed out,class_2,clinician
+tenesmus,class_2,clinician
+light headed,class_2,clinician
+enteritis,class_2,clinician
+vomitted,class_2,clinician
+puking,class_2,clinician
+puked,class_2,clinician
+loose stools,class_2,clinician
+cracked lips,class_2,clinician
+"non-bloody, non-bilious",class_2,clinician
+gastro,class_2,clinician
+bowel movement,class_2,clinician
+hyponatremia,class_2,clinician
+nauseated,class_2,clinician
+loss of consciousness,class_2,clinician
+vomitus,class_2,clinician
+watery,class_2,clinician
+mucousy,class_2,clinician
+dry lips,class_2,clinician
+bloody,class_2,clinician
+gastroeneritis,class_2,clinician
+stooling,class_2,clinician
+loose,class_2,clinician
+lose consciousness,class_2,clinician
+stool,class_2,clinician
+thirsty,class_2,clinician
+weak,class_3,clinician
+macrocytic,class_3,clinician
+microcytic,class_3,clinician
+pale,class_3,clinician
+normocytic,class_3,clinician
+iron deficiency,class_3,clinician
+light headed,class_3,clinician
+red blood cell,class_3,clinician
+myelodysplastic,class_3,clinician
+marrow,class_3,clinician
+get out of bed,class_3,clinician
+fatigue,class_3,clinician
+dyspnea,class_3,clinician
+elevated,class_4,clinician
+urosepsis,class_4,clinician
+neupogen,class_4,clinician
+shortness of breath,class_4,clinician
+pressors,class_4,clinician
+productive cough,class_4,clinician
+rectal,class_4,clinician
+chest x-ray,class_4,clinician
+body temperature,class_4,clinician
+hypoxemia,class_4,clinician
+shaking,class_4,clinician
+infiltrate,class_4,clinician
+consolidation,class_4,clinician
+core,class_4,clinician
+shock,class_4,clinician
+pyrexia,class_4,clinician
+dyspnea,class_4,clinician
+hypoxia,class_4,clinician
+oral,class_4,clinician
+thermometer,class_4,clinician
+low-grade,class_4,clinician
+systemic inflammatory response,class_4,clinician
+systemic organ failure assessment,class_4,clinician
+antibiotics,class_4,clinician
+rigor,class_4,clinician
+vasopressors,class_4,clinician
+lower respiratory tract infection,class_4,clinician
+white blood cell,class_4,clinician
+neulasta,class_4,clinician
+quick systematic organ failure assessment,class_4,clinician
+low white count,class_4,clinician
+cough,class_4,clinician
+streaking,class_4,clinician
+oxygen,class_4,clinician
+fever of unknown origin,class_4,clinician
+systolic blood pressure,class_4,clinician
+blood pressure,class_4,clinician
+chills,class_4,clinician
+mean arterial pressure,class_4,clinician
+presumed source,class_4,clinician
+pyrexia of unknown origin,class_4,clinician
+high-grade,class_4,clinician
+low count,class_4,clinician
+pain co-occurrent and due to varicose veins of left leg,class_1,snomedct_us
+pain provoked by exertion,class_1,snomedct_us
+pain in sacrum,class_1,snomedct_us
+pain of right hand due to and following cerebrovascular accident,class_1,snomedct_us
+acute onset pain,class_1,snomedct_us
+alert confusion voice pain unresponsiveness scale,class_1,snomedct_us
+delusional pain,class_1,snomedct_us
+neurological pain disorder,class_1,snomedct_us
+bilateral amputation stump pain of lower limbs,class_1,snomedct_us
+peripheral neurogenic pain,class_1,snomedct_us
+pain in lumbar spine,class_1,snomedct_us
+psychosocial dysfunction due to chronic pain,class_1,snomedct_us
+pain of right shoulder joint,class_1,snomedct_us
+pain management medication delivery system handpiece,class_1,snomedct_us
+mcgill pain questionnaire,class_1,snomedct_us
+pain on application of pressure to tooth,class_1,snomedct_us
+visual analog pain scale,class_1,snomedct_us
+abdominal pain worse on motion,class_1,snomedct_us
+pain due to arthritis,class_1,snomedct_us
+pain management (specialty),class_1,snomedct_us
+sclerotomal pain,class_1,snomedct_us
+plantar heel pain,class_1,snomedct_us
+additional pain and sensation observations,class_1,snomedct_us
+chronic pain control education,class_1,snomedct_us
+pain at rest of right upper limb co-occurrent and due to atherosclerosis,class_1,snomedct_us
+pain of left heel,class_1,snomedct_us
+bilateral wrist pain,class_1,snomedct_us
+bilateral shoulder joint pain,class_1,snomedct_us
+able to tolerate pain in body part,class_1,snomedct_us
+pain in cheek,class_1,snomedct_us
+cyclic pelvic pain,class_1,snomedct_us
+malignant bone pain,class_1,snomedct_us
+lesser metatarsophalangeal joint pain,class_1,snomedct_us
+referral to rapid access chest pain clinic,class_1,snomedct_us
+education about pain,class_1,snomedct_us
+pain measurement,class_1,snomedct_us
+scapulalgia,class_1,snomedct_us
+chronic nonmalignant pain,class_1,snomedct_us
+metatarsalgia,class_1,snomedct_us
+female deep pain on intercourse,class_1,snomedct_us
+pain following radiation therapy,class_1,snomedct_us
+pain around eye,class_1,snomedct_us
+pediatric chronic pain management specialty,class_1,snomedct_us
+alimentary tract pain due to vascular insufficiency,class_1,snomedct_us
+pain of joint of right foot,class_1,snomedct_us
+right subcostal pain,class_1,snomedct_us
+chronic post-thoracotomy pain syndrome,class_1,snomedct_us
+pain of amputation stump of right lower limb,class_1,snomedct_us
+vertebrogenic pain syndrome,class_1,snomedct_us
+pain of left thigh,class_1,snomedct_us
+pain in left foot,class_1,snomedct_us
+no genitourinary pain,class_1,snomedct_us
+pain of right knee region,class_1,snomedct_us
+genitourinary pain,class_1,snomedct_us
+pain radiating to left flank,class_1,snomedct_us
+neck pain co-occurrent with neurological deficit following whiplash injury to neck,class_1,snomedct_us
+pain in elbow,class_1,snomedct_us
+pediatric pain assessment,class_1,snomedct_us
+pain provoked by running,class_1,snomedct_us
+indifference to pain,class_1,snomedct_us
+pain in left sacroiliac joint,class_1,snomedct_us
+site of referred pain,class_1,snomedct_us
+vaso-occlusive pain episode in sickle cell disease,class_1,snomedct_us
+chronic pain following surgical procedure for cancer,class_1,snomedct_us
+vertebral joint pain,class_1,snomedct_us
+shooting pain,class_1,snomedct_us
+characteristics of pain of head and neck region,class_1,snomedct_us
+pain radiating to right leg,class_1,snomedct_us
+pain radiating to thoracic region left side,class_1,snomedct_us
+pain on tooth palpation,class_1,snomedct_us
+proximal interphalangeal joint of finger pain,class_1,snomedct_us
+right upper limb pain co-occurrent and due to ischemia,class_1,snomedct_us
+avpu - alert voice pain unresponsive scale,class_1,snomedct_us
+chronic idiopathic pain syndrome,class_1,snomedct_us
+neck pain co-occurrent with neck stiffness following whiplash injury to neck,class_1,snomedct_us
+increased pain threshold,class_1,snomedct_us
+pain of cervix,class_1,snomedct_us
+limb stump pain,class_1,snomedct_us
+high pain threshold,class_1,snomedct_us
+acute ankle pain,class_1,snomedct_us
+phantom pain following amputation of lower limb,class_1,snomedct_us
+pain on movement of cervical spine,class_1,snomedct_us
+finding of affective dimension of pain,class_1,snomedct_us
+right inguinal pain,class_1,snomedct_us
+verbal rating scale pain intensity score,class_1,snomedct_us
+chronic chest pain,class_1,snomedct_us
+pain in pinna,class_1,snomedct_us
+administration of analgesic,class_1,snomedct_us
+responds to pain,class_1,snomedct_us
+jaw pain,class_1,snomedct_us
+pain in thoracic spine,class_1,snomedct_us
+back pain prevention education,class_1,snomedct_us
+pain of left upper limb co-occurrent and due to ischemia,class_1,snomedct_us
+affective response to pain,class_1,snomedct_us
+localized abdominal pain,class_1,snomedct_us
+fearful with pain,class_1,snomedct_us
+bilateral greater trochanteric pain syndrome of lower limbs,class_1,snomedct_us
+acute pain control management,class_1,snomedct_us
+scalding pain on urination,class_1,snomedct_us
+pain in left arm,class_1,snomedct_us
+pain radiating to right shoulder,class_1,snomedct_us
+joint pain in right hand,class_1,snomedct_us
+pain co-occurrent and due to varicose veins of bilateral legs,class_1,snomedct_us
+liver pain,class_1,snomedct_us
+pain of right eye,class_1,snomedct_us
+pain in left abdominal lumbar region,class_1,snomedct_us
+pain of right testicle,class_1,snomedct_us
+pain during outflow of dialysate,class_1,snomedct_us
+abbey pain scale,class_1,snomedct_us
+chronic pain following trauma,class_1,snomedct_us
+acute exacerbation of chronic abdominal pain,class_1,snomedct_us
+pain of joint of bilateral lower legs,class_1,snomedct_us
+chronic primary generalized pain,class_1,snomedct_us
+interphalangeal joint of toe pain,class_1,snomedct_us
+decreased pain threshold,class_1,snomedct_us
+left inguinal pain,class_1,snomedct_us
+referred to acute chest pain clinic,class_1,snomedct_us
+sensory dimension of pain,class_1,snomedct_us
+pain at rest of left upper limb co-occurrent and due to atherosclerosis,class_1,snomedct_us
+assessment using abbey pain scale,class_1,snomedct_us
+left subcostal pain,class_1,snomedct_us
+bony pelvic pain,class_1,snomedct_us
+phantom limb syndrome without pain,class_1,snomedct_us
+anesthesia and pain medication during labor plan,class_1,snomedct_us
+compensated movement at site of pain,class_1,snomedct_us
+pain in chin,class_1,snomedct_us
+free-standing pain clinic,class_1,snomedct_us
+pain during regional anesthesia for cesarean section,class_1,snomedct_us
+cramping pain,class_1,snomedct_us
+chronic sacral pain for greater than three months,class_1,snomedct_us
+pain radiating to left side of chest,class_1,snomedct_us
+pain management medication delivery system cassette,class_1,snomedct_us
+pain on flushing of implanted venous access device,class_1,snomedct_us
+finding related to pain control behavior,class_1,snomedct_us
+tiring with pain,class_1,snomedct_us
+throbbing pain,class_1,snomedct_us
+pain caused by breast implant,class_1,snomedct_us
+anorectal pain,class_1,snomedct_us
+abbey pain scale score,class_1,snomedct_us
+sacroiliac joint pain,class_1,snomedct_us
+university of alabama at birmingham pain behavior scale (assessment scale),class_1,snomedct_us
+pain in testicle as late effect of injury to testicle,class_1,snomedct_us
+cryoanalgesia,class_1,snomedct_us
+able to recognize pain in body part,class_1,snomedct_us
+pain in coccyx,class_1,snomedct_us
+complex regional pain syndrome type i of both upper limbs,class_1,snomedct_us
+anterior knee pain,class_1,snomedct_us
+hunger pain,class_1,snomedct_us
+finding of pain sense,class_1,snomedct_us
+history of pain at rest due to peripheral vascular disease,class_1,snomedct_us
+pain of cardiovascular structure,class_1,snomedct_us
+vulvovaginal pain,class_1,snomedct_us
+pain control techniques education,class_1,snomedct_us
+pain of left hand,class_1,snomedct_us
+assessment using visual analog pain scale,class_1,snomedct_us
+limb pain at rest due to atherosclerosis of artery of lower limb,class_1,snomedct_us
+pain provoked by light,class_1,snomedct_us
+"postoperative pain, chronic",class_1,snomedct_us
+bilateral thumb pain,class_1,snomedct_us
+smarting pain,class_1,snomedct_us
+pain provoked by altercation,class_1,snomedct_us
+onset of contractions,class_1,snomedct_us
+injection site pain,class_1,snomedct_us
+finding of present pain intensity,class_1,snomedct_us
+chronic vaginal pain,class_1,snomedct_us
+central crushing chest pain,class_1,snomedct_us
+chronic thoracic back pain,class_1,snomedct_us
+pain of left forearm,class_1,snomedct_us
+complex regional pain syndrome of upper limb,class_1,snomedct_us
+peripheral neuropathic pain,class_1,snomedct_us
+acute sensitivity to pain,class_1,snomedct_us
+localized chest pain,class_1,snomedct_us
+chest pain due to pericarditis,class_1,snomedct_us
+periumbilical pain,class_1,snomedct_us
+"abdomen, acute",class_1,snomedct_us
+chest pain on breathing,class_1,snomedct_us
+pain control behavior,class_1,snomedct_us
+manchester foot pain and disability index,class_1,snomedct_us
+characteristic of pain,class_1,snomedct_us
+visual analog scale pain score,class_1,snomedct_us
+pain of lymphoreticular structure,class_1,snomedct_us
+chronic primary orofacial pain,class_1,snomedct_us
+site of gastrointestinal tract pain,class_1,snomedct_us
+ability to sense pain,class_1,snomedct_us
+pain in lymph nodes after alcohol consumption,class_1,snomedct_us
+lumbosacral nerve root pain,class_1,snomedct_us
+pain management medication delivery system pump,class_1,snomedct_us
+minimizing pain,class_1,snomedct_us
+post-mastectomy pain,class_1,snomedct_us
+pain in right hand,class_1,snomedct_us
+acute chest pain,class_1,snomedct_us
+familial episodic pain syndrome,class_1,snomedct_us
+working through the pain of grief,class_1,snomedct_us
+excruciating present pain,class_1,snomedct_us
+bilateral chronic pain of upper limbs,class_1,snomedct_us
+persistent idiopathic facial pain,class_1,snomedct_us
+pain control care plan,class_1,snomedct_us
+generalized aches and pains,class_1,snomedct_us
+"complex regional pain syndrome, type ii, upper limb",class_1,snomedct_us
+pain in right lumbar region of back,class_1,snomedct_us
+right iliac fossa pain,class_1,snomedct_us
+central post-stroke pain,class_1,snomedct_us
+central pain,class_1,snomedct_us
+pain of nose,class_1,snomedct_us
+evaluation of response to pain management instruction,class_1,snomedct_us
+upper chest pain,class_1,snomedct_us
+chronic pain clinic,class_1,snomedct_us
+left iliac fossa pain,class_1,snomedct_us
+sore nipple,class_1,snomedct_us
+right upper quadrant pain,class_1,snomedct_us
+able to manage pain in body part,class_1,snomedct_us
+pain at rest of left lower limb co-occurrent and due to atherosclerosis of bypass graft,class_1,snomedct_us
+pain crisis,class_1,snomedct_us
+chronic pain of cardiac implantable electronic device pocket following implantation of cardiac implantable electronic device,class_1,snomedct_us
+low back pain co-occurrent and due to bilateral sciatica,class_1,snomedct_us
+demonstrates adequate pain control throughout the perioperative period,class_1,snomedct_us
+drugs used in neuropathic pain,class_1,snomedct_us
+chronic pain due to malignant neoplastic disease,class_1,snomedct_us
+foot joint pain,class_1,snomedct_us
+pain of left eye,class_1,snomedct_us
+pain at rest of left lower limb co-occurrent and due to atherosclerosis,class_1,snomedct_us
+pain in finger of left hand,class_1,snomedct_us
+periorbital pain of right eye,class_1,snomedct_us
+assessment of psychological response to pain,class_1,snomedct_us
+vaginal pain,class_1,snomedct_us
+pain self efficacy questionnaire score,class_1,snomedct_us
+complete pain relief response to treatment,class_1,snomedct_us
+pain on tooth percussion,class_1,snomedct_us
+pain on joint movement,class_1,snomedct_us
+liaising with pain management specialist,class_1,snomedct_us
+myofascial pain syndrome of lower back,class_1,snomedct_us
+right temporomandibular joint pain dysfunction syndrome,class_1,snomedct_us
+chest wall pain,class_1,snomedct_us
+hereditary sensory and autonomic neuropathy type 7,class_1,snomedct_us
+post-episiotomy pain,class_1,snomedct_us
+able to recognize own emotional pain and distress,class_1,snomedct_us
+liaising about pain management plan,class_1,snomedct_us
+chronic pain after cancer treatment,class_1,snomedct_us
+pain in female pelvis,class_1,snomedct_us
+bilateral temporomandibular joint pain,class_1,snomedct_us
+pain due to varicose veins of lower extremity,class_1,snomedct_us
+pain in limb - multiple,class_1,snomedct_us
+preventing pain,class_1,snomedct_us
+acute abdominal pain,class_1,snomedct_us
+characteristic of pain at anatomical site,class_1,snomedct_us
+greater trochanteric pain syndrome of right lower limb,class_1,snomedct_us
+pain tolerance level finding,class_1,snomedct_us
+pain of joint of left foot,class_1,snomedct_us
+lower abdominal pain,class_1,snomedct_us
+low pain threshold,class_1,snomedct_us
+tightening pain,class_1,snomedct_us
+abdominal pain - cause unknown,class_1,snomedct_us
+intractable abdominal pain,class_1,snomedct_us
+alteration in comfort: chronic pain,class_1,snomedct_us
+myofascial neck pain,class_1,snomedct_us
+pain due to neoplastic disease,class_1,snomedct_us
+brief pain coping inventory score,class_1,snomedct_us
+griping pain,class_1,snomedct_us
+metacarpophalangeal joint pain,class_1,snomedct_us
+back pain,class_1,snomedct_us
+orofacial neuropathic pain,class_1,snomedct_us
+assessment of knowledge about pain,class_1,snomedct_us
+pain in left lumbar region of back,class_1,snomedct_us
+intermittent pain,class_1,snomedct_us
+pain in right sacroiliac joint,class_1,snomedct_us
+electric shock type pain,class_1,snomedct_us
+moderate pain,class_1,snomedct_us
+pain at rest of right lower limb co-occurrent and due to atherosclerosis,class_1,snomedct_us
+pain provoked by temperature,class_1,snomedct_us
+under care of pain management specialist,class_1,snomedct_us
+cervical discogenic pain,class_1,snomedct_us
+consultation for pain,class_1,snomedct_us
+pain of right lower limb co-occurrent and due to ischemia,class_1,snomedct_us
+pain in epigastric region on palpation,class_1,snomedct_us
+neurogenic pain,class_1,snomedct_us
+time from onset of pain to call for help,class_1,snomedct_us
+pain in lower limb,class_1,snomedct_us
+monitoring pain,class_1,snomedct_us
+back pain complicating pregnancy,class_1,snomedct_us
+pain of right arm only,class_1,snomedct_us
+epigastric pain,class_1,snomedct_us
+pain on passive stretch of joint,class_1,snomedct_us
+swallowing painful,class_1,snomedct_us
+pain in right heel,class_1,snomedct_us
+flank pain,class_1,snomedct_us
+paroxysmal nerve pain,class_1,snomedct_us
+greater trochanteric pain syndrome of left lower limb,class_1,snomedct_us
+myofascial pain syndrome of neck,class_1,snomedct_us
+low back pain co-occurrent with neuralgia of left sciatic nerve,class_1,snomedct_us
+pain radiating to lower abdomen,class_1,snomedct_us
+pain assessment in advanced dementia scale,class_1,snomedct_us
+pain radiating to neck,class_1,snomedct_us
+pain of left acromioclavicular joint,class_1,snomedct_us
+pain of right calf,class_1,snomedct_us
+pain-relief microcurrent skin patch,class_1,snomedct_us
+pain of left ankle joint,class_1,snomedct_us
+frontal sinus pain,class_1,snomedct_us
+psychosomatic abdominal pain,class_1,snomedct_us
+discharge from pain management service,class_1,snomedct_us
+sympathetically maintained pain,class_1,snomedct_us
+earache,class_1,snomedct_us
+seen by pain management nurse,class_1,snomedct_us
+pain of left lower leg,class_1,snomedct_us
+pain of digestive structure,class_1,snomedct_us
+hypoalgesia,class_1,snomedct_us
+education on self-management of pain,class_1,snomedct_us
+absence of pain sensation,class_1,snomedct_us
+pain in hallux,class_1,snomedct_us
+"pain self-management deficit, acute",class_1,snomedct_us
+pleuropericardial chest pain,class_1,snomedct_us
+chronic abdominal pain,class_1,snomedct_us
+algophobia,class_1,snomedct_us
+thoracic discogenic pain,class_1,snomedct_us
+pain radiating to center of chest,class_1,snomedct_us
+pain on movement of thoracic spine,class_1,snomedct_us
+constant pain,class_1,snomedct_us
+geriatric chronic pain management specialty,class_1,snomedct_us
+"pain self-management deficit, chronic",class_1,snomedct_us
+neck pain,class_1,snomedct_us
+post-herniorraphy pain,class_1,snomedct_us
+tibiofibular joint pain,class_1,snomedct_us
+pain of left sternoclavicular joint,class_1,snomedct_us
+generalized chronic body pains,class_1,snomedct_us
+referral to acute pain service,class_1,snomedct_us
+thoracic nerve root pain,class_1,snomedct_us
+complex regional pain syndrome of knee,class_1,snomedct_us
+pricking pain,class_1,snomedct_us
+pain coping strategies questionnaire,class_1,snomedct_us
+left sided chest pain,class_1,snomedct_us
+chest pain,class_1,snomedct_us
+pain radiating to right side of chest,class_1,snomedct_us
+postcordotomy pain,class_1,snomedct_us
+chronic pain following radiotherapy,class_1,snomedct_us
+chronic primary musculoskeletal pain,class_1,snomedct_us
+cryalgesia,class_1,snomedct_us
+central abdominal pain,class_1,snomedct_us
+urinary tract pain,class_1,snomedct_us
+feature of present pain intensity,class_1,snomedct_us
+persistent testicular pain,class_1,snomedct_us
+consultation for chronic pain,class_1,snomedct_us
+"pain, referred",class_1,snomedct_us
+posttreatment pain,class_1,snomedct_us
+post-mastectomy chronic pain syndrome,class_1,snomedct_us
+pain in thyroid,class_1,snomedct_us
+pain rehabilitation,class_1,snomedct_us
+chronic orofacial pain,class_1,snomedct_us
+deep pain,class_1,snomedct_us
+cancer pain and symptom management,class_1,snomedct_us
+ulcer-type pain,class_1,snomedct_us
+chronic pelvic pain without obvious pathology,class_1,snomedct_us
+pain in bilateral lower legs,class_1,snomedct_us
+pain characterized by relieving factor,class_1,snomedct_us
+growing pains,class_1,snomedct_us
+pain and symptom management,class_1,snomedct_us
+pain level: disruptive effects,class_1,snomedct_us
+pain of amputation stump of left lower limb,class_1,snomedct_us
+chronic secondary facial pain,class_1,snomedct_us
+pain relieved by analgesic,class_1,snomedct_us
+stated pain intensity within acceptable range,class_1,snomedct_us
+discharge by pain management nurse,class_1,snomedct_us
+first metatarsophalangeal joint pain,class_1,snomedct_us
+abdominal wind pain,class_1,snomedct_us
+referral to pain management service,class_1,snomedct_us
+metatarsophalangeal joint pain,class_1,snomedct_us
+history of back pain,class_1,snomedct_us
+varni-thompson pediatric pain questionnaire,class_1,snomedct_us
+mastodynia,class_1,snomedct_us
+complex regional pain syndrome type ii of right upper limb,class_1,snomedct_us
+assessment of knowledge of pain management,class_1,snomedct_us
+finding of pain tolerance,class_1,snomedct_us
+bilateral heel pain,class_1,snomedct_us
+non-cardiac chest pain,class_1,snomedct_us
+elbow joint pain,class_1,snomedct_us
+pain of right wrist,class_1,snomedct_us
+deep pain on intercourse,class_1,snomedct_us
+chronic visceral pain due to persistent inflammation,class_1,snomedct_us
+neuropathic pain due to radiation,class_1,snomedct_us
+chronic pain in face,class_1,snomedct_us
+left lower quadrant pain,class_1,snomedct_us
+clavicle pain,class_1,snomedct_us
+pain relief,class_1,snomedct_us
+unable to cope with pain,class_1,snomedct_us
+pain radiating to lumbar region of back,class_1,snomedct_us
+pattern of pain,class_1,snomedct_us
+muscle tension pain,class_1,snomedct_us
+phantom pain following amputation of penis,class_1,snomedct_us
+esophageal chest pain,class_1,snomedct_us
+pain of bilateral knee regions,class_1,snomedct_us
+complex regional pain syndrome type 2 of bilateral upper limbs,class_1,snomedct_us
+pain of bilateral upper limbs,class_1,snomedct_us
+pain of left testicle,class_1,snomedct_us
+pain clinics,class_1,snomedct_us
+family history of backache,class_1,snomedct_us
+agnosia for pain,class_1,snomedct_us
+demonstrates knowledge of pain management,class_1,snomedct_us
+pain provoked by breathing,class_1,snomedct_us
+seen in rapid access chest pain clinic,class_1,snomedct_us
+chronic visceral pain,class_1,snomedct_us
+squeezing chest pain,class_1,snomedct_us
+tenalgia,class_1,snomedct_us
+pain of right thigh,class_1,snomedct_us
+pain in abdominal region on palpation,class_1,snomedct_us
+referred pain in shoulder from abdomen,class_1,snomedct_us
+mechanical pain,class_1,snomedct_us
+bladder pain,class_1,snomedct_us
+pain and tenderness,class_1,snomedct_us
+sore throat,class_1,snomedct_us
+peripheral vascular disease with rest pain,class_1,snomedct_us
+discharge by pain management specialist,class_1,snomedct_us
+pain behavior present,class_1,snomedct_us
+pain of oral cavity structure,class_1,snomedct_us
+atypical facial pain,class_1,snomedct_us
+catch - finding of sensory dimension of pain,class_1,snomedct_us
+no pain on tooth percussion,class_1,snomedct_us
+pain of left hand due to and following cerebrovascular accident,class_1,snomedct_us
+pain of joint of left lower leg,class_1,snomedct_us
+palliative procedure for pancreatic pain relief,class_1,snomedct_us
+pain of amputation stump of right upper limb,class_1,snomedct_us
+acute pain due to injury,class_1,snomedct_us
+mild present pain,class_1,snomedct_us
+pain on movement of lumbar spine,class_1,snomedct_us
+musculoskeletal pain,class_1,snomedct_us
+visceral pain,class_1,snomedct_us
+pain in lumbar region on palpation,class_1,snomedct_us
+hypochondriacal pain,class_1,snomedct_us
+pain in right foot,class_1,snomedct_us
+suprapubic pain,class_1,snomedct_us
+angina pectoris,class_1,snomedct_us
+left flank pain,class_1,snomedct_us
+bilateral acromioclavicular joint pain,class_1,snomedct_us
+chronic pain of right foot,class_1,snomedct_us
+chronic musculoskeletal pain due to persistent inflammation,class_1,snomedct_us
+greater trochanteric pain syndrome,class_1,snomedct_us
+pain in both feet,class_1,snomedct_us
+pain of left hip joint,class_1,snomedct_us
+pain onset during moderate exercise,class_1,snomedct_us
+squeezing pain,class_1,snomedct_us
+chronic idiopathic anal pain,class_1,snomedct_us
+referred otalgia,class_1,snomedct_us
+generalized abdominal pain,class_1,snomedct_us
+persistent pain following procedure,class_1,snomedct_us
+continuous abdominal pain of left lower quadrant,class_1,snomedct_us
+back pain worse on sneezing,class_1,snomedct_us
+inadequate pain control,class_1,snomedct_us
+epigastric pain syndrome,class_1,snomedct_us
+breakthrough pain,class_1,snomedct_us
+geriatric chronic pain management service,class_1,snomedct_us
+assessment using brief pain inventory,class_1,snomedct_us
+knee pain,class_1,snomedct_us
+pain of right knee joint,class_1,snomedct_us
+pain management medication delivery system,class_1,snomedct_us
+pain by sensation quality,class_1,snomedct_us
+pain of left wrist,class_1,snomedct_us
+myofascial low back pain,class_1,snomedct_us
+referral by pain management nurse,class_1,snomedct_us
+superficial pain on intercourse,class_1,snomedct_us
+pelvic pain,class_1,snomedct_us
+evaluation of response to pain management interventions,class_1,snomedct_us
+intractable breast pain,class_1,snomedct_us
+normal sensation of pain,class_1,snomedct_us
+iliac fossa pain,class_1,snomedct_us
+pain in female perineum,class_1,snomedct_us
+pain provoked by trauma,class_1,snomedct_us
+pain of right sternoclavicular joint,class_1,snomedct_us
+myofascial pain with referral,class_1,snomedct_us
+excruciating pain,class_1,snomedct_us
+assessment using brief pain coping inventory,class_1,snomedct_us
+chronic pain control assessment,class_1,snomedct_us
+facial pain,class_1,snomedct_us
+acceptable pain level status,class_1,snomedct_us
+craniofacial pain,class_1,snomedct_us
+pain management specialist,class_1,snomedct_us
+pain relief by sitting up,class_1,snomedct_us
+abdominal pain characteristic,class_1,snomedct_us
+acute pain clinic,class_1,snomedct_us
+hip joint pain,class_1,snomedct_us
+pain on movement of cervix,class_1,snomedct_us
+pain of respiratory structure,class_1,snomedct_us
+type of gastrointestinal tract pain,class_1,snomedct_us
+heel pain,class_1,snomedct_us
+pain of left knee region,class_1,snomedct_us
+uncontrolled pain,class_1,snomedct_us
+pain following cerebrovascular accident,class_1,snomedct_us
+pain of bilateral forearms,class_1,snomedct_us
+gnawing pain,class_1,snomedct_us
+visceral abdominal pain,class_1,snomedct_us
+breakthrough cancer pain,class_1,snomedct_us
+complex regional pain syndrome type i of left upper limb,class_1,snomedct_us
+central chest pain,class_1,snomedct_us
+neck pain due to malignant neoplastic disease,class_1,snomedct_us
+oral pain,class_1,snomedct_us
+pain control management,class_1,snomedct_us
+adult pain assessment,class_1,snomedct_us
+pain co-occurrent and due to varicose veins of right leg,class_1,snomedct_us
+no present pain,class_1,snomedct_us
+pain of intercostal space,class_1,snomedct_us
+pain on abdominal wall movement,class_1,snomedct_us
+seen in pain clinic,class_1,snomedct_us
+pain of bilateral upper limbs co-occurrent and due to ischemia,class_1,snomedct_us
+pain in forearm,class_1,snomedct_us
+cardiac pain,class_1,snomedct_us
+able to tolerate generalized pain,class_1,snomedct_us
+alert confusion voice pain unresponsive scale score,class_1,snomedct_us
+"low back pain, mechanical",class_1,snomedct_us
+pain in wrist,class_1,snomedct_us
+pain in calf,class_1,snomedct_us
+maxillary sinus pain,class_1,snomedct_us
+adult chronic pain management service,class_1,snomedct_us
+complex regional pain syndrome type i of bilateral upper limbs,class_1,snomedct_us
+parasternal pain,class_1,snomedct_us
+punishing with pain,class_1,snomedct_us
+bilateral periorbital pain of eyes,class_1,snomedct_us
+history of pain of multiple joints,class_1,snomedct_us
+pain management education for family,class_1,snomedct_us
+reflex sympathetic dystrophy,class_1,snomedct_us
+pain in male genitalia,class_1,snomedct_us
+pain in buttock,class_1,snomedct_us
+chronic visceral pain due to vascular disorder,class_1,snomedct_us
+causalgia,class_1,snomedct_us
+abdominal pain through to back,class_1,snomedct_us
+chronic mechanical visceral pain,class_1,snomedct_us
+colicky pain,class_1,snomedct_us
+joint pain of pelvic region,class_1,snomedct_us
+complex regional pain syndrome of lower limb,class_1,snomedct_us
+anterior chest wall pain,class_1,snomedct_us
+distal radioulnar joint pain,class_1,snomedct_us
+dejerine-roussy syndrome,class_1,snomedct_us
+complex regional pain syndrome type i of left lower limb,class_1,snomedct_us
+soft tissue rheumatism,class_1,snomedct_us
+verbal rating scale for pain intensity,class_1,snomedct_us
+pain in penis,class_1,snomedct_us
+pain of bilateral lower limbs co-occurrent and due to ischemia,class_1,snomedct_us
+chronic back pain,class_1,snomedct_us
+ischemic foot with rest pain,class_1,snomedct_us
+pain of right lower leg,class_1,snomedct_us
+thalamic pain,class_1,snomedct_us
+pain of toe of left foot,class_1,snomedct_us
+right lower quadrant pain,class_1,snomedct_us
+pain of erector spinae muscle,class_1,snomedct_us
+sensation of pain reduced,class_1,snomedct_us
+dysmenorrhea,class_1,snomedct_us
+pain catastrophizing scale,class_1,snomedct_us
+pain radiating to head,class_1,snomedct_us
+radiating chest pain,class_1,snomedct_us
+tingling pain,class_1,snomedct_us
+pain level,class_1,snomedct_us
+pain in palate,class_1,snomedct_us
+pain radiating to middle abdomen,class_1,snomedct_us
+complex regional pain syndromes,class_1,snomedct_us
+"flatulence, eructation, and gas pain",class_1,snomedct_us
+complex regional pain syndrome type i of bilateral lower limbs,class_1,snomedct_us
+rheumatism,class_1,snomedct_us
+bilateral pain of joint of hands,class_1,snomedct_us
+thoracic back pain,class_1,snomedct_us
+night pain,class_1,snomedct_us
+chronic primary visceral pain,class_1,snomedct_us
+pain in right lower limb,class_1,snomedct_us
+somatoform pain disorder,class_1,snomedct_us
+foot pain,class_1,snomedct_us
+pain following sexual intercourse,class_1,snomedct_us
+diffuse pain,class_1,snomedct_us
+assessment using mcgill pain questionnaire,class_1,snomedct_us
+nuchal pain,class_1,snomedct_us
+superficial pain,class_1,snomedct_us
+disorder characterized by back pain,class_1,snomedct_us
+pain radiating to upper abdomen,class_1,snomedct_us
+subcostal pain,class_1,snomedct_us
+pain when milk coming in,class_1,snomedct_us
+finding of response to pain,class_1,snomedct_us
+pain of right forearm,class_1,snomedct_us
+acute pain in face,class_1,snomedct_us
+thoracic facet joint pain,class_1,snomedct_us
+degree of client satisfaction with pain management,class_1,snomedct_us
+chronic pelvic pain of female,class_1,snomedct_us
+pain of toe of right foot,class_1,snomedct_us
+heavy pain,class_1,snomedct_us
+pain radiating to jaw,class_1,snomedct_us
+referral to back pain clinic,class_1,snomedct_us
+pain medication review,class_1,snomedct_us
+chest pain rating,class_1,snomedct_us
+pain characterized by provoking factor,class_1,snomedct_us
+myofascial pain syndrome of thoracic spine,class_1,snomedct_us
+pain of toes of bilateral feet,class_1,snomedct_us
+pain due to hip joint prosthesis,class_1,snomedct_us
+psychogenic backache,class_1,snomedct_us
+pain of left elbow joint,class_1,snomedct_us
+renal angle pain,class_1,snomedct_us
+affective dimension of pain,class_1,snomedct_us
+pain in male perineum,class_1,snomedct_us
+chronic neck pain for greater than 3 months,class_1,snomedct_us
+chronic pain of right upper limb,class_1,snomedct_us
+dull pain,class_1,snomedct_us
+"pain, crushing",class_1,snomedct_us
+left sided abdominal pain,class_1,snomedct_us
+mcgill pain questionnaire score,class_1,snomedct_us
+functional abdominal pain of childhood,class_1,snomedct_us
+non-colicky abdominal pain,class_1,snomedct_us
+abdominal muscle pain,class_1,snomedct_us
+assessment using pain self efficacy questionnaire,class_1,snomedct_us
+ovarian pain,class_1,snomedct_us
+chronic neuropathic pain,class_1,snomedct_us
+chronic central neuropathic pain,class_1,snomedct_us
+pain of bilateral knee joints,class_1,snomedct_us
+cutting pain,class_1,snomedct_us
+right sided abdominal pain,class_1,snomedct_us
+false labor pains,class_1,snomedct_us
+persistent prosthetic joint pain,class_1,snomedct_us
+pain diary,class_1,snomedct_us
+chronic psychogenic pain,class_1,snomedct_us
+subtalar joint pain,class_1,snomedct_us
+phantom pain following amputation of upper limb,class_1,snomedct_us
+assessment of pain control,class_1,snomedct_us
+dallas pain questionnaire score,class_1,snomedct_us
+upper abdominal pain,class_1,snomedct_us
+arm pain,class_1,snomedct_us
+pain onset during sleep,class_1,snomedct_us
+low back pain in pregnancy,class_1,snomedct_us
+acute back pain with sciatica,class_1,snomedct_us
+intractable low back pain,class_1,snomedct_us
+breastfeeding painful,class_1,snomedct_us
+pain of right temporomandibular joint,class_1,snomedct_us
+mittelschmerz,class_1,snomedct_us
+pain during inflow of dialysate,class_1,snomedct_us
+pain in lower limb on elevation,class_1,snomedct_us
+pain of left arm only,class_1,snomedct_us
+pain disorder with psychological factor,class_1,snomedct_us
+seen by pain management service,class_1,snomedct_us
+abdominal pain in early pregnancy,class_1,snomedct_us
+complex regional pain syndrome type i of right lower limb,class_1,snomedct_us
+pain provoked by coughing,class_1,snomedct_us
+pain in testicle,class_1,snomedct_us
+pain in esophagus (finding),class_1,snomedct_us
+bilateral sacroiliac joint pain,class_1,snomedct_us
+cervical nerve root pain,class_1,snomedct_us
+joint pain in left hand,class_1,snomedct_us
+arthralgia of the ankle and/or foot,class_1,snomedct_us
+labor pain,class_1,snomedct_us
+paroxysmal extreme pain disorder,class_1,snomedct_us
+"pain, postoperative",class_1,snomedct_us
+site of abdominal pain,class_1,snomedct_us
+pain of shoulder girdle,class_1,snomedct_us
+musculoskeletal decompression sickness,class_1,snomedct_us
+chronic prostatitis with chronic pelvic pain syndrome,class_1,snomedct_us
+recurrent abdominal pain,class_1,snomedct_us
+distress from pain in labor,class_1,snomedct_us
+pain of right breast,class_1,snomedct_us
+stomach ache,class_1,snomedct_us
+musculoskeletal chest pain,class_1,snomedct_us
+increased pain,class_1,snomedct_us
+biliary colic,class_1,snomedct_us
+response to treatment shows partial pain relief,class_1,snomedct_us
+chronic secondary oral pain,class_1,snomedct_us
+pain of left temporomandibular joint,class_1,snomedct_us
+crushing chest pain,class_1,snomedct_us
+acute pain service,class_1,snomedct_us
+lumbar facet joint pain,class_1,snomedct_us
+post-herpetic polyneuropathy,class_1,snomedct_us
+ability to cope with pain,class_1,snomedct_us
+able to understand pain in body part,class_1,snomedct_us
+post-vasectomy pain,class_1,snomedct_us
+education about chronic pain,class_1,snomedct_us
+"pain, burning",class_1,snomedct_us
+primary chronic pain,class_1,snomedct_us
+chronic musculoskeletal pain,class_1,snomedct_us
+education on non-opioid pain medication,class_1,snomedct_us
+perianal pain,class_1,snomedct_us
+pain relief by walking,class_1,snomedct_us
+pancreatic pain,class_1,snomedct_us
+pain relief by lowering leg,class_1,snomedct_us
+precordial pain,class_1,snomedct_us
+neck pain co-occurrent with tenderness of neck following whiplash injury to neck,class_1,snomedct_us
+posterior auricular pain,class_1,snomedct_us
+pain of amputation stump of left upper limb,class_1,snomedct_us
+pain from metastases,class_1,snomedct_us
+pain in upper arm,class_1,snomedct_us
+"low back pain, posterior compartment",class_1,snomedct_us
+congenital pain insensitivity,class_1,snomedct_us
+chronic pain following right total hip arthroplasty,class_1,snomedct_us
+functional abdominal pain syndrome,class_1,snomedct_us
+referral to epidural anesthesia for spinal pain,class_1,snomedct_us
+pain in right thumb,class_1,snomedct_us
+hospital-based outpatient pain clinic,class_1,snomedct_us
+pain radiating to right flank,class_1,snomedct_us
+pain following administration of agent,class_1,snomedct_us
+pain radiating to thoracic region right side,class_1,snomedct_us
+fracture pain,class_1,snomedct_us
+hypochondrial pain,class_1,snomedct_us
+temporomandibular joint dysfunction syndrome,class_1,snomedct_us
+pain finding at anatomical site,class_1,snomedct_us
+referred pain in face,class_1,snomedct_us
+complex regional pain syndrome type ii of right lower limb,class_1,snomedct_us
+abdominal pain,class_1,snomedct_us
+pain on eye movement,class_1,snomedct_us
+alteration in comfort: pain,class_1,snomedct_us
+postpartum episiotomy pain,class_1,snomedct_us
+absence of pain,class_1,snomedct_us
+variation of pain,class_1,snomedct_us
+pain management department,class_1,snomedct_us
+pain in female genitalia,class_1,snomedct_us
+central pain syndrome,class_1,snomedct_us
+pain in right hip joint,class_1,snomedct_us
+bilateral chronic pain of feet,class_1,snomedct_us
+recurrent acute abdominal pain,class_1,snomedct_us
+wong-baker faces pain assessment scale,class_1,snomedct_us
+anterior pleuritic pain,class_1,snomedct_us
+pain due to shoulder joint prosthesis,class_1,snomedct_us
+mild pain,class_1,snomedct_us
+pain relief by medication,class_1,snomedct_us
+tissue pain,class_1,snomedct_us
+difficulty coping with pain,class_1,snomedct_us
+pain control education,class_1,snomedct_us
+complex regional pain syndrome type i of right upper limb,class_1,snomedct_us
+complex regional pain syndrome of hand,class_1,snomedct_us
+microvascular angina,class_1,snomedct_us
+periorbital pain of left eye,class_1,snomedct_us
+no abdominal pain,class_1,snomedct_us
+pain radiating to left shoulder,class_1,snomedct_us
+very mild pain,class_1,snomedct_us
+chronic peripheral neuropathic pain,class_1,snomedct_us
+anal pain,class_1,snomedct_us
+pain of head and neck region,class_1,snomedct_us
+pelvic congestion syndrome,class_1,snomedct_us
+headache,class_1,snomedct_us
+chronic pain following right total knee arthroplasty,class_1,snomedct_us
+pain of bilateral hands,class_1,snomedct_us
+assessment using dallas pain questionnaire,class_1,snomedct_us
+"pain, splitting",class_1,snomedct_us
+seen by pain management specialist,class_1,snomedct_us
+bilateral calf pain,class_1,snomedct_us
+pain radiating to right arm,class_1,snomedct_us
+abdominal wall pain,class_1,snomedct_us
+bilateral pain in upper arms,class_1,snomedct_us
+acute pain of joint of knee,class_1,snomedct_us
+pain-relief static magnet,class_1,snomedct_us
+bilateral hip joint pain,class_1,snomedct_us
+chronic pain control,class_1,snomedct_us
+pain of left shoulder joint,class_1,snomedct_us
+ureteric pain,class_1,snomedct_us
+beliefs about pain control questionnaire,class_1,snomedct_us
+bilateral temporomandibular joint pain dysfunction syndrome,class_1,snomedct_us
+crymodynia,class_1,snomedct_us
+appendicular pain,class_1,snomedct_us
+pain in male pelvis,class_1,snomedct_us
+demonstrates adequate pain control with oral analgesics,class_1,snomedct_us
+chronic pain of left foot,class_1,snomedct_us
+pain in femur,class_1,snomedct_us
+left hypochondrial pain,class_1,snomedct_us
+pain of bilateral eyes,class_1,snomedct_us
+pain due to internal prosthetic device,class_1,snomedct_us
+urethral meatal pain,class_1,snomedct_us
+under care of pain management nurse,class_1,snomedct_us
+chronic pain in male pelvis,class_1,snomedct_us
+short form mcgill pain questionnaire,class_1,snomedct_us
+dyspareunia (female),class_1,snomedct_us
+pain in urethra,class_1,snomedct_us
+pain in limb,class_1,snomedct_us
+admission by pain management specialist,class_1,snomedct_us
+implementation of alternative methods of pain control,class_1,snomedct_us
+referral to pain management nurse,class_1,snomedct_us
+acromioclavicular joint pain,class_1,snomedct_us
+persistent wound pain,class_1,snomedct_us
+bilateral pain of shoulder blades,class_1,snomedct_us
+pain of sternum,class_1,snomedct_us
+identification of attitude toward pain,class_1,snomedct_us
+diurnal variation of pain,class_1,snomedct_us
+bilateral ankle joint pain,class_1,snomedct_us
+sternoclavicular joint pain,class_1,snomedct_us
+acute postthoracotomy pain syndrome,class_1,snomedct_us
+time from onset of pain to administration of thrombolytic agent,class_1,snomedct_us
+left temporomandibular joint pain dysfunction syndrome,class_1,snomedct_us
+pain management education of caregiver,class_1,snomedct_us
+family education about pain management,class_1,snomedct_us
+sympathetically independent pain,class_1,snomedct_us
+refer to pain clinic,class_1,snomedct_us
+finding of pain of uterine contraction,class_1,snomedct_us
+pain in finger,class_1,snomedct_us
+sacral back pain,class_1,snomedct_us
+pain in symphysis pubis in pregnancy,class_1,snomedct_us
+hallucinations of pain,class_1,snomedct_us
+assessment using manchester foot pain and disability index,class_1,snomedct_us
+pain of left calf,class_1,snomedct_us
+postoperative abdominal pain,class_1,snomedct_us
+finding of sensory dimension of pain,class_1,snomedct_us
+acute pelvic pain,class_1,snomedct_us
+narcotic addiction medicine specialty with chronic pain management,class_1,snomedct_us
+pain management education,class_1,snomedct_us
+thigh pain,class_1,snomedct_us
+phantom limb syndrome with pain,class_1,snomedct_us
+chronic pain control management,class_1,snomedct_us
+pulpalgia,class_1,snomedct_us
+acute pain control education,class_1,snomedct_us
+chronic musculoskeletal pain due to disease of nervous system,class_1,snomedct_us
+myofascial pain syndrome of lumbar spine,class_1,snomedct_us
+neuropathic pain,class_1,snomedct_us
+post-surgery back pain,class_1,snomedct_us
+colicky hypogastric pain,class_1,snomedct_us
+pain in cervical spine,class_1,snomedct_us
+pain in area of anesthesia,class_1,snomedct_us
+toothache,class_1,snomedct_us
+perineal pain,class_1,snomedct_us
+no pain in liver,class_1,snomedct_us
+loin pain,class_1,snomedct_us
+pain in toe,class_1,snomedct_us
+admission to pain management department,class_1,snomedct_us
+chronic pain syndrome,class_1,snomedct_us
+evaluation of psychosocial response to instruction about pain,class_1,snomedct_us
+autosomal dominant intermediate charcot-marie-tooth disease with neuropathic pain,class_1,snomedct_us
+chronic neck pain,class_1,snomedct_us
+bilateral amputation stump pain of upper limbs,class_1,snomedct_us
+epididymal pain,class_1,snomedct_us
+generalized colicky abdominal pain,class_1,snomedct_us
+wound pain,class_1,snomedct_us
+sore to touch,class_1,snomedct_us
+distal interphalangeal joint of finger pain,class_1,snomedct_us
+non-cyclic pelvic pain,class_1,snomedct_us
+london hospital pain chart assessment,class_1,snomedct_us
+pain perception,class_1,snomedct_us
+post-thoracotomy pain syndrome,class_1,snomedct_us
+drilling quality pain,class_1,snomedct_us
+pain level: psychological effects,class_1,snomedct_us
+acute pain of scrotum,class_1,snomedct_us
+chronic nociceptive pain,class_1,snomedct_us
+eye pain,class_1,snomedct_us
+chronic back pain greater than three months duration,class_1,snomedct_us
+dallas pain questionnaire,class_1,snomedct_us
+generalized acute body pains,class_1,snomedct_us
+pain of left lower limb co-occurrent and due to ischemia,class_1,snomedct_us
+pleuritic pain,class_1,snomedct_us
+pelvic girdle pain,class_1,snomedct_us
+referral to chronic pain management service,class_1,snomedct_us
+pain of left knee joint,class_1,snomedct_us
+right flank pain,class_1,snomedct_us
+pain provoked by lifting,class_1,snomedct_us
+pain of bilateral sternoclavicular joints,class_1,snomedct_us
+shoulder pain,class_1,snomedct_us
+pain in axilla,class_1,snomedct_us
+pain in scrotum,class_1,snomedct_us
+pain-relief phototherapy skin patch,class_1,snomedct_us
+pain in spine,class_1,snomedct_us
+"complex regional pain syndrome, type ii, lower limb",class_1,snomedct_us
+sickening with pain,class_1,snomedct_us
+pain due to enlargement of spleen,class_1,snomedct_us
+burning epigastric pain,class_1,snomedct_us
+lumbar discogenic pain,class_1,snomedct_us
+pain management service,class_1,snomedct_us
+sharp pain,class_1,snomedct_us
+acute pain control assessment,class_1,snomedct_us
+chronic ankle pain,class_1,snomedct_us
+posterior heel pain,class_1,snomedct_us
+chronic pain following left total hip arthroplasty,class_1,snomedct_us
+pseudothalamic pain,class_1,snomedct_us
+acute pain control,class_1,snomedct_us
+retrosternal pain,class_1,snomedct_us
+pain in finger of right hand,class_1,snomedct_us
+nonspecific abdominal pain,class_1,snomedct_us
+arc of pain in joint,class_1,snomedct_us
+identification of cultural and value components related to pain management,class_1,snomedct_us
+pain control,class_1,snomedct_us
+loin pain-hematuria syndrome,class_1,snomedct_us
+prostatitis category iii (national institute of health classification),class_1,snomedct_us
+deficient knowledge of pain management,class_1,snomedct_us
+neck pain aggravated by recumbency,class_1,snomedct_us
+pain of endocrine structure,class_1,snomedct_us
+myofascial pain syndrome of thorax,class_1,snomedct_us
+labor and delivery non-medicinal pain relief plan,class_1,snomedct_us
+high tolerance of pain,class_1,snomedct_us
+referral by pain management specialist,class_1,snomedct_us
+pain from tissue expander,class_1,snomedct_us
+stabbing pain,class_1,snomedct_us
+application site pain,class_1,snomedct_us
+pain on movement of ovary,class_1,snomedct_us
+acute thoracic back pain,class_1,snomedct_us
+inguinal pain,class_1,snomedct_us
+phantom pain,class_1,snomedct_us
+history of chest pain,class_1,snomedct_us
+midabdominal crampy pain,class_1,snomedct_us
+orofacial pain management specialty,class_1,snomedct_us
+demonstrates adequate pain control without oral analgesics,class_1,snomedct_us
+pain on movement of pinna,class_1,snomedct_us
+localized pain,class_1,snomedct_us
+bilateral pain of inguinal region,class_1,snomedct_us
+hsan type iv,class_1,snomedct_us
+pain severity,class_1,snomedct_us
+pain provoked by eating,class_1,snomedct_us
+ankle pain,class_1,snomedct_us
+left upper quadrant pain,class_1,snomedct_us
+renal pain,class_1,snomedct_us
+chest pain on exertion,class_1,snomedct_us
+pain self-efficacy questionnaire,class_1,snomedct_us
+no pain in abdominal region on palpation,class_1,snomedct_us
+pain of right ankle joint,class_1,snomedct_us
+inflammatory pain,class_1,snomedct_us
+pelvic and perineal pain,class_1,snomedct_us
+pain of lymph node,class_1,snomedct_us
+pain on movement of uterus,class_1,snomedct_us
+pain / sensation finding,class_1,snomedct_us
+acute pain following mastectomy,class_1,snomedct_us
+axis pressure pain,class_1,snomedct_us
+pain relief by rest,class_1,snomedct_us
+pain relief related to position,class_1,snomedct_us
+pain in left lower limb,class_1,snomedct_us
+atypical chest pain,class_1,snomedct_us
+type of abdominal pain,class_1,snomedct_us
+pain in right arm,class_1,snomedct_us
+pain character,class_1,snomedct_us
+complex regional pain syndrome type 2 of bilateral lower limbs,class_1,snomedct_us
+cervical facet joint pain,class_1,snomedct_us
+examination of pain sensation,class_1,snomedct_us
+talonavicular joint pain,class_1,snomedct_us
+polyarthralgia,class_1,snomedct_us
+complex regional pain syndrome type ii of left upper limb,class_1,snomedct_us
+pain control nurse,class_1,snomedct_us
+rib pain,class_1,snomedct_us
+assessment using pain catastrophizing scale,class_1,snomedct_us
+mastodynia of bilateral breasts,class_1,snomedct_us
+manchester foot pain and disability index score,class_1,snomedct_us
+bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis,class_1,snomedct_us
+adult chronic pain management specialty,class_1,snomedct_us
+phantom pain following excision of eye,class_1,snomedct_us
+pain threshold - finding,class_1,snomedct_us
+chronic female pelvic pain syndrome,class_1,snomedct_us
+suxamethonium pains,class_1,snomedct_us
+pain onset at rest,class_1,snomedct_us
+pain of skin,class_1,snomedct_us
+complex regional pain syndrome of foot,class_1,snomedct_us
+pain at rest of right lower limb co-occurrent and due to atherosclerosis of bypass graft,class_1,snomedct_us
+documentation of pain medication action plan,class_1,snomedct_us
+spontaneous pain,class_1,snomedct_us
+abdominal pain in pregnancy,class_1,snomedct_us
+pain relief by supine position,class_1,snomedct_us
+prostatic pain,class_1,snomedct_us
+pain in thumb,class_1,snomedct_us
+consultation for acute pain,class_1,snomedct_us
+response to pain finding,class_1,snomedct_us
+pain provoked by movement,class_1,snomedct_us
+pain and sensation symptom findings,class_1,snomedct_us
+able to communicate about pain,class_1,snomedct_us
+discogenic pain,class_1,snomedct_us
+hand joint pain,class_1,snomedct_us
+post-vasectomy epididymal pain,class_1,snomedct_us
+sexual pain disorder,class_1,snomedct_us
+dull chest pain,class_1,snomedct_us
+anal stump pain,class_1,snomedct_us
+brief pain inventory score,class_1,snomedct_us
+pain in fingers of bilateral hands,class_1,snomedct_us
+pain of bilateral thighs,class_1,snomedct_us
+dyschezia,class_1,snomedct_us
+pain / sensation observable,class_1,snomedct_us
+chronic low back pain,class_1,snomedct_us
+fibromyalgia,class_1,snomedct_us
+exquisite pain,class_1,snomedct_us
+pain provoked by walking,class_1,snomedct_us
+facet joint pain,class_1,snomedct_us
+frequency of pain symptom,class_1,snomedct_us
+narcotic addiction service with chronic pain management,class_1,snomedct_us
+pain in left thumb,class_1,snomedct_us
+pain of joint of right lower leg,class_1,snomedct_us
+tenderness of gums,class_1,snomedct_us
+chronic pain,class_1,snomedct_us
+bilateral chronic pain following total hip arthroplasty,class_1,snomedct_us
+pain of right shoulder blade,class_1,snomedct_us
+complex regional pain syndrome type ii of left lower limb,class_1,snomedct_us
+chronic sacroiliac joint pain,class_1,snomedct_us
+bilateral total knee chronic pain following arthroplasty,class_1,snomedct_us
+satisfied with management of pain,class_1,snomedct_us
+referral to pain management specialist,class_1,snomedct_us
+gradual onset of pain,class_1,snomedct_us
+able to understand generalized pain,class_1,snomedct_us
+radicular pain,class_1,snomedct_us
+pain on movement of skeletal muscle,class_1,snomedct_us
+umbilical pain,class_1,snomedct_us
+chronic pain in coccyx for more than three months,class_1,snomedct_us
+assessment of chest pain,class_1,snomedct_us
+freezing pain,class_1,snomedct_us
+acute pain in female pelvis,class_1,snomedct_us
+distressing present pain,class_1,snomedct_us
+excessive sensitivity to pain,class_1,snomedct_us
+pain during labor and delivery,class_1,snomedct_us
+vulvodynia,class_1,snomedct_us
+"low back pain, postural",class_1,snomedct_us
+radiating pain,class_1,snomedct_us
+pain of left breast,class_1,snomedct_us
+pain on movement of skin,class_1,snomedct_us
+pain on penetration,class_1,snomedct_us
+pain provoked by rest,class_1,snomedct_us
+costal margin chest pain,class_1,snomedct_us
+abdominal colic,class_1,snomedct_us
+shoulder joint pain,class_1,snomedct_us
+pain of truncal structure,class_1,snomedct_us
+pain provoked by allergen,class_1,snomedct_us
+right sided chest pain,class_1,snomedct_us
+period pain absent,class_1,snomedct_us
+after pains,class_1,snomedct_us
+pain management,class_1,snomedct_us
+severe pain,class_1,snomedct_us
+angina decubitus,class_1,snomedct_us
+pain radiating to left arm,class_1,snomedct_us
+pain threshold,class_1,snomedct_us
+pain of right elbow joint,class_1,snomedct_us
+bilateral foot joint pain,class_1,snomedct_us
+chronic pain following left total knee arthroplasty,class_1,snomedct_us
+able to cope with pain,class_1,snomedct_us
+total body pain syndrome,class_1,snomedct_us
+horrible present pain,class_1,snomedct_us
+pain in round ligament in pregnancy,class_1,snomedct_us
+able to manage generalized pain,class_1,snomedct_us
+chest pain not present,class_1,snomedct_us
+chest pain at rest,class_1,snomedct_us
+rebound tenderness,class_1,snomedct_us
+pain of right acromioclavicular joint,class_1,snomedct_us
+pain radiating to left leg,class_1,snomedct_us
+able to recognize generalized pain,class_1,snomedct_us
+pain intensity rating scale,class_1,snomedct_us
+ischemic foot pain when walking,class_1,snomedct_us
+chronic nonspecific abdominal pain,class_1,snomedct_us
+chronic urinary bladder pain,class_1,snomedct_us
+pediatric chronic pain management service,class_1,snomedct_us
+bilateral elbow joint pain,class_1,snomedct_us
+acute low back pain,class_1,snomedct_us
+implementation of pain guidelines,class_1,snomedct_us
+finding related to ability to cope with pain,class_1,snomedct_us
+pain in right abdominal lumbar region,class_1,snomedct_us
+rectal pain,class_1,snomedct_us
+bone pain,class_1,snomedct_us
+low tolerance of pain,class_1,snomedct_us
+myalgia,class_1,snomedct_us
+pain catastrophizing scale score,class_1,snomedct_us
+hand pain,class_1,snomedct_us
+pain due to knee joint prosthesis,class_1,snomedct_us
+pain of uterus,class_1,snomedct_us
+demonstrates adequate pain control,class_1,snomedct_us
+pain relief by antacid,class_1,snomedct_us
+post-abdominoperineal resection pain,class_1,snomedct_us
+pain of left shoulder blade,class_1,snomedct_us
+chronic pain of left upper limb,class_1,snomedct_us
+knowledge level about pain management,class_1,snomedct_us
+arthralgia,class_1,snomedct_us
+right hypochondrial pain,class_1,snomedct_us
+pain score,class_1,snomedct_us
+pain observable,class_1,snomedct_us
+characteristics of pain of truncal structure,class_1,snomedct_us
+chronic pain due to injury,class_1,snomedct_us
+chronic intractable pain,class_1,snomedct_us
+bilateral testicular pain,class_1,snomedct_us
+"postoperative pain, acute",class_1,snomedct_us
+ipecac emesis administration and observation,class_2,snomedct_us
+functional nausea,class_2,snomedct_us
+syndromic congenital sodium diarrhea,class_2,snomedct_us
+postoperative nausea and vomiting,class_2,snomedct_us
+diarrhea due to staphylococcus,class_2,snomedct_us
+trichohepatoenteric syndrome,class_2,snomedct_us
+drug-induced nausea and vomiting,class_2,snomedct_us
+dehydration of tissue specimen,class_2,snomedct_us
+psychogenic diarrhea,class_2,snomedct_us
+chronic diarrhea of infants and/or young children,class_2,snomedct_us
+nausea and vomiting following administration of anesthetic agent,class_2,snomedct_us
+vomiting in infants and/or children,class_2,snomedct_us
+inflammatory diarrhea,class_2,snomedct_us
+mild dehydration,class_2,snomedct_us
+bilious vomiting of newborn,class_2,snomedct_us
+diarrhea due to drug,class_2,snomedct_us
+nausea care,class_2,snomedct_us
+vomiting fecal matter,class_2,snomedct_us
+history of severe nausea and vomiting following administration of anesthetic agent,class_2,snomedct_us
+persistent vomiting,class_2,snomedct_us
+neonatal diarrhea,class_2,snomedct_us
+pattern of overeating and vomiting,class_2,snomedct_us
+erotic vomiting,class_2,snomedct_us
+osmotic diarrhea,class_2,snomedct_us
+xerostomia due to dehydration,class_2,snomedct_us
+moderate dehydration,class_2,snomedct_us
+at risk of dehydration,class_2,snomedct_us
+glycerol dehydration test,class_2,snomedct_us
+allergic diarrhea,class_2,snomedct_us
+toddler diarrhea,class_2,snomedct_us
+dysentery,class_2,snomedct_us
+hemorrhagic diarrhea,class_2,snomedct_us
+clostridium difficile diarrhea,class_2,snomedct_us
+absence of nausea and vomiting,class_2,snomedct_us
+neonatal dehydration,class_2,snomedct_us
+accident due to lack of water,class_2,snomedct_us
+"diarrhea 4, malabsorptive, congenital",class_2,snomedct_us
+diarrheal disorder,class_2,snomedct_us
+purpura due to prolonged vomiting and/or coughing,class_2,snomedct_us
+loss of abdominal skin turgor,class_2,snomedct_us
+at risk of diarrhea,class_2,snomedct_us
+vomiting associated with other psychological disturbances,class_2,snomedct_us
+vomiting bile,class_2,snomedct_us
+spurious diarrhea - overflow,class_2,snomedct_us
+coffee ground vomiting,class_2,snomedct_us
+hyperalimentation formula for severe diarrhea,class_2,snomedct_us
+malnutrition-dehydration cataract,class_2,snomedct_us
+"infantile erythroderma, failure to thrive and diarrhea syndrome",class_2,snomedct_us
+irritable bowel syndrome variant of childhood with diarrhea,class_2,snomedct_us
+hiv enteropathy,class_2,snomedct_us
+functional diarrhea,class_2,snomedct_us
+diarrhea,class_2,snomedct_us
+education about dehydration,class_2,snomedct_us
+emesis basin,class_2,snomedct_us
+nausea and vomiting status: disruptive effects,class_2,snomedct_us
+vomiting in newborn,class_2,snomedct_us
+vomiting food,class_2,snomedct_us
+level of nausea,class_2,snomedct_us
+chronic vomiting,class_2,snomedct_us
+epidemic vomiting syndrome,class_2,snomedct_us
+dysenteric diarrhea,class_2,snomedct_us
+raw-milk associated diarrhea,class_2,snomedct_us
+vomiting co-occurrent and due to infectious disease,class_2,snomedct_us
+chronic diarrhea with villous atrophy syndrome,class_2,snomedct_us
+defecation reflex - spurious diarrhea,class_2,snomedct_us
+irritable bowel syndrome with diarrhea,class_2,snomedct_us
+"bovine diarrhea virus, type 1",class_2,snomedct_us
+hypertension and/or vomiting complicating pregnancy childbirth and/or puerperium,class_2,snomedct_us
+cyclical vomiting syndrome,class_2,snomedct_us
+isonatremic dehydration,class_2,snomedct_us
+hypokalemic alkalosis due to diarrhea,class_2,snomedct_us
+assessment of nausea,class_2,snomedct_us
+dehydration due to radiation,class_2,snomedct_us
+viral gastroenteritis,class_2,snomedct_us
+diarrhea due to laxative abuse,class_2,snomedct_us
+hyperemesis gravidarum,class_2,snomedct_us
+"vomiting, postoperative",class_2,snomedct_us
+dehydration fever in newborn,class_2,snomedct_us
+diarrhea care management,class_2,snomedct_us
+vomiting due to organic disease during pregnancy,class_2,snomedct_us
+infantile diarrhea,class_2,snomedct_us
+anxiety about vomiting in public,class_2,snomedct_us
+congenital secretory diarrhea,class_2,snomedct_us
+carcinoid syndrome diarrhea,class_2,snomedct_us
+emesis bag,class_2,snomedct_us
+erosion of teeth due to persistent vomiting,class_2,snomedct_us
+chronic diarrhea due to glucoamylase deficiency,class_2,snomedct_us
+diarrhea and vomiting after gastrointestinal tract surgery,class_2,snomedct_us
+hematemesis,class_2,snomedct_us
+no vomiting,class_2,snomedct_us
+management of dehydration,class_2,snomedct_us
+dehydration,class_2,snomedct_us
+antibiotic-associated diarrhea,class_2,snomedct_us
+diarrhea care education,class_2,snomedct_us
+assessment of risk for dehydration,class_2,snomedct_us
+acute diarrhea,class_2,snomedct_us
+rapadilino syndrome,class_2,snomedct_us
+"congenital secretory diarrhea, sodium type (disorder)",class_2,snomedct_us
+severe dehydration,class_2,snomedct_us
+epidemic diarrhea,class_2,snomedct_us
+tendency to nausea and vomiting,class_2,snomedct_us
+diarrhea care,class_2,snomedct_us
+enteric campylobacteriosis,class_2,snomedct_us
+chronic constipation with overflow,class_2,snomedct_us
+"vertigo, acute onset with vomiting and inability to stand",class_2,snomedct_us
+non-infective diarrhea,class_2,snomedct_us
+postoperative nausea,class_2,snomedct_us
+secretory diarrhea,class_2,snomedct_us
+diarrhea of presumed infectious origin,class_2,snomedct_us
+insulin-dependent diabetes mellitus secretory diarrhea syndrome,class_2,snomedct_us
+effortless vomiting,class_2,snomedct_us
+vomiting blood - fresh,class_2,snomedct_us
+prototheca diarrhea,class_2,snomedct_us
+dehydration following exertion,class_2,snomedct_us
+congenital chronic diarrhea with protein-losing enteropathy,class_2,snomedct_us
+vomiting after gastrointestinal tract surgery,class_2,snomedct_us
+jamaican vomiting sickness,class_2,snomedct_us
+nebraska calf diarrhea virus,class_2,snomedct_us
+psychogenic cyclical vomiting,class_2,snomedct_us
+psychogenic vomiting,class_2,snomedct_us
+radiation-induced nausea and vomiting,class_2,snomedct_us
+acute vomiting,class_2,snomedct_us
+diarrhea care assessment,class_2,snomedct_us
+vomiting of pregnancy,class_2,snomedct_us
+dietetic diarrhea,class_2,snomedct_us
+nausea and vomiting control behavior,class_2,snomedct_us
+increased nausea and vomiting,class_2,snomedct_us
+vomiting during third trimester of pregnancy,class_2,snomedct_us
+diarrhea-associated hemolytic uremic syndrome,class_2,snomedct_us
+brainerd diarrhea,class_2,snomedct_us
+nervous diarrhea,class_2,snomedct_us
+no dehydration,class_2,snomedct_us
+functional vomiting in childhood,class_2,snomedct_us
+decreased nausea and vomiting,class_2,snomedct_us
+non-infective neonatal diarrhea,class_2,snomedct_us
+concealed vomiting,class_2,snomedct_us
+intermittent vomiting,class_2,snomedct_us
+radiation sickness,class_2,snomedct_us
+repeated self-induced vomiting,class_2,snomedct_us
+constipation alternates with diarrhea,class_2,snomedct_us
+chronic infantile diarrhea due to guanylate cyclase 2c overactivity,class_2,snomedct_us
+no nausea,class_2,snomedct_us
+vomiting,class_2,snomedct_us
+projectile vomiting,class_2,snomedct_us
+intractable cyclical vomiting syndrome,class_2,snomedct_us
+"bovine diarrhea virus, type 2",class_2,snomedct_us
+hollow visceral neuropathy,class_2,snomedct_us
+habit vomiting,class_2,snomedct_us
+postcholecystectomy diarrhea,class_2,snomedct_us
+able to communicate about nausea,class_2,snomedct_us
+vomiting without nausea,class_2,snomedct_us
+nausea care management,class_2,snomedct_us
+hyperemesis gravidarum before end of 22 week gestation with dehydration,class_2,snomedct_us
+diarrhea-negative hemolytic uremic syndrome,class_2,snomedct_us
+nausea care education,class_2,snomedct_us
+intractable nausea and vomiting,class_2,snomedct_us
+sensation as if diarrhea will start,class_2,snomedct_us
+fear of vomiting in public,class_2,snomedct_us
+congenital chloride diarrhea,class_2,snomedct_us
+post-vagotomy syndrome,class_2,snomedct_us
+morning nausea,class_2,snomedct_us
+severe diarrhea,class_2,snomedct_us
+"nausea, vomiting and diarrhea",class_2,snomedct_us
+prion protein systemic amyloidosis,class_2,snomedct_us
+at risk of vomiting,class_2,snomedct_us
+nausea present,class_2,snomedct_us
+bilious vomiting following gastrointestinal surgery,class_2,snomedct_us
+anti-diarrhea mucosal barrier,class_2,snomedct_us
+self-induced vomiting to lose weight (disorder),class_2,snomedct_us
+protracted diarrhea,class_2,snomedct_us
+chronic diarrhea,class_2,snomedct_us
+dehydration monitoring,class_2,snomedct_us
+nausea and vomiting,class_2,snomedct_us
+porcine epidemic diarrhea virus,class_2,snomedct_us
+diarrhea in pregnancy,class_2,snomedct_us
+"diarrhea and vomiting, symptom",class_2,snomedct_us
+russell's sign,class_2,snomedct_us
+nausea,class_2,snomedct_us
+hypernatremic dehydration,class_2,snomedct_us
+diarrhea not present,class_2,snomedct_us
+alteration in bowel elimination: diarrhea,class_2,snomedct_us
+chemotherapy-induced nausea and vomiting,class_2,snomedct_us
+intractable diarrhea with choanal atresia and eye anomaly syndrome,class_2,snomedct_us
+induction of emesis,class_2,snomedct_us
+diarrhea due to alcohol intake,class_2,snomedct_us
+morning vomiting,class_2,snomedct_us
+nausea and vomiting status,class_2,snomedct_us
+nausea care assessment,class_2,snomedct_us
+post-tussive vomiting,class_2,snomedct_us
+traveler's diarrhea,class_2,snomedct_us
+provision of emesis basin,class_2,snomedct_us
+chronic diarrhea of unknown origin,class_2,snomedct_us
+bovine viral diarrhea viruses,class_2,snomedct_us
+diarrhea after gastrointestinal tract surgery,class_2,snomedct_us
+self-induced vomiting,class_2,snomedct_us
+vomiting management,class_2,snomedct_us
+diarrhea due to ingestion of unabsorbable substances,class_2,snomedct_us
+"bovine diarrhea virus, noncytopathic strain",class_2,snomedct_us
+postprandial diarrhea,class_2,snomedct_us
+anemia caused by antineoplastic agent,class_3,snomedct_us
+acute megaloblastic anemia due to dialysis,class_3,snomedct_us
+pulmonary arterial hypertension associated with chronic hemolytic anemia,class_3,snomedct_us
+acute megaloblastic anemia secondary to total parenteral nutrition,class_3,snomedct_us
+autoimmune hemolytic anemia due to igg,class_3,snomedct_us
+revesz syndrome (disorder),class_3,snomedct_us
+history of anemia vitamin b12 deficient,class_3,snomedct_us
+"anemia, hemolytic, congenital",class_3,snomedct_us
+hapten type low affinity hemolytic anemia,class_3,snomedct_us
+autoimmune hemolytic anemia mixed type,class_3,snomedct_us
+hemolytic anemia due to glyceraldehyde-3-phosphate dehydrogenase deficiency,class_3,snomedct_us
+x-linked sideroblastic anemia,class_3,snomedct_us
+macrocytosis - no anemia,class_3,snomedct_us
+acute megaloblastic anemia,class_3,snomedct_us
+"folate deficiency anemia, drug-induced",class_3,snomedct_us
+autosomal recessive sideroblastic anemia,class_3,snomedct_us
+megaloblastic anemia due to inborn errors of metabolism,class_3,snomedct_us
+anemia in the puerperium - baby delivered during previous episode of care,class_3,snomedct_us
+congenital folate malabsorption anemia,class_3,snomedct_us
+constitutional aplastic anemia,class_3,snomedct_us
+anemia due to alloimmune destruction of transfused red cells,class_3,snomedct_us
+hemolytic anemia due to vascular prosthesis,class_3,snomedct_us
+refractory megaloblastic anemia,class_3,snomedct_us
+transient hypoplastic anemia,class_3,snomedct_us
+megaloblastic anemia due to decreased intake of vitamin b>12<,class_3,snomedct_us
+"anemia, sickle cell",class_3,snomedct_us
+aplastic anemia due to infection,class_3,snomedct_us
+restless leg syndrome due to iron deficiency anemia,class_3,snomedct_us
+anemia due to metabolic disorder,class_3,snomedct_us
+x chromosome-linked pyridoxine responsive sideroblastic anemia,class_3,snomedct_us
+hemoglobin sd disease,class_3,snomedct_us
+hemolytic anemia due to hyperbaric oxygen,class_3,snomedct_us
+anemia of thyroid dysfunction,class_3,snomedct_us
+pyridoxine-responsive sideroblastic anemia,class_3,snomedct_us
+mitochondrial myopathy and sideroblastic anemia,class_3,snomedct_us
+sickle cell anemia with coexistent alpha-thalassemia,class_3,snomedct_us
+folate deficiency anemia due to malabsorption,class_3,snomedct_us
+anemia due to infection,class_3,snomedct_us
+megaloblastic anemia due to chronic hemolytic anemia,class_3,snomedct_us
+hnsha due to pyrimidine-5'-nucleotidase deficiency,class_3,snomedct_us
+aplastic anemia with aids (acquired immunodeficiency syndrome),class_3,snomedct_us
+megaloblastic anemia due to vitamin b12 deficiency secondary to intestinal disease,class_3,snomedct_us
+intracorpuscular hemolytic anemia,class_3,snomedct_us
+vitamin b12 deficiency anemia caused by drug,class_3,snomedct_us
+dimorphic anemia,class_3,snomedct_us
+late anemia of newborn due to isoimmunization,class_3,snomedct_us
+mechanical hemolytic anemia,class_3,snomedct_us
+"congenital dyserythropoietic anemia, type iii",class_3,snomedct_us
+anemia of gonadal dysfunction,class_3,snomedct_us
+anemia of pregnancy,class_3,snomedct_us
+"aplastic anemia, idiopathic",class_3,snomedct_us
+anemia secondary to renal failure,class_3,snomedct_us
+iron-refractory iron deficiency anemia,class_3,snomedct_us
+toxic aplastic anemia,class_3,snomedct_us
+history of fanconi anemia,class_3,snomedct_us
+aplastic anemia associated with pregnancy,class_3,snomedct_us
+congenital dyserythropoietic anemia type iv,class_3,snomedct_us
+hnsha due to hexokinase deficiency,class_3,snomedct_us
+cold hemagglutinin disease,class_3,snomedct_us
+history of hemolytic anemia,class_3,snomedct_us
+anemia co-occurrent and due to chronic kidney disease stage 3,class_3,snomedct_us
+normocytic hypochromic anemia,class_3,snomedct_us
+"autoimmune hemolytic anemia, categorized by antibody class and/or complement",class_3,snomedct_us
+megaloblastic anemia due to folate deficiency in pregnancy and lactation,class_3,snomedct_us
+myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia,class_3,snomedct_us
+anemia of chronic renal failure,class_3,snomedct_us
+hereditary iron deficiency anemia,class_3,snomedct_us
+iron deficiency anemia secondary to chronic blood loss,class_3,snomedct_us
+megaloblastic anemia due to dietary causes,class_3,snomedct_us
+iron deficiency anemia due to blood loss,class_3,snomedct_us
+alcohol-related sideroblastic anemia,class_3,snomedct_us
+megaloblastic anemia due to tropical sprue,class_3,snomedct_us
+vitamin b12 deficiency anemia due to malabsorption with proteinuria,class_3,snomedct_us
+hemolytic anemia due to triose phosphate isomerase deficiency,class_3,snomedct_us
+deficiency anemias,class_3,snomedct_us
+congenital dyserythropoietic anemia,class_3,snomedct_us
+hemolytic anemia due to hexokinase deficiency,class_3,snomedct_us
+constitutional aplastic anemia with malformation,class_3,snomedct_us
+autoimmune hemolytic anemia due to igg plus complement,class_3,snomedct_us
+"anemia, megaloblastic",class_3,snomedct_us
+anemia in malignant neoplastic disease,class_3,snomedct_us
+toxic hemolytic anemia,class_3,snomedct_us
+megaloblastic anemia due to folate deficiency due to increased requirement,class_3,snomedct_us
+hemoglobinopathy toms river,class_3,snomedct_us
+drug-induced non autoimmune hemolytic anemia,class_3,snomedct_us
+iron deficiency anemia in mother complicating childbirth,class_3,snomedct_us
+unstable hemoglobin disease,class_3,snomedct_us
+autoimmune hemolytic anemia,class_3,snomedct_us
+"anemia in mother complicating pregnancy, childbirth and/or puerperium",class_3,snomedct_us
+hnsha due to decreased adenosine deaminase activity,class_3,snomedct_us
+hnsha due to glutathione reductase deficiency,class_3,snomedct_us
+traumatic cardiac hemolytic anemia,class_3,snomedct_us
+autosomal dominant aplasia and myelodysplasia,class_3,snomedct_us
+anemia in end stage renal disease,class_3,snomedct_us
+anemia due to disorders of nucleotide metabolism,class_3,snomedct_us
+megaloblastic anemia due to error of cobalamin metabolism,class_3,snomedct_us
+anemia following acute postoperative blood loss,class_3,snomedct_us
+anemia due to protein deficiency,class_3,snomedct_us
+hemolytic anemia due to red cell enolase deficiency,class_3,snomedct_us
+autoimmune hemolytic anemia due to igm,class_3,snomedct_us
+vitamin b12 deficiency anemia,class_3,snomedct_us
+megaloblastic anemia due to pregnancy,class_3,snomedct_us
+megaloblastic anemia due to zollinger-ellison syndrome,class_3,snomedct_us
+vitamin b12 measurement,class_3,snomedct_us
+drug-induced hemolytic anemia,class_3,snomedct_us
+hypochromic anemia,class_3,snomedct_us
+chronic idiopathic autoimmune hemolytic anemia,class_3,snomedct_us
+folate deficiency anemia due to liver disorders,class_3,snomedct_us
+secondary warm autoimmune hemolytic anemia,class_3,snomedct_us
+refractory sideroblastic anemia,class_3,snomedct_us
+"congenital sideroblastic anemia, b-cell immunodeficiency, periodic fever, developmental delay syndrome",class_3,snomedct_us
+primary (idiopathic) autoimmune hemolytic anemia,class_3,snomedct_us
+"drug-induced immune hemolytic anemia, hapten type",class_3,snomedct_us
+anemia due to lead,class_3,snomedct_us
+refractory anemias,class_3,snomedct_us
+sports anemia,class_3,snomedct_us
+no anemia present,class_3,snomedct_us
+chicken anemia virus antibody,class_3,snomedct_us
+acquired thiamine deficiency anemia,class_3,snomedct_us
+megaloblastic anemia due to alcoholism,class_3,snomedct_us
+hapten type high affinity hemolytic anemia,class_3,snomedct_us
+refractory anemia without sideroblasts,class_3,snomedct_us
+donath-landsteiner hemolytic anemia,class_3,snomedct_us
+non megaloblastic anemia due to alcoholism,class_3,snomedct_us
+history of autoimmune hemolytic anemia,class_3,snomedct_us
+cooley's anemia,class_3,snomedct_us
+anemia due to medication,class_3,snomedct_us
+folate deficiency anemia due to dietary causes,class_3,snomedct_us
+late anemia due to isoimmunization,class_3,snomedct_us
+sickle cell anemia with high hemoglobin f,class_3,snomedct_us
+congenital nonspherocytic hemolytic anemia due to inborn error of metabolism,class_3,snomedct_us
+erythropoietin resistance in anemia of chronic kidney disease,class_3,snomedct_us
+aplastic anemia caused by antineoplastic agent,class_3,snomedct_us
+hereditary spherocytosis,class_3,snomedct_us
+history of sickle cell anemia,class_3,snomedct_us
+non-autoimmune hemolytic anemia,class_3,snomedct_us
+hnsha due to nadh diaphorase deficiency,class_3,snomedct_us
+drug-induced enzyme deficiency anemia,class_3,snomedct_us
+physiological anemia of infancy,class_3,snomedct_us
+secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,class_3,snomedct_us
+anemia due to multiple mechanisms,class_3,snomedct_us
+"infectious anemia virus, equine",class_3,snomedct_us
+hemolytic anemia due to glutathione metabolism disorder,class_3,snomedct_us
+combined deficiency anemia,class_3,snomedct_us
+anemia during pregnancy - baby not yet delivered,class_3,snomedct_us
+congenital megaloblastic anemia due to transcobalamin ii deficiency,class_3,snomedct_us
+hemoglobin sc disease,class_3,snomedct_us
+"anemia, pre-end stage renal disease on erythropoietin protocol",class_3,snomedct_us
+fh: anemia,class_3,snomedct_us
+anemia of parathyroid dysfunction,class_3,snomedct_us
+secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis,class_3,snomedct_us
+acquired iron deficiency anemia due to increased iron requirement,class_3,snomedct_us
+"anemia, macrocytic",class_3,snomedct_us
+anemia due to riboflavin deficiency,class_3,snomedct_us
+anemia due to pentose phosphate pathway defect,class_3,snomedct_us
+anemia due to substance,class_3,snomedct_us
+autoimmune hemolytic anemia due to iga,class_3,snomedct_us
+anemia due to insect venom,class_3,snomedct_us
+pernicious anemia due to autoimmune disorder,class_3,snomedct_us
+anemia due to disturbance of proliferation and/or differentiation of erythroid precursor cells,class_3,snomedct_us
+aplastic anemia associated with pancreatitis,class_3,snomedct_us
+secondary warm-type hemolytic anemia,class_3,snomedct_us
+idiopathic sideroblastic anemia,class_3,snomedct_us
+secondary autoimmune hemolytic anemia co-occurrent and due to rheumatic disorder,class_3,snomedct_us
+goats' milk anemia,class_3,snomedct_us
+anemia of endocrine disorder,class_3,snomedct_us
+idiopathic hypochromic anemia,class_3,snomedct_us
+neonatal autoimmune hemolytic anemia,class_3,snomedct_us
+anemia in the puerperium - baby delivered during current episode of care,class_3,snomedct_us
+anemia,class_3,snomedct_us
+coombs positive hemolytic anemia,class_3,snomedct_us
+normocytic normochromic anemia,class_3,snomedct_us
+anemia due to diabetes mellitus,class_3,snomedct_us
+hemolytic anemia due to clostridium welchii,class_3,snomedct_us
+g-6-pd class iii variant anemia,class_3,snomedct_us
+hemoglobin s sickling disorder with crisis,class_3,snomedct_us
+normocytic anemia due to aplasia,class_3,snomedct_us
+iron deficiency anemia due to celiac disease,class_3,snomedct_us
+drug-induced autoimmune hemolytic anemia,class_3,snomedct_us
+anemia due to chronic infectious disease,class_3,snomedct_us
+secondary acquired sideroblastic anemia,class_3,snomedct_us
+lubani al saleh teebi syndrome,class_3,snomedct_us
+anemia of pituitary deficiency,class_3,snomedct_us
+anemia due to and following chemotherapy,class_3,snomedct_us
+hnsha due to phosphoglycerate kinase deficiency,class_3,snomedct_us
+glucose-6-phosphate dehydrogenase variant enzyme deficiency anemia,class_3,snomedct_us
+congenital anemia,class_3,snomedct_us
+leukoerythroblastic anemia,class_3,snomedct_us
+glucose-6-phosphate dehydrogenase deficiency anemia,class_3,snomedct_us
+anemia due to unknown mechanism,class_3,snomedct_us
+vitamin b12 deficiency anemia following gastrectomy,class_3,snomedct_us
+primary warm-type hemolytic anemia,class_3,snomedct_us
+vitamin b12 deficiency anemia due to chronic atrophic gastritis,class_3,snomedct_us
+anemia due to mechanical damage,class_3,snomedct_us
+coombs negative hemolytic anemia,class_3,snomedct_us
+anemia due to enzymopathy,class_3,snomedct_us
+vitamin b12 deficiency anemia due to dietary causes,class_3,snomedct_us
+humoral immunologic aplastic anemia,class_3,snomedct_us
+megaloblastic anemia due to increased requirements,class_3,snomedct_us
+lethal hemolytic anemia and genital anomaly syndrome,class_3,snomedct_us
+myelodysplastic syndrome with excess blasts-2,class_3,snomedct_us
+iron deficiency anemia of pregnancy,class_3,snomedct_us
+history of anemia,class_3,snomedct_us
+dilutional anemia,class_3,snomedct_us
+antibody-mediated anemia,class_3,snomedct_us
+x-linked dyserythropoietic anemia with abnormal platelets and neutropenia,class_3,snomedct_us
+secondary cold-type hemolytic anemia,class_3,snomedct_us
+stomatocytic anemia,class_3,snomedct_us
+megaloblastic anemia due to gastrectomy,class_3,snomedct_us
+iron deficiency anemia,class_3,snomedct_us
+"central nervous system calcification, deafness, tubular acidosis, anemia syndrome",class_3,snomedct_us
+chronic acquired pure red cell aplasia,class_3,snomedct_us
+anemia related to disturbed dna synthesis,class_3,snomedct_us
+anemia due to membrane defect,class_3,snomedct_us
+regenerative anemia,class_3,snomedct_us
+perinatal jaundice due to hereditary hemolytic anemia,class_3,snomedct_us
+hereditary folate deficiency anemia,class_3,snomedct_us
+acquired heinz body anemia,class_3,snomedct_us
+megaloblastic anemia due to exfoliative dermatitis,class_3,snomedct_us
+normocytic anemia due to chronic blood loss,class_3,snomedct_us
+"anemia, hemolytic, congenital nonspherocytic",class_3,snomedct_us
+hereditary vitamin b12 deficiency anemia,class_3,snomedct_us
+fetal anemia,class_3,snomedct_us
+anemia due to copper deficiency,class_3,snomedct_us
+hnsha due to phosphofructokinase deficiency,class_3,snomedct_us
+megaloblastic anemia due to pancreatic insufficiency,class_3,snomedct_us
+family history of sickle cell anemia,class_3,snomedct_us
+chronic non-spherocytic hemolytic anemia,class_3,snomedct_us
+von jaksch's anemia,class_3,snomedct_us
+autoimmune hemolytic anemia due to complement,class_3,snomedct_us
+"anemia, hypochromic microcytic, with iron overload",class_3,snomedct_us
+idiopathic autoimmune hemolytic anemia,class_3,snomedct_us
+mycoplasmal anemia,class_3,snomedct_us
+"congenital dyserythropoietic anemia, type ii",class_3,snomedct_us
+iron deficiency anemia due to increased requirement in infancy,class_3,snomedct_us
+at risk for anemia,class_3,snomedct_us
+"congenital dyserythropoietic anemia, type i",class_3,snomedct_us
+"anemia, pernicious",class_3,snomedct_us
+absolute anemia,class_3,snomedct_us
+nonspherocytic hemolytic anemia due to deficiency of adenosinetriphosphatase,class_3,snomedct_us
+hemolytic anemia due to nonlymphoid neoplasm,class_3,snomedct_us
+cellular immunologic aplastic anemia,class_3,snomedct_us
+anemia in chronic kidney disease stage 5,class_3,snomedct_us
+autosomal-linked pyridoxine refractory sideroblastic anemia,class_3,snomedct_us
+pericarditis associated with severe chronic anemia,class_3,snomedct_us
+sideroblastic anemia,class_3,snomedct_us
+anemia due to intrinsic red cell abnormality,class_3,snomedct_us
+drug-induced sideroblastic anemia,class_3,snomedct_us
+cold paroxysmal hemoglobinuria,class_3,snomedct_us
+megaloblastic anemia 1,class_3,snomedct_us
+anemia due to zinc deficiency,class_3,snomedct_us
+anemia in neoplastic disease,class_3,snomedct_us
+megaloblastic anemia due to celiac disease,class_3,snomedct_us
+secondary sideroblastic anemia due to drugs and toxins,class_3,snomedct_us
+family history of pernicious anemia,class_3,snomedct_us
+anemia during pregnancy - baby delivered,class_3,snomedct_us
+anemia associated with aids,class_3,snomedct_us
+"anemia, sideroblastic, autosomal dominant",class_3,snomedct_us
+anemia due to chronic kidney disease stage 1,class_3,snomedct_us
+aplastic anemia co-occurrent with human immunodeficiency virus infection,class_3,snomedct_us
+megaloblastic anemia due to error of folate metabolism,class_3,snomedct_us
+megaloblastic anemia due to folate deficiency,class_3,snomedct_us
+normocytic anemia,class_3,snomedct_us
+secondary aplastic anemia,class_3,snomedct_us
+hemolytic disease of fetus or newborn due to rhd isoimmunization,class_3,snomedct_us
+late anemia of newborn,class_3,snomedct_us
+adenosine deaminase superactivity,class_3,snomedct_us
+asiderotic anemia,class_3,snomedct_us
+acquired hemolytic anemia associated with aids,class_3,snomedct_us
+hemolytic anemia due to pyruvate kinase deficiency,class_3,snomedct_us
+megaloblastic anemia due to blind loop syndrome,class_3,snomedct_us
+majeed syndrome,class_3,snomedct_us
+megaloblastic anemia due to impaired absorption of folate,class_3,snomedct_us
+sideropenic anemia with reticuloendothelial siderosis,class_3,snomedct_us
+iron deficiency anemia secondary to inadequate dietary iron intake,class_3,snomedct_us
+aplastic anemia due to drugs,class_3,snomedct_us
+acute posthaemorrhagic anaemia,class_3,snomedct_us
+"anemia, sideroblastic, and spinocerebellar ataxia",class_3,snomedct_us
+adult-onset autosomal recessive sideroblastic anemia,class_3,snomedct_us
+estren-dameshek anemia,class_3,snomedct_us
+anemia due to vitamin b>6< deficiency,class_3,snomedct_us
+"autoimmune hemolytic anemia, autoimmune thrombocytopenia, primary immunodeficiency syndrome",class_3,snomedct_us
+aase syndrome,class_3,snomedct_us
+anemia due to pantothenic deficiency,class_3,snomedct_us
+history of aplastic anemia,class_3,snomedct_us
+dyserythropoietic anemia with thrombocytopenia,class_3,snomedct_us
+combined b12 and folate deficiency anemia,class_3,snomedct_us
+nutritional anemia,class_3,snomedct_us
+anemia following fetal blood loss,class_3,snomedct_us
+g-6-pd class iv variant anemia,class_3,snomedct_us
+hnsha due to diphosphoglycerate mutase deficiency,class_3,snomedct_us
+anemia screening,class_3,snomedct_us
+fanconi anemia,class_3,snomedct_us
+megaloblastic anemia due to vitamin b>12< malabsorption with proteinuria,class_3,snomedct_us
+achlorhydric anemia,class_3,snomedct_us
+anemia due to disturbance of hemoglobin synthesis,class_3,snomedct_us
+anemia in chronic kidney disease stage 4,class_3,snomedct_us
+megaloblastic anemia due to drugs,class_3,snomedct_us
+x-linked congenital dyserythropoietic anemia with thrombocytopenia,class_3,snomedct_us
+g-6-pd class ii variant anemia,class_3,snomedct_us
+myelodysplastic syndrome with excess blasts-1,class_3,snomedct_us
+secondary autoimmune hemolytic anemia co-occurrent and due to chronic inflammatory disease,class_3,snomedct_us
+hemolytic disease of fetus or newborn due to abo immunization,class_3,snomedct_us
+anemia due to decreased red cell production,class_3,snomedct_us
+microcytic normochromic anemia,class_3,snomedct_us
+anemia of prematurity,class_3,snomedct_us
+vitamin b12 deficiency anemia following total gastrectomy,class_3,snomedct_us
+anemia co-occurrent with human immunodeficiency virus infection,class_3,snomedct_us
+anemia due to heat,class_3,snomedct_us
+hnsha due to glutathione synthetase deficiency,class_3,snomedct_us
+primary cold-type hemolytic anemia,class_3,snomedct_us
+g-6-pd class i variant anemia,class_3,snomedct_us
+acquired aplastic anemia,class_3,snomedct_us
+x chromosome-linked pyridoxine refractory sideroblastic anemia,class_3,snomedct_us
+anemia in chronic kidney disease,class_3,snomedct_us
+measurement of chicken anemia virus antibody,class_3,snomedct_us
+acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection,class_3,snomedct_us
+"anemia, hemolytic",class_3,snomedct_us
+hnsha due to glucose phosphate isomerase deficiency,class_3,snomedct_us
+myasthenic syndrome due to pernicious anemia,class_3,snomedct_us
+thiamine responsive megaloblastic anemia syndrome,class_3,snomedct_us
+vegan's anemia,class_3,snomedct_us
+megaloblastic anemia due to dihydrofolate reductase deficiency,class_3,snomedct_us
+infectious salmon anemia virus,class_3,snomedct_us
+normocytic anemia following acute bleed,class_3,snomedct_us
+iron deficiency anemia due to increased requirement in adolescence,class_3,snomedct_us
+hemolytic anemia of pregnancy,class_3,snomedct_us
+immunologic aplastic anemia,class_3,snomedct_us
+anemia of adrenal dysfunction,class_3,snomedct_us
+anemia due to abnormality extrinsic to the red cell,class_3,snomedct_us
+hemolytic anemia due to infection,class_3,snomedct_us
+"deficiency anemias, excluding iron",class_3,snomedct_us
+acquired iron deficiency anemia due to decreased absorption,class_3,snomedct_us
+megaloblastic anemia due to hyperalimentation,class_3,snomedct_us
+"drug-induced immune hemolytic anemia, immune complex type",class_3,snomedct_us
+biermer's congenital pernicious anemia,class_3,snomedct_us
+megaloblastic anemia due to congenital deficiency of intrinsic factor,class_3,snomedct_us
+hypoplastic anemia,class_3,snomedct_us
+hemolytic anemia due to babesiosis,class_3,snomedct_us
+anemia due to chlorate,class_3,snomedct_us
+megaloblastic anemia due to vitamin b>12< deficiency,class_3,snomedct_us
+anemia due to disturbance of proliferation and/or differentiation of hematopoietic stem cells,class_3,snomedct_us
+anemia due to copper,class_3,snomedct_us
+anemia due to physical agent,class_3,snomedct_us
+anemia due to arsenic hydride,class_3,snomedct_us
+perinatal anemia,class_3,snomedct_us
+"refractory anemia, without ringed sideroblasts, without excess blasts",class_3,snomedct_us
+hereditary isolated aplastic anemia,class_3,snomedct_us
+history of diamond-blackfan anemia,class_3,snomedct_us
+anemia during the puerperium,class_3,snomedct_us
+traumatic hemolytic anemia,class_3,snomedct_us
+nutritional anemia of pregnancy,class_3,snomedct_us
+anemia of chronic disease,class_3,snomedct_us
+"anemia, diamond-blackfan",class_3,snomedct_us
+sickle cell dactylitis,class_3,snomedct_us
+non megaloblastic anemia associated with nutritional deficiency,class_3,snomedct_us
+acute pure red cell aplasia,class_3,snomedct_us
+acute megaloblastic anemia due to nitrous oxide,class_3,snomedct_us
+anemia in mother complicating childbirth,class_3,snomedct_us
+anemia due to starvation,class_3,snomedct_us
+aplastic anemia associated with metabolic alteration,class_3,snomedct_us
+secondary autoimmune hemolytic anemia co-occurrent and due to lymphoproliferative disorder,class_3,snomedct_us
+chronic hemolytic anemia,class_3,snomedct_us
+iron deficiency without anemia,class_3,snomedct_us
+hemolytic anemia due to malaria,class_3,snomedct_us
+ghosal hematodiaphyseal dysplasia,class_3,snomedct_us
+hnsha due to triosephosphate isomerase deficiency,class_3,snomedct_us
+microcytic anemia,class_3,snomedct_us
+anemia caused by zidovudine,class_3,snomedct_us
+microangiopathic hemolytic anemia,class_3,snomedct_us
+megaloblastic anemia due to fish tapeworm,class_3,snomedct_us
+thiamine-responsive megaloblastic anemia,class_3,snomedct_us
+primaquine sensitivity anemia,class_3,snomedct_us
+anemia due to radiation,class_3,snomedct_us
+warm autoimmune hemolytic anemia,class_3,snomedct_us
+secondary sideroblastic anemia due to disease,class_3,snomedct_us
+"anemia, neonatal",class_3,snomedct_us
+megaloblastic anemia of premature infant,class_3,snomedct_us
+maternal autoimmune hemolytic anemia,class_3,snomedct_us
+hemolytic anemia with emphysema and cutis laxa,class_3,snomedct_us
+g-6-pd class v variant anemia,class_3,snomedct_us
+microcytic hypochromic anemia (disorder),class_3,snomedct_us
+"anemia, hemolytic, acquired",class_3,snomedct_us
+"pancreatic insufficiency, dyserythropoietic anemia, calvarial hyperostosis syndrome",class_3,snomedct_us
+hemolytic anemia due to bartonella,class_3,snomedct_us
+h/o: anemia - iron deficient,class_3,snomedct_us
+anemia due to oxygen,class_3,snomedct_us
+autoimmune hemolytic anemia due to iga plus complement,class_3,snomedct_us
+anemia due to vitamin e deficiency,class_3,snomedct_us
+"hyperuricemia, anemia, renal failure syndrome",class_3,snomedct_us
+macrocytic anemia of pregnancy,class_3,snomedct_us
+refractory anemia with sideroblasts,class_3,snomedct_us
+post gastrectomy iron deficiency anemia,class_3,snomedct_us
+megaloblastic anemia due to hemodialysis,class_3,snomedct_us
+anemia due to vitamin a deficiency,class_3,snomedct_us
+anemia in ovarian carcinoma,class_3,snomedct_us
+anemia due to isoimmunization,class_3,snomedct_us
+vitamin c deficiency anemia,class_3,snomedct_us
+severe congenital hypochromic anemia with ringed sideroblasts,class_3,snomedct_us
+refractory anemia with excess blasts in transformation (clinical),class_3,snomedct_us
+chicken anemia virus,class_3,snomedct_us
+acute megaloblastic anemia due to severe illness,class_3,snomedct_us
+refractory anaemia with excess blasts,class_3,snomedct_us
+hnsha due to gamma glutamyl cysteine synthetase deficiency,class_3,snomedct_us
+aplastic anemia due to chronic disease,class_3,snomedct_us
+hemoglobin ss disease with crisis,class_3,snomedct_us
+relative anemia,class_3,snomedct_us
+anemia due to enzyme deficiency,class_3,snomedct_us
+chronic anemia,class_3,snomedct_us
+pure red-cell aplasia,class_3,snomedct_us
+iron deficiency anemia due to dietary causes,class_3,snomedct_us
+congenital hypoplastic anemia,class_3,snomedct_us
+hemoglobin se disease,class_3,snomedct_us
+sickle cell anemia in mother complicating childbirth,class_3,snomedct_us
+anemia of renal disease,class_3,snomedct_us
+megaloblastic anemia due to disease of small intestine,class_3,snomedct_us
+megaloblastic anemia due to folate deficiency in prematurity,class_3,snomedct_us
+aplastic anemia due to radiation,class_3,snomedct_us
+anemia due to niacin deficiency,class_3,snomedct_us
+"adenylate kinase deficiency, hemolytic anemia due to",class_3,snomedct_us
+anemia due to blood loss,class_3,snomedct_us
+aplastic anemia,class_3,snomedct_us
+congenital bacterial pneumonia,class_4,snomedct_us
+confluent pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7b,class_4,snomedct_us
+"malaria, falciparum",class_4,snomedct_us
+pneumonia due to gram negative bacteria,class_4,snomedct_us
+no streptococcus pneumoniae isolated,class_4,snomedct_us
+cyclic neutropenia,class_4,snomedct_us
+sepsis screening,class_4,snomedct_us
+sepsis caused by gonococcus,class_4,snomedct_us
+streptococcus pneumoniae serogroup 25,class_4,snomedct_us
+urban yellow fever,class_4,snomedct_us
+sandfly fever sicilian virus,class_4,snomedct_us
+rapid fall of fever,class_4,snomedct_us
+visna-maedi virus,class_4,snomedct_us
+neonatal sepsis caused by streptococcus,class_4,snomedct_us
+pneumonia in typhoid fever,class_4,snomedct_us
+staircase fever,class_4,snomedct_us
+streptococcus pneumoniae capsular polysaccharide virulence factor,class_4,snomedct_us
+"pneumonia, viral",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1 capsular polysaccharide antigen conjugated,class_4,snomedct_us
+boophilus annulatus,class_4,snomedct_us
+cholesterol pneumonia,class_4,snomedct_us
+scarlet fever streptococcus toxin,class_4,snomedct_us
+mycobacterial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33e,class_4,snomedct_us
+live attenuated yellow fever virus antigen,class_4,snomedct_us
+pneumonia due to anaerobic bacteria,class_4,snomedct_us
+recurrent pneumonia,class_4,snomedct_us
+sepsis due to streptococcus suis,class_4,snomedct_us
+aspiration pneumonia resulting from a procedure,class_4,snomedct_us
+chloramphenicol-induced neutropenia,class_4,snomedct_us
+streptococcus pneumoniae 19 antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19a igg,class_4,snomedct_us
+sepsis of newborn due to group b streptococcus,class_4,snomedct_us
+itaqui virus disease,class_4,snomedct_us
+sepsis of neonate caused by streptococcus pyogenes,class_4,snomedct_us
+bunyamwera virus disease,class_4,snomedct_us
+requires a yellow fever vaccination,class_4,snomedct_us
+spotted fever group rickettsiae ribonucleic acid assay,class_4,snomedct_us
+cold agglutinin disease due to mycoplasma pneumonia,class_4,snomedct_us
+yellow fever virus antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9n,class_4,snomedct_us
+gonococcal pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11a capsular polysaccharide antigen,class_4,snomedct_us
+pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 10a igg,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 22a,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+marburg virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 2,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 5 capsular polysaccharide antigen conjugated,class_4,snomedct_us
+administration of vaccine product containing only streptococcus pneumoniae antigen (procedure),class_4,snomedct_us
+streptococcus pneumoniae danish serotype 35d,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9a,class_4,snomedct_us
+aseptic fever,class_4,snomedct_us
+streptococcus pneumoniae serogroup 23 antibody,class_4,snomedct_us
+yellow fever screening,class_4,snomedct_us
+chlamydia pneumoniae igm level,class_4,snomedct_us
+pneumonia caused by enterococcus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f ab,class_4,snomedct_us
+streptococcus pneumoniae serogroup 33,class_4,snomedct_us
+neonatal sepsis caused by malassezia,class_4,snomedct_us
+bronchopneumonia due to klebsiella pneumoniae,class_4,snomedct_us
+biphasic fever,class_4,snomedct_us
+chlamydia pneumoniae iga level,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 5 capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 15b capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+pneumonia due to klebsiella pneumoniae,class_4,snomedct_us
+seasonal allergic conjunctivitis,class_4,snomedct_us
+pneumonia due to measles,class_4,snomedct_us
+candiru fever,class_4,snomedct_us
+legionnaires' disease,class_4,snomedct_us
+autosomal dominant severe congenital neutropenia,class_4,snomedct_us
+pneumonia and influenza,class_4,snomedct_us
+febrile neutropenia,class_4,snomedct_us
+blackwater fever,class_4,snomedct_us
+fever caused by sars-cov-2,class_4,snomedct_us
+cryptogenic pulmonary eosinophilia,class_4,snomedct_us
+acute rise of fever,class_4,snomedct_us
+sepsis caused by coliform,class_4,snomedct_us
+enteric fever antibody titer measurement,class_4,snomedct_us
+toxic neutropenia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 47f,class_4,snomedct_us
+streptococcus pneumoniae or streptococcus viridans group,class_4,snomedct_us
+chronic endogenous lipoid pneumonia,class_4,snomedct_us
+kemerovo virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f capsular polysaccharide antigen,class_4,snomedct_us
+chapare hemorrhagic fever,class_4,snomedct_us
+tick-borne flavivirus hemorrhagic fever,class_4,snomedct_us
+pneumonia with coccidioidomycosis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18f,class_4,snomedct_us
+rift valley fever virus,class_4,snomedct_us
+maguari fever,class_4,snomedct_us
+"congenital neutropenia, myelofibrosis, nephromegaly syndrome",class_4,snomedct_us
+herpes simplex pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+sepsis due to oral infection,class_4,snomedct_us
+chlamydia pneumoniae rna assay,class_4,snomedct_us
+autoimmune neutropenia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+streptococcus pneumoniae serogroup 9,class_4,snomedct_us
+rodent-borne hemorrhagic fever,class_4,snomedct_us
+tick-borne bunyavirus hemorrhagic fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 14 capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+streptococcus pneumoniae serogroup 9 antibody,class_4,snomedct_us
+aspiration pneumonia due to regurgitated food,class_4,snomedct_us
+banzi virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6a igg,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 37,class_4,snomedct_us
+neutropenic sepsis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 8 capsular polysaccharide antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c ab,class_4,snomedct_us
+achromobacter pneumonia,class_4,snomedct_us
+recurrent aspiration pneumonia,class_4,snomedct_us
+fungal pneumonia,class_4,snomedct_us
+ovine herpesvirus 2,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 35f,class_4,snomedct_us
+multiple drug-resistant klebsiella pneumoniae subsp. ozaenae,class_4,snomedct_us
+sepsis of newborn due to staphylococcus aureus,class_4,snomedct_us
+tensaw virus disease,class_4,snomedct_us
+measurement of chlamydia pneumoniae antibody,class_4,snomedct_us
+polymer fume fever,class_4,snomedct_us
+jungle yellow fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 2 igg,class_4,snomedct_us
+hay fever,class_4,snomedct_us
+cardiac disorder due to typhoid fever,class_4,snomedct_us
+chronic pneumonia,class_4,snomedct_us
+viral pneumonia with aids (acquired immunodeficiency syndrome),class_4,snomedct_us
+rift valley virus encephalitis,class_4,snomedct_us
+klebsiella pneumoniae,class_4,snomedct_us
+chlamydia pneumoniae rna,class_4,snomedct_us
+infectious mononucleosis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9n capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+education about sepsis,class_4,snomedct_us
+prolonged fever,class_4,snomedct_us
+pulmonary tularemia,class_4,snomedct_us
+metabolic neutropenia,class_4,snomedct_us
+queensland tick typhus,class_4,snomedct_us
+everglades virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+sepsis due to streptococcus pyogenes,class_4,snomedct_us
+rift valley fever virus igg,class_4,snomedct_us
+rift valley fever virus igm,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c capsular polysaccharide antigen conjugated to clostridium tetani toxoid protein,class_4,snomedct_us
+relapsing fever of north africa,class_4,snomedct_us
+pericarditis due to familial mediterranean fever,class_4,snomedct_us
+streptococcus pneumoniae serogroup 35,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 3 capsular polysaccharide antigen conjugated,class_4,snomedct_us
+cat-scratch disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 12f capsular polysaccharide antigen,class_4,snomedct_us
+canicola fever,class_4,snomedct_us
+sepsis-associated encephalopathy,class_4,snomedct_us
+treatment of fever,class_4,snomedct_us
+congenital group a hemolytic streptococcal pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 8 igg,class_4,snomedct_us
+febrile transfusion reaction,class_4,snomedct_us
+sepsis caused by vancomycin resistant enterococcus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 12f capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+mycoplasma pneumonia,class_4,snomedct_us
+streptococcus pneumoniae antigen assay,class_4,snomedct_us
+notification of glandular fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 17a,class_4,snomedct_us
+wyeomyia virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 43,class_4,snomedct_us
+ampc beta-lactamase producing klebsiella pneumoniae,class_4,snomedct_us
+vaccine product containing only coxiella burnetii antigen (medicinal product),class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11d,class_4,snomedct_us
+examination of fever,class_4,snomedct_us
+gemella morbillorum or streptococcus acidominimus or streptococcus pneumoniae,class_4,snomedct_us
+neonatal late-onset sepsis,class_4,snomedct_us
+extrinsic allergic alveolitis,class_4,snomedct_us
+sepsis following molar and/or ectopic pregnancy,class_4,snomedct_us
+lujo hemorrhagic fever,class_4,snomedct_us
+right upper zone pneumonia,class_4,snomedct_us
+pneumonia due to methicillin resistant staphylococcus aureus,class_4,snomedct_us
+acute eosinophilic pneumonia,class_4,snomedct_us
+anthrax disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 8 ab,class_4,snomedct_us
+rheumatic arthritis of temporomandibular joint,class_4,snomedct_us
+post measles pneumonia,class_4,snomedct_us
+bacterial pneumonia with aids (acquired immunodeficiency syndrome),class_4,snomedct_us
+streptococcus pneumoniae danish serotype 5 capsular polysaccharide antigen,class_4,snomedct_us
+10-valent pneumococcal conjugate vaccine,class_4,snomedct_us
+mycoplasma pneumoniae antibody,class_4,snomedct_us
+hereditary autoinflammatory diseases,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11a,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 12b,class_4,snomedct_us
+madrid virus disease,class_4,snomedct_us
+candidiasis of lung,class_4,snomedct_us
+mononuclear interstitial pneumonia,class_4,snomedct_us
+"pneumonia, rickettsial",class_4,snomedct_us
+"streptococcus pneumoniae danish serotype 4, 6b, 9v, 14, 18c, 19f, and 23f capsular polysaccharide antigens conjugated only vaccine product",class_4,snomedct_us
+bronchopneumonia due to streptococcus pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae 19 antibody assay,class_4,snomedct_us
+klebsiella quasipneumoniae subsp. similipneumoniae,class_4,snomedct_us
+paratyphoid a fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 17f igg,class_4,snomedct_us
+wesselsbron fever,class_4,snomedct_us
+gradual rise of fever,class_4,snomedct_us
+pneumocystis jiroveci pneumonia,class_4,snomedct_us
+idiopathic pulmonary fibrosis,class_4,snomedct_us
+"hemorrhagic fever, ebola",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f igg,class_4,snomedct_us
+hemorrhagic fever virus antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 22f,class_4,snomedct_us
+copper fever,class_4,snomedct_us
+chlamydia pneumoniae antibody,class_4,snomedct_us
+streptococcus pneumoniae 14,class_4,snomedct_us
+bronchiolitis obliterans organizing pneumonia,class_4,snomedct_us
+febrile infection related epilepsy syndrome,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6c,class_4,snomedct_us
+alpha-hemolytic streptococcus not streptococcus pneumoniae,class_4,snomedct_us
+postoperative sepsis,class_4,snomedct_us
+klebsiella pneumoniae or klebsiella oxytoca,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 17f capsular polysaccharide antigen,class_4,snomedct_us
+neonatal chlamydial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b capsular polysaccharide antigen conjugated,class_4,snomedct_us
+acute endogenous lipoid pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18a,class_4,snomedct_us
+paratyphoid c fever,class_4,snomedct_us
+sepsis during labor with antenatal problem,class_4,snomedct_us
+pneumonia caused by human coronavirus,class_4,snomedct_us
+inkoo virus disease,class_4,snomedct_us
+infectious disorder of trachea,class_4,snomedct_us
+neutropenia with aids (acquired immunodeficiency syndrome),class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6d,class_4,snomedct_us
+postoperative aspiration pneumonia,class_4,snomedct_us
+"hemorrhagic fever, argentinian",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 8,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 46,class_4,snomedct_us
+arbovirus hemorrhagic fever,class_4,snomedct_us
+streptococcus pneumoniae rrna,class_4,snomedct_us
+atypical pneumonia,class_4,snomedct_us
+sepsis due to herpes simplex,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1 capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+mycoplasma pneumoniae igg,class_4,snomedct_us
+sepsis of newborn due to anaerobes,class_4,snomedct_us
+infection due to mycoplasma pneumoniae,class_4,snomedct_us
+mycoplasma pneumoniae rrna,class_4,snomedct_us
+cough with fever,class_4,snomedct_us
+perinatal sepsis,class_4,snomedct_us
+streptococcus pneumoniae serogroup 12 antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f capsular polysaccharide antigen conjugated,class_4,snomedct_us
+pneumonia caused by chlamydia pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9n capsular polysaccharide antigen,class_4,snomedct_us
+q fever pericarditis,class_4,snomedct_us
+"s(ad) sad (size (area, depth) sepsis, arteriopathy, denervation) system score",class_4,snomedct_us
+combined immunodeficiency due to gins1 deficiency,class_4,snomedct_us
+plateau phase of fever,class_4,snomedct_us
+arthritis of left knee caused by streptococcus pneumoniae,class_4,snomedct_us
+granulomatous pneumonia,class_4,snomedct_us
+north asian tick typhus,class_4,snomedct_us
+ross river fever antibody level,class_4,snomedct_us
+venezuelan equine encephalomyelitis,class_4,snomedct_us
+streptococcus pneumoniae serogroup 12,class_4,snomedct_us
+sepsis caused by gram negative bacteria,class_4,snomedct_us
+chronic benign neutropenia of childhood,class_4,snomedct_us
+herpes labialis,class_4,snomedct_us
+klebsiella rhinoscleromatis,class_4,snomedct_us
+klebsiella pneumoniae subspecies pneumoniae or raoultella planticola or raoultella terrigena,class_4,snomedct_us
+"pneumonia, bacterial",class_4,snomedct_us
+shwachman syndrome,class_4,snomedct_us
+rickettsia spotted fever group antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9l,class_4,snomedct_us
+rift valley fever virus ag,class_4,snomedct_us
+measurement of mycoplasma pneumoniae antibody,class_4,snomedct_us
+measurement of streptococcus pneumoniae serogroup 9 antibody,class_4,snomedct_us
+adverse reaction to yellow fever vaccine,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 32f,class_4,snomedct_us
+kunjin fever,class_4,snomedct_us
+congenital pseudomonal pneumonia,class_4,snomedct_us
+post pertussis vaccination fever,class_4,snomedct_us
+recurrent bacterial pneumonia,class_4,snomedct_us
+"encephalitis, central european",class_4,snomedct_us
+familial cold autoinflammatory syndrome 2,class_4,snomedct_us
+sepsis caused by enterococcus,class_4,snomedct_us
+slightly remittent fever,class_4,snomedct_us
+fh: hay fever,class_4,snomedct_us
+pneumonia due to respiratory syncytial virus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33f,class_4,snomedct_us
+streptococcus pneumoniae capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection,class_4,snomedct_us
+pneumonia caused by pseudomonas aeruginosa,class_4,snomedct_us
+"neutropenia, monocytopenia, deafness syndrome",class_4,snomedct_us
+sandfly fever due to sandfly fever sicilian virus,class_4,snomedct_us
+"hemorrhagic fever virus, omsk",class_4,snomedct_us
+streptococcus pneumoniae serogroup 32,class_4,snomedct_us
+otitis media due to scarlet fever,class_4,snomedct_us
+arenaviral hemorrhagic fever,class_4,snomedct_us
+rat-bite fever,class_4,snomedct_us
+hyper-igd periodic fever syndrome (hids),class_4,snomedct_us
+mycoplasma pneumoniae iga,class_4,snomedct_us
+far eastern spotted fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 42,class_4,snomedct_us
+aspiration pneumonia due to near drowning,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4 capsular polysaccharide antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 5,class_4,snomedct_us
+unresolved pneumonia,class_4,snomedct_us
+peribronchial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae serogroup 28,class_4,snomedct_us
+h/o: pneumonia,class_4,snomedct_us
+sepsis due to streptococcus group d,class_4,snomedct_us
+sepsis caused by haemophilus influenzae,class_4,snomedct_us
+sepsis due to ectopic pregnancy,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 7f antibody,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 18f antibody,class_4,snomedct_us
+cutaneous coccidioidomycosis,class_4,snomedct_us
+klebsiella pneumoniae complex,class_4,snomedct_us
+pneumonia due to histoplasma capsulatum,class_4,snomedct_us
+drug fever,class_4,snomedct_us
+apeu virus disease,class_4,snomedct_us
+meningitis due to typhoid fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 20b,class_4,snomedct_us
+zika virus infection,class_4,snomedct_us
+sepsis caused by streptococcus agalactiae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 20a igg,class_4,snomedct_us
+myoclonus associated with fever,class_4,snomedct_us
+chronic familial neutropenia (disorder),class_4,snomedct_us
+streptococcus pneumoniae capsular polysaccharide antigen conjugated,class_4,snomedct_us
+tertian fever,class_4,snomedct_us
+thogoto virus disease,class_4,snomedct_us
+pneumonia due to influenza a virus subtype h1n1,class_4,snomedct_us
+chlamydophila pneumoniae iga,class_4,snomedct_us
+proteus pneumonia,class_4,snomedct_us
+henoch-schoenlein purpura,class_4,snomedct_us
+streptococcus pneumoniae rrna assay,class_4,snomedct_us
+live attenuated yellow fever virus antigen only vaccine product,class_4,snomedct_us
+"pneumonia, interstitial",class_4,snomedct_us
+relapsing fever of the caucasus,class_4,snomedct_us
+acute rheumatic aortitis,class_4,snomedct_us
+"pneumonia, lipid",class_4,snomedct_us
+"neutropenia, severe congenital, x-linked",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 10a,class_4,snomedct_us
+bussuquara virus disease,class_4,snomedct_us
+streptococcus pneumoniae group a antigen assay,class_4,snomedct_us
+tacaiuma virus disease,class_4,snomedct_us
+acute aspiration pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f capsular polysaccharide antigen,class_4,snomedct_us
+pneumonia caused by vancomycin resistant enterococcus,class_4,snomedct_us
+infection due to esbl klebsiella pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae antigen,class_4,snomedct_us
+brass-founders' fever,class_4,snomedct_us
+"febrile agglutinins measurement, brucella, francisella, murine typhus, q fever, rocky mountain spotted fever, scrub typhus",class_4,snomedct_us
+"sepsis following infusion, injection, transfusion and/or vaccination",class_4,snomedct_us
+bebaru fever,class_4,snomedct_us
+infective pneumonia acquired prenatally,class_4,snomedct_us
+postobstructive pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 14 capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+chlamydophila pneumoniae antigen,class_4,snomedct_us
+lobar pneumonia,class_4,snomedct_us
+measurement of streptococcus pneumoniae serogroup 7 antibody,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 9n antibody,class_4,snomedct_us
+mycoplasma pneumoniae igm,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f capsular polysaccharide antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f,class_4,snomedct_us
+fever-associated acute infantile liver failure syndrome,class_4,snomedct_us
+pneumonia caused by gram positive bacteria,class_4,snomedct_us
+yellow fever virus igm,class_4,snomedct_us
+uremic lung,class_4,snomedct_us
+aspiration pneumonia due to regurgitated gastric secretions,class_4,snomedct_us
+transitory fever of newborn,class_4,snomedct_us
+western rocky mountain spotted fever,class_4,snomedct_us
+necrotizing pneumonia caused by panton-valentine leukocidin producing staphylococcus aureus,class_4,snomedct_us
+septic shock,class_4,snomedct_us
+myocarditis due to scarlet fever,class_4,snomedct_us
+refractory neutropenia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 24f,class_4,snomedct_us
+pneumonia in q fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33f igg,class_4,snomedct_us
+timorian filarial fever,class_4,snomedct_us
+measurement of streptococcus pneumoniae serogroup 12 antibody,class_4,snomedct_us
+congenital staphylococcal pneumonia,class_4,snomedct_us
+acute rheumatic pericarditis,class_4,snomedct_us
+"congenital sideroblastic anemia, b-cell immunodeficiency, periodic fever, developmental delay syndrome",class_4,snomedct_us
+alert from sepsis monitoring system received,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 22f igg,class_4,snomedct_us
+nairovirus serogroup crimean-congo hemorrhagic fever,class_4,snomedct_us
+klebsiella pneumoniae dna,class_4,snomedct_us
+yellow fever suspected,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1,class_4,snomedct_us
+sandfly-borne orbivirus fever,class_4,snomedct_us
+streptococcus pneumoniae serogroup 47,class_4,snomedct_us
+malt-workers' lung,class_4,snomedct_us
+otitis media caused by streptococcus pneumoniae,class_4,snomedct_us
+tafro syndrome,class_4,snomedct_us
+paratyphoid fever suspected,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 3 ab,class_4,snomedct_us
+erythema multiforme due to mycoplasma pneumoniae infection,class_4,snomedct_us
+salmonella pneumonia,class_4,snomedct_us
+gastrointestinal hemorrhage with sepsis,class_4,snomedct_us
+mosquito-borne arboviral fever,class_4,snomedct_us
+streptococcus pneumoniae serogroup 20,class_4,snomedct_us
+factitious fever,class_4,snomedct_us
+lung injury with sepsis,class_4,snomedct_us
+sepsis due to escherichia coli,class_4,snomedct_us
+elokomin fluke fever,class_4,snomedct_us
+streptococcus pneumoniae serogroup 41,class_4,snomedct_us
+streptococcus pneumoniae serogroup 18,class_4,snomedct_us
+neutropenia of the small for gestational age baby,class_4,snomedct_us
+double quotidien fever,class_4,snomedct_us
+sepsis of fetus caused by streptococcus pyogenes,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11e,class_4,snomedct_us
+dengue fever,class_4,snomedct_us
+chlamydophila pneumoniae igg,class_4,snomedct_us
+yellow fever virus rna assay,class_4,snomedct_us
+rickettsialpox,class_4,snomedct_us
+rheumatic pneumonia,class_4,snomedct_us
+reticular dysgenesis,class_4,snomedct_us
+varicella pneumonia,class_4,snomedct_us
+"leishmaniasis, visceral",class_4,snomedct_us
+hemorrhagic fever virus serology screening test,class_4,snomedct_us
+streptococcus pneumoniae igg,class_4,snomedct_us
+sepsis in asplenic subject,class_4,snomedct_us
+streptococcus pneumoniae serogroup 6,class_4,snomedct_us
+vaccination against yellow fever,class_4,snomedct_us
+remittent fever,class_4,snomedct_us
+paraneoplastic fever,class_4,snomedct_us
+secondary bacterial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 8 capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+history of sepsis,class_4,snomedct_us
+sweating fever,class_4,snomedct_us
+streptococcus pneumoniae dna,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4 capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33c,class_4,snomedct_us
+pneumonia due to histoplasma,class_4,snomedct_us
+bacterial sepsis,class_4,snomedct_us
+sindbis fever,class_4,snomedct_us
+acute ulcerative gastroenteritis complicating pneumonia,class_4,snomedct_us
+"dengue hemorrhagic fever, grade ii",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 35a,class_4,snomedct_us
+ossa virus disease,class_4,snomedct_us
+pneumonia caused by sars-cov-2,class_4,snomedct_us
+relapsing fever of central and/or south america,class_4,snomedct_us
+oropouche orthobunyavirus infection,class_4,snomedct_us
+non-tuberculous mycobacterial pneumonia,class_4,snomedct_us
+lassa fever,class_4,snomedct_us
+enterobacter pneumonia,class_4,snomedct_us
+phlebotomus fever,class_4,snomedct_us
+sandfly-borne rhabdovirus fever,class_4,snomedct_us
+sepsis of the newborn,class_4,snomedct_us
+antigen of streptococcus pneumoniae danish serotype 22f capsular polysaccharide,class_4,snomedct_us
+rheumatic heart disease,class_4,snomedct_us
+mite-borne hemorrhagic fever,class_4,snomedct_us
+fort bragg fever,class_4,snomedct_us
+sepsis caused by anaerobic streptococcus,class_4,snomedct_us
+measurement of streptococcus pneumoniae serogroup 23 antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4 capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+cat scratch fever antibody level,class_4,snomedct_us
+lassa virus antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6a,class_4,snomedct_us
+viral hemorrhagic fever suspected,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+mosquito-borne bunyamwera group virus fever,class_4,snomedct_us
+streptococcus pneumoniae serogroup 16,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 14 capsular polysaccharide antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 15c,class_4,snomedct_us
+lupus pneumonia,class_4,snomedct_us
+h/o: hay fever,class_4,snomedct_us
+pneumonia caused by enterococcus faecium,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9v,class_4,snomedct_us
+sinusitis caused by streptococcus pneumoniae,class_4,snomedct_us
+cat-bite fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9v capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6a ab,class_4,snomedct_us
+pneumonia in pertussis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9v capsular polysaccharide antigen,class_4,snomedct_us
+spelters' fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 12f ab,class_4,snomedct_us
+rift valley fever virus ab,class_4,snomedct_us
+pneumonia due to bordetella parapertussis,class_4,snomedct_us
+gradual fall of fever,class_4,snomedct_us
+mycoplasma pneumoniae dna,class_4,snomedct_us
+uganda s fever,class_4,snomedct_us
+left ventricular failure with sepsis,class_4,snomedct_us
+unresolved lobar pneumonia,class_4,snomedct_us
+filoviral hemorrhagic fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 17f,class_4,snomedct_us
+chlamydia pneumoniae culture,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 3 capsular polysaccharide antigen,class_4,snomedct_us
+rocky mountain spotted fever,class_4,snomedct_us
+plague,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 41a,class_4,snomedct_us
+pontiac fever,class_4,snomedct_us
+interstitial pneumonia with autoimmune features,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f ab,class_4,snomedct_us
+neutropenia due to and following chemotherapy,class_4,snomedct_us
+klebsiella pneumoniae subsp. pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 15b capsular polysaccharide antigen,class_4,snomedct_us
+"klebsiella species, not klebsiella pneumoniae and not klebsiella oxytoca",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 12f,class_4,snomedct_us
+african swine fever virus,class_4,snomedct_us
+dose-related drug-induced neutropenia,class_4,snomedct_us
+healthcare associated bacterial pneumonia,class_4,snomedct_us
+acute rheumatic endocarditis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 39,class_4,snomedct_us
+continuous fever,class_4,snomedct_us
+pneumonia due to severe acute respiratory syndrome coronavirus,class_4,snomedct_us
+idiopathic interstitial pneumonias,class_4,snomedct_us
+post-splenectomy sepsis,class_4,snomedct_us
+bacterial pneumonia co-occurrent with human immunodeficiency virus infection,class_4,snomedct_us
+sepsis due to incomplete miscarriage,class_4,snomedct_us
+neutropenia,class_4,snomedct_us
+poikiloderma with neutropenia,class_4,snomedct_us
+simian hemorrhagic fever virus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f,class_4,snomedct_us
+falling phase of fever,class_4,snomedct_us
+vaccine product containing only streptococcus pneumoniae antigen (medicinal product),class_4,snomedct_us
+measurement of streptococcus pneumoniae antibody,class_4,snomedct_us
+pneumonia due to pseudomonas,class_4,snomedct_us
+focal pneumonia,class_4,snomedct_us
+penicillin resistant streptococcus pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 3 capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+sepsis caused by staphylococcus without acute organ dysfunction,class_4,snomedct_us
+pneumonia in aspergillosis,class_4,snomedct_us
+streptococcus pneumoniae serogroup 17,class_4,snomedct_us
+sepsis without acute organ dysfunction,class_4,snomedct_us
+chlamydia pneumoniae igg level,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 32a,class_4,snomedct_us
+relapsing fever of asia and/or africa,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19b igg,class_4,snomedct_us
+gastrointestinal lesion with sepsis,class_4,snomedct_us
+post yellow fever vaccination encephalitis,class_4,snomedct_us
+menstrual cycle dependent periodic fever,class_4,snomedct_us
+chlamydia pneumoniae dna assay,class_4,snomedct_us
+hepatitis in yellow fever,class_4,snomedct_us
+catarrhal pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 40,class_4,snomedct_us
+streptococcus pneumoniae serogroup 20 capsular polysaccharide antigen,class_4,snomedct_us
+neonatal aspiration pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 15b igg,class_4,snomedct_us
+parainfluenza virus pneumonia,class_4,snomedct_us
+streptococcus acidominimus or streptococcus pneumoniae,class_4,snomedct_us
+aspiration pneumonia,class_4,snomedct_us
+basal pneumonia,class_4,snomedct_us
+streptococcus pneumoniae type 20 capsular polysaccharide antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1 ab,class_4,snomedct_us
+family history of rheumatic fever,class_4,snomedct_us
+congenital escherichia coli pneumonia,class_4,snomedct_us
+guaroa virus disease,class_4,snomedct_us
+streptococcus pneumoniae serogroup 19,class_4,snomedct_us
+piry virus disease,class_4,snomedct_us
+mosquito-borne orbivirus fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9n ab,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 14 capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+sepsis of premature infant,class_4,snomedct_us
+streptococcus mitis or streptococcus oralis or streptococcus pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1 capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+ephemeral fever virus ab,class_4,snomedct_us
+pneumonia due to pleuropneumonia-like organism,class_4,snomedct_us
+severe congenital neutropenia,class_4,snomedct_us
+pittsburgh pneumonia,class_4,snomedct_us
+transient neonatal neutropenia due to neonatal bacterial sepsis,class_4,snomedct_us
+familial mediterranean fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 10b,class_4,snomedct_us
+infection by babesia bigemina,class_4,snomedct_us
+chronic arthritis due to and following rheumatic fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19a capsular polysaccharide conjugated antigen,class_4,snomedct_us
+katayama fever,class_4,snomedct_us
+sepsis caused by methicillin susceptible staphylococcus aureus,class_4,snomedct_us
+phase of fever - finding,class_4,snomedct_us
+severe dengue,class_4,snomedct_us
+uukuniemi fever,class_4,snomedct_us
+yellow fever virus antigen-containing vaccine product,class_4,snomedct_us
+marituba virus disease,class_4,snomedct_us
+rickettsia rickettsii,class_4,snomedct_us
+mosquito-borne california group virus fever,class_4,snomedct_us
+staphylococcal pneumonia,class_4,snomedct_us
+yellow fever virus group,class_4,snomedct_us
+h/o: rheumatic fever,class_4,snomedct_us
+periodontitis exacerbated by chronic familial neutropenia,class_4,snomedct_us
+west nile fever without encephalitis,class_4,snomedct_us
+at low risk for ebola virus disease,class_4,snomedct_us
+colorado tick fever virus antibody,class_4,snomedct_us
+gram positive sepsis,class_4,snomedct_us
+hysterical fever,class_4,snomedct_us
+coxiella burnetii antibody,class_4,snomedct_us
+congenital pneumonia,class_4,snomedct_us
+transient neonatal neutropenia (disorder),class_4,snomedct_us
+leishmanial pneumonia,class_4,snomedct_us
+metal fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19b,class_4,snomedct_us
+pneumonia due to schistosoma haematobium,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7a capsular polysaccharide antigen,class_4,snomedct_us
+lemierre syndrome,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19a capsular polysaccharide antigen,class_4,snomedct_us
+alcelaphine herpesvirus 2,class_4,snomedct_us
+relapsing fever of iran and/or central asia,class_4,snomedct_us
+live attenuated junin virus antigen-containing vaccine product,class_4,snomedct_us
+pneumonia due to methicillin susceptible staphylococcus aureus,class_4,snomedct_us
+tick-borne hemorrhagic fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23a,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 25f,class_4,snomedct_us
+colorado tick fever virus igm,class_4,snomedct_us
+post tetanus vaccination fever,class_4,snomedct_us
+neutropenia due to irradiation,class_4,snomedct_us
+"assessment using s(ad) sad (size (area, depth) sepsis, arteriopathy, denervation) system",class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 6b antibody,class_4,snomedct_us
+puerperal pyrexia,class_4,snomedct_us
+measurement of yellow fever virus antibody,class_4,snomedct_us
+restan virus disease,class_4,snomedct_us
+chagres virus disease,class_4,snomedct_us
+acute kidney injury due to sepsis,class_4,snomedct_us
+sepsis with acquired immunodeficiency syndrome,class_4,snomedct_us
+fever with chills,class_4,snomedct_us
+batai fever,class_4,snomedct_us
+subacute rheumatic arthritis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6a capsular polysaccharide antigen,class_4,snomedct_us
+post vaccination fever,class_4,snomedct_us
+notification of scarlet fever,class_4,snomedct_us
+west nile fever,class_4,snomedct_us
+familial neutropenia,class_4,snomedct_us
+south american hemorrhagic fever,class_4,snomedct_us
+sepsis due to listeria monocytogenes,class_4,snomedct_us
+vesicular stomatitis indiana virus disease,class_4,snomedct_us
+sepsis following induced termination of pregnancy,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 31,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c capsular polysaccharide antigen,class_4,snomedct_us
+pel ebstein fever,class_4,snomedct_us
+alkhurma hemorrhagic fever,class_4,snomedct_us
+dengue fever outbreak education,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 24a,class_4,snomedct_us
+gip - giant cell interstitial pneumonitis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19a capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33a,class_4,snomedct_us
+toxoplasma pneumonitis,class_4,snomedct_us
+"relapsing fever of southern u.s., mexico, central and/or south america",class_4,snomedct_us
+streptococcus pneumoniae serogroup 22,class_4,snomedct_us
+pasteurella infections,class_4,snomedct_us
+acute rheumatic myocarditis,class_4,snomedct_us
+history of recurrent pneumonia,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 23f antibody,class_4,snomedct_us
+fever greater than 100.4 fahrenheit,class_4,snomedct_us
+nanukayami,class_4,snomedct_us
+mosquito-borne alphavirus hemorrhagic fever,class_4,snomedct_us
+multiple drug-resistant streptococcus pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 5 capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 12f antibody,class_4,snomedct_us
+relapsing fever of western united states,class_4,snomedct_us
+streptococcus pneumoniae serogroup 24,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c capsular polysaccharide antigen conjugated,class_4,snomedct_us
+klebsiella pneumoniae subspecies pneumoniae or raoultella planticola,class_4,snomedct_us
+exogenous lipoid pneumonia,class_4,snomedct_us
+postprocedural fever,class_4,snomedct_us
+sepsis due to urinary tract infection,class_4,snomedct_us
+pneumonia due to proteus mirabilis,class_4,snomedct_us
+fever defervescence,class_4,snomedct_us
+failed attempted termination of pregnancy with sepsis,class_4,snomedct_us
+streptobacillary fever,class_4,snomedct_us
+sepsis caused by chromobacterium,class_4,snomedct_us
+mycoplasma pneumoniae encephalitis,class_4,snomedct_us
+ilesha virus disease,class_4,snomedct_us
+trench fever,class_4,snomedct_us
+sennetsu fever,class_4,snomedct_us
+tataguine virus disease,class_4,snomedct_us
+organizing pneumonia,class_4,snomedct_us
+nepuyo virus disease,class_4,snomedct_us
+ornithosis with pneumonia,class_4,snomedct_us
+mosquito-borne simbu group virus fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b,class_4,snomedct_us
+eastern rocky mountain spotted fever,class_4,snomedct_us
+suspected ebola virus disease,class_4,snomedct_us
+inhalational anthrax,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 20a,class_4,snomedct_us
+chronic interstitial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19c,class_4,snomedct_us
+isoimmune neutropenia,class_4,snomedct_us
+pneumonia severity index,class_4,snomedct_us
+scarlet fever suspected,class_4,snomedct_us
+relapsing fever,class_4,snomedct_us
+mycoplasma pneumoniae present,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 19f antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7c,class_4,snomedct_us
+sepsis due to actinomyces,class_4,snomedct_us
+pneumonia due to ascaris,class_4,snomedct_us
+"hemorrhagic fever, crimean",class_4,snomedct_us
+"encephalitis, west nile fever",class_4,snomedct_us
+arthritis of right knee caused by streptococcus pneumoniae,class_4,snomedct_us
+legionella pneumonia suspected,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6g,class_4,snomedct_us
+erythema marginatum in acute rheumatic fever,class_4,snomedct_us
+pulmonary african histoplasmosis,class_4,snomedct_us
+byssinosis,class_4,snomedct_us
+flavirin,class_4,snomedct_us
+"dengue hemorrhagic fever, grade iii",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 12f igg,class_4,snomedct_us
+recurrent rheumatic fever,class_4,snomedct_us
+mosquito-borne rhabdovirus fever,class_4,snomedct_us
+pneumonia due to aerobic bacteria,class_4,snomedct_us
+brucellosis,class_4,snomedct_us
+sepsis during labor,class_4,snomedct_us
+"dengue hemorrhagic fever, grade iv",class_4,snomedct_us
+epstein-barr virus infectious mononucleosis,class_4,snomedct_us
+history of aspiration pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 12a,class_4,snomedct_us
+sepsis due to disease caused by covid-19,class_4,snomedct_us
+pneumonia caused by acinetobacter,class_4,snomedct_us
+bartonella infections,class_4,snomedct_us
+psittacosis,class_4,snomedct_us
+relapsing fever of iberian peninsula and/or northwest africa,class_4,snomedct_us
+pattern of fever - finding,class_4,snomedct_us
+germistan virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 35b,class_4,snomedct_us
+neutropenia associated with infectious disease,class_4,snomedct_us
+hemorrhagic fever with renal syndrome,class_4,snomedct_us
+"typhus, epidemic louse-borne",class_4,snomedct_us
+paratyphoid fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4 ab,class_4,snomedct_us
+dursun syndrome,class_4,snomedct_us
+"hemorrhagic fever, bolivian",class_4,snomedct_us
+rising phase of fever,class_4,snomedct_us
+mosquito-borne orthobunyavirus fever,class_4,snomedct_us
+requires vaccination against streptococcus pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c igg,class_4,snomedct_us
+brazilian hemorrhagic fever,class_4,snomedct_us
+streptococcal pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b capsular polysaccharide antigen,class_4,snomedct_us
+gastritis with sepsis,class_4,snomedct_us
+measurement of colorado tick fever virus antibody,class_4,snomedct_us
+reversed diurnal fever,class_4,snomedct_us
+kpc-2 producing klebsiella pneumoniae,class_4,snomedct_us
+lymphoid interstitial pneumonia,class_4,snomedct_us
+acute rheumatic heart disease,class_4,snomedct_us
+foreign body pneumonia,class_4,snomedct_us
+semliki forest fever,class_4,snomedct_us
+left upper zone pneumonia,class_4,snomedct_us
+rickettsia spotted fever group dna,class_4,snomedct_us
+invasive drug resistant streptococcus pneumoniae disease,class_4,snomedct_us
+left shoulder region pneumococcal arthritis,class_4,snomedct_us
+yellow fever virus strain 17d-204 live antigen,class_4,snomedct_us
+caraparu virus disease,class_4,snomedct_us
+typhoid fever suspected,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 47a,class_4,snomedct_us
+"fever, diurnal variation",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4 capsular polysaccharide antigen conjugated,class_4,snomedct_us
+manzanilla fever,class_4,snomedct_us
+sepsis due to fungus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 34,class_4,snomedct_us
+x-linked dyserythropoietic anemia with abnormal platelets and neutropenia,class_4,snomedct_us
+periodontitis exacerbated by familial neutropenia,class_4,snomedct_us
+quaranfil fever,class_4,snomedct_us
+actinomycotic pneumonia,class_4,snomedct_us
+murine pneumonia virus,class_4,snomedct_us
+abscess of lung with pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+mosquito-borne bunyavirus hemorrhagic fever,class_4,snomedct_us
+sepsis caused by methicillin resistant staphylococcus aureus,class_4,snomedct_us
+puerperal sepsis with postnatal complication,class_4,snomedct_us
+mosquito-borne bwamba group virus fever,class_4,snomedct_us
+carditis due to rheumatic fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6a capsular polysaccharide antigen conjugated,class_4,snomedct_us
+chronic q fever,class_4,snomedct_us
+malayan filarial fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9n igg,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 14 antibody,class_4,snomedct_us
+chlamydia pneumoniae antigen assay,class_4,snomedct_us
+eosinophilic pneumonia,class_4,snomedct_us
+"pneumonia, ventilator-associated",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 3 capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+colorado tick fever,class_4,snomedct_us
+rickettsia spotted fever group igm,class_4,snomedct_us
+scarlet fever,class_4,snomedct_us
+etiocholanolone fever,class_4,snomedct_us
+history of glandular fever,class_4,snomedct_us
+congenital group b hemolytic streptococcal pneumonia,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 1 antibody,class_4,snomedct_us
+east coast fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19a,class_4,snomedct_us
+neonatal pneumonia,class_4,snomedct_us
+nocardia pneumoniae,class_4,snomedct_us
+perinatal sepsis caused by streptococcus agalactiae,class_4,snomedct_us
+glandular fever screening test,class_4,snomedct_us
+puerperal sepsis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 22f capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+central fever,class_4,snomedct_us
+mosquito-borne serogroup c bunyavirus fever,class_4,snomedct_us
+onycho-tricho-dysplasia neutropenia syndrome,class_4,snomedct_us
+paratyphoid b fever,class_4,snomedct_us
+idiopathic acute eosinophilic pneumonia,class_4,snomedct_us
+sepsis due to methicillin-sensitive staphylococcus aureus,class_4,snomedct_us
+pneumonitis due to inhalation of vomitus,class_4,snomedct_us
+postoperative fever,class_4,snomedct_us
+ebola virus disease not suspected,class_4,snomedct_us
+typhoid fever,class_4,snomedct_us
+traumatic pneumonia,class_4,snomedct_us
+cavitary pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1 capsular polysaccharide antigen,class_4,snomedct_us
+systemic inflammatory response syndrome,class_4,snomedct_us
+sepsis due to haemophilus influenzae type b,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6h,class_4,snomedct_us
+sepsis caused by anaerobic bacteria,class_4,snomedct_us
+rubella pneumonia,class_4,snomedct_us
+infective pneumonia,class_4,snomedct_us
+"post diphtheria, tetanus and pertussis vaccination fever",class_4,snomedct_us
+neutrophil count decreased,class_4,snomedct_us
+calchaqui fever,class_4,snomedct_us
+myocardial dysfunction with sepsis,class_4,snomedct_us
+sepsis caused by pseudomonas aeruginosa,class_4,snomedct_us
+sepsis due to pseudomonas,class_4,snomedct_us
+desquamative interstitial pneumonia,class_4,snomedct_us
+apyrexial,class_4,snomedct_us
+pneumonia due to human metapneumovirus,class_4,snomedct_us
+bilateral basal pneumonia,class_4,snomedct_us
+sepsis without acute organ dysfunction caused by streptococcus pneumoniae,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 8 antibody,class_4,snomedct_us
+right lower zone pneumonia,class_4,snomedct_us
+autosomal recessive severe congenital neutropenia due to csf3r deficiency,class_4,snomedct_us
+boutonneuse fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 10a capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f igg,class_4,snomedct_us
+yellow fever vaccination contraindicated,class_4,snomedct_us
+viral pneumonia due to epstein-barr virus infectious mononucleosis,class_4,snomedct_us
+streptococcus pneumoniae serogroup 23,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4 igg,class_4,snomedct_us
+enteroviral exanthematous fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 2 capsular polysaccharide,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 3 igg,class_4,snomedct_us
+intrauterine sepsis of fetus,class_4,snomedct_us
+transient respiratory distress with sepsis,class_4,snomedct_us
+streptococcus pneumoniae antibody,class_4,snomedct_us
+neutropenia associated with autoimmune disease,class_4,snomedct_us
+mycoplasmal postpartum fever,class_4,snomedct_us
+brazilian purpuric fever,class_4,snomedct_us
+alkhurma virus,class_4,snomedct_us
+chlamydophila pneumoniae dna,class_4,snomedct_us
+congenital neutropenia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 15a,class_4,snomedct_us
+community acquired pneumonia,class_4,snomedct_us
+streptococcus pneumoniae serogroup 7,class_4,snomedct_us
+orunga virus disease,class_4,snomedct_us
+rocky mountain spotted fever vaccination,class_4,snomedct_us
+oroya fever,class_4,snomedct_us
+non-infectious pneumonia,class_4,snomedct_us
+acute mycoplasmal bronchitis,class_4,snomedct_us
+sepsis caused by staphylococcus,class_4,snomedct_us
+pneumonia with aids (acquired immunodeficiency syndrome),class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+yellow fever virus rna,class_4,snomedct_us
+education about managing fever,class_4,snomedct_us
+relapsing fever of southwest u.s. and/or mexico,class_4,snomedct_us
+chronic hypoplastic neutropenia,class_4,snomedct_us
+recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection,class_4,snomedct_us
+autosomal recessive severe congenital neutropenia due to cxcr2 deficiency,class_4,snomedct_us
+venezuelan hemorrhagic fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 15b,class_4,snomedct_us
+sepsis without acute organ dysfunction caused by serratia species,class_4,snomedct_us
+rheumatic fever,class_4,snomedct_us
+yellow fever vaccine,class_4,snomedct_us
+pneumonia caused by influenza a virus,class_4,snomedct_us
+chlamydophila pneumoniae rrna,class_4,snomedct_us
+sepsis caused by streptococcus,class_4,snomedct_us
+mosquito-borne guama group virus fever,class_4,snomedct_us
+adverse reaction to pneumococcal vaccine,class_4,snomedct_us
+hay fever with asthma,class_4,snomedct_us
+borrelia recurrentis infection,class_4,snomedct_us
+rheumatic fever nodule,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 43 igg,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18f igg,class_4,snomedct_us
+alcelaphine herpesvirus 1,class_4,snomedct_us
+tnf receptor-associated periodic fever syndrome (traps),class_4,snomedct_us
+pneumonia due to infection by streptococcus pyogenes,class_4,snomedct_us
+pneumonia due to schistosoma mansoni,class_4,snomedct_us
+mycoplasma pneumoniae rrna assay,class_4,snomedct_us
+sepsis without septic shock,class_4,snomedct_us
+autoinflammation with infantile enterocolitis,class_4,snomedct_us
+haemophilus influenzae pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11a igg,class_4,snomedct_us
+streptococcus pneumoniae igm,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f capsular polysaccharide antigen conjugated to corynebacterium diphtheriae toxoid protein,class_4,snomedct_us
+q fever myocarditis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1 igg,class_4,snomedct_us
+administration of scarlet fever antitoxin,class_4,snomedct_us
+acute rheumatic pancarditis,class_4,snomedct_us
+neonatal early-onset sepsis,class_4,snomedct_us
+viral fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 15f,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 5 igg,class_4,snomedct_us
+izumi fever,class_4,snomedct_us
+mucambo fever,class_4,snomedct_us
+swinging fever,class_4,snomedct_us
+sepsis due to erysipelothrix,class_4,snomedct_us
+pneumonia caused by enterococcus faecalis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18b,class_4,snomedct_us
+sepsis caused by salmonella,class_4,snomedct_us
+grain fever,class_4,snomedct_us
+maternal transfer neutropenia,class_4,snomedct_us
+rift valley fever,class_4,snomedct_us
+pneumococcal conjugate vaccination,class_4,snomedct_us
+mosquito-borne alphavirus fever,class_4,snomedct_us
+sepsis associated with internal vascular access,class_4,snomedct_us
+sodoku,class_4,snomedct_us
+streptococcus pneumoniae capsular polysaccharide antigen,class_4,snomedct_us
+streptococcus pneumoniae serogroup 7 antibody,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 14 igg,class_4,snomedct_us
+"mycoplasma species, not mycoplasma pneumoniae",class_4,snomedct_us
+gastrointestinal ulceration due to sepsis,class_4,snomedct_us
+"dengue hemorrhagic fever, grade i",class_4,snomedct_us
+mosquito-borne flavivirus fever,class_4,snomedct_us
+mosquito-borne hemorrhagic fever,class_4,snomedct_us
+acute interstitial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f capsular polysaccharide antigen conjugated,class_4,snomedct_us
+yellow fever virus,class_4,snomedct_us
+idiopathic eosinophilic pneumonia,class_4,snomedct_us
+q fever,class_4,snomedct_us
+q fever osteomyelitis,class_4,snomedct_us
+hemorrhagic pneumonia,class_4,snomedct_us
+chikungunya fever,class_4,snomedct_us
+pixuna fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33f capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+alloimmune neonatal neutropenia,class_4,snomedct_us
+trivittatus fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 2 capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 21,class_4,snomedct_us
+chronic idiopathic neutropenia,class_4,snomedct_us
+leptospirosis,class_4,snomedct_us
+humidifier fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 35c,class_4,snomedct_us
+sepsis caused by serratia,class_4,snomedct_us
+neapolitan sandfly fever,class_4,snomedct_us
+drug-induced neutropenia,class_4,snomedct_us
+bilateral pneumonia,class_4,snomedct_us
+bacterial sepsis of newborn,class_4,snomedct_us
+fever with rigors,class_4,snomedct_us
+african tick-bite fever,class_4,snomedct_us
+q fever endocarditis,class_4,snomedct_us
+congenital viral pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+post diphtheria vaccination fever,class_4,snomedct_us
+line sepsis associated with dialysis catheter,class_4,snomedct_us
+coxiella burnetii (q fever) antibody measurement,class_4,snomedct_us
+infectious disorder of bronchus,class_4,snomedct_us
+sepsis caused by clostridium,class_4,snomedct_us
+pneumonia due to escherichia coli,class_4,snomedct_us
+streptococcus pneumoniae serogroup 11,class_4,snomedct_us
+family education about sepsis,class_4,snomedct_us
+pattern of fever,class_4,snomedct_us
+gemella species or streptococcus pneumoniae,class_4,snomedct_us
+junin virus,class_4,snomedct_us
+invasive streptococcus pneumoniae disease,class_4,snomedct_us
+yellow fever virus igg,class_4,snomedct_us
+acute bronchiolitis,class_4,snomedct_us
+pneumonia due to parasitic infestation,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9v capsular polysaccharide antigen conjugated,class_4,snomedct_us
+abdominal infection,class_4,snomedct_us
+congenital chlamydial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 41f,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 16f,class_4,snomedct_us
+antibiotic given for suspected neonatal sepsis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f igg,class_4,snomedct_us
+carbapenem resistant klebsiella pneumoniae,class_4,snomedct_us
+acute rheumatic carditis,class_4,snomedct_us
+sepsis due to bacillus anthracis,class_4,snomedct_us
+sandfly fever naples virus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 28a,class_4,snomedct_us
+fever relief cloth,class_4,snomedct_us
+klebsiella pneumoniae subsp. ozaenae,class_4,snomedct_us
+q fever encephalitis,class_4,snomedct_us
+history of neutropenia,class_4,snomedct_us
+group b streptococcal pneumonia,class_4,snomedct_us
+neutropenia with dysgranulopoiesis,class_4,snomedct_us
+transient neonatal neutropenia due to congenital viral infection,class_4,snomedct_us
+myelitis caused by mycoplasma pneumoniae,class_4,snomedct_us
+meningitis due to friedlander bacillus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 10c,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f ab,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 36,class_4,snomedct_us
+rheumatic fever without heart involvement,class_4,snomedct_us
+sepsis,class_4,snomedct_us
+perinatal sepsis caused by escherichia coli,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 4 antibody,class_4,snomedct_us
+chlamydia pneumoniae infections,class_4,snomedct_us
+tahyna fever,class_4,snomedct_us
+sepsis caused by erysipelothrix rhusiopathiae,class_4,snomedct_us
+pneumococcal 13-valent conjugate vaccine,class_4,snomedct_us
+streptococcus pneumoniae serogroup 15,class_4,snomedct_us
+primary pulmonary coccidioidomycosis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33d,class_4,snomedct_us
+pneumonia due to staphylococcus aureus,class_4,snomedct_us
+tick-borne orthobunyavirus fever,class_4,snomedct_us
+spotted fever group rickettsiosis,class_4,snomedct_us
+sepsis caused by proteus,class_4,snomedct_us
+streptococcus pneumoniae antigen-containing vaccine product,class_4,snomedct_us
+"hemorrhagic fever, omsk",class_4,snomedct_us
+fever due to infection,class_4,snomedct_us
+sepsis caused by acinetobacter baumannii,class_4,snomedct_us
+adult chronic idiopathic neutropenia,class_4,snomedct_us
+pneumonia due to h1n1 influenza,class_4,snomedct_us
+periodontitis exacerbated by acquired neutropenia,class_4,snomedct_us
+3-methylglutaconic aciduria type 7,class_4,snomedct_us
+catu virus disease,class_4,snomedct_us
+bronchopneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+chlamydial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 10f,class_4,snomedct_us
+measurement of spotted fever group rickettsia antibody,class_4,snomedct_us
+non dose-related drug-induced neutropenia,class_4,snomedct_us
+cytomegaloviral pneumonia,class_4,snomedct_us
+genus phlebovirus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7f capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+quotidien fever,class_4,snomedct_us
+bhanja virus disease,class_4,snomedct_us
+pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection,class_4,snomedct_us
+hyperimmunoglobulinemia d,class_4,snomedct_us
+bwamba virus disease,class_4,snomedct_us
+tick-borne relapsing fever,class_4,snomedct_us
+viremia,class_4,snomedct_us
+paratyphoid fever vaccination,class_4,snomedct_us
+quaranfil virus,class_4,snomedct_us
+aspiration pneumonia due to inhalation of milk,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 16a,class_4,snomedct_us
+meningococcal meningitis,class_4,snomedct_us
+spondweni fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 25a,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19f capsular polysaccharide antigen conjugated,class_4,snomedct_us
+rickettsia spotted fever group rna,class_4,snomedct_us
+malaria,class_4,snomedct_us
+rocky mountain spotted fever vaccine,class_4,snomedct_us
+febrile convulsions,class_4,snomedct_us
+lingular pneumonia,class_4,snomedct_us
+pneumococcal pneumonia with aids (acquired immunodeficiency syndrome),class_4,snomedct_us
+chlamydophila pneumoniae,class_4,snomedct_us
+mycoplasmal postabortal fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 4 capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 44,class_4,snomedct_us
+intermittent hepatic fever,class_4,snomedct_us
+disorder characterized by fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 3,class_4,snomedct_us
+sepsis due to candida,class_4,snomedct_us
+carrington syndrome,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b igg,class_4,snomedct_us
+primary atypical pneumonia,class_4,snomedct_us
+streptococcus pneumoniae group b antigen assay,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 14 ab,class_4,snomedct_us
+hospital acquired pneumonia,class_4,snomedct_us
+q fever hepatitis,class_4,snomedct_us
+bacterial infection due to klebsiella pneumoniae,class_4,snomedct_us
+shuni virus disease,class_4,snomedct_us
+guama virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 45,class_4,snomedct_us
+dental abscess,class_4,snomedct_us
+administration of pneumococcal 13-valent conjugate vaccine,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9v capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+endogenous lipid pneumonia,class_4,snomedct_us
+periodontitis exacerbated by cyclical neutropenia,class_4,snomedct_us
+nonspecific interstitial pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 24b,class_4,snomedct_us
+tularemia,class_4,snomedct_us
+right ventricular failure with sepsis,class_4,snomedct_us
+borrelia hermsii infection,class_4,snomedct_us
+spiking temperature,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 19a capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18c,class_4,snomedct_us
+mosquito-borne flavivirus hemorrhagic fever,class_4,snomedct_us
+left lower zone pneumonia,class_4,snomedct_us
+primary splenic neutropenia,class_4,snomedct_us
+bronchopneumonia due to mycoplasma pneumoniae,class_4,snomedct_us
+seasonal cryptogenic organizing pneumonia with biochemical cholestasis,class_4,snomedct_us
+irregular fever,class_4,snomedct_us
+o'nyong-nyong fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7a igg,class_4,snomedct_us
+acquired neutropenia,class_4,snomedct_us
+atypical pneumonia screening test,class_4,snomedct_us
+oriboca virus disease,class_4,snomedct_us
+sepsis following obstructed labor,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 28f,class_4,snomedct_us
+exanthema subitum,class_4,snomedct_us
+multiple drug-resistant klebsiella pneumoniae,class_4,snomedct_us
+quartan fever,class_4,snomedct_us
+classical swine fever virus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 34 igg,class_4,snomedct_us
+"neutropenia, severe congenital, autosomal recessive 3",class_4,snomedct_us
+changuinola virus disease,class_4,snomedct_us
+mayaro fever,class_4,snomedct_us
+acute q fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11c,class_4,snomedct_us
+acquired neutropenia in newborn,class_4,snomedct_us
+rickettsia spotted fever group igg,class_4,snomedct_us
+extended spectrum beta-lactamase producing klebsiella pneumoniae,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 18c antibody,class_4,snomedct_us
+brill-zinsser disease,class_4,snomedct_us
+neonatal sepsis caused by staphylococcus,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 33b,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11f,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 38,class_4,snomedct_us
+left hip joint arthritis caused by streptococcus pneumoniae,class_4,snomedct_us
+"hemorrhagic fever virus, crimean-congo",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 5 capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+right shoulder region pneumococcal arthritis,class_4,snomedct_us
+"size (area, depth), sepsis, arteriopathy, denervation system",class_4,snomedct_us
+pneumonia due to schistosoma japonicum,class_4,snomedct_us
+chandipura virus disease,class_4,snomedct_us
+dugbe virus disease,class_4,snomedct_us
+sepsis due to enterobacter,class_4,snomedct_us
+sepsis caused by streptococcus pneumoniae,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23b,class_4,snomedct_us
+pneumonia due to influenza,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 23f capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9v capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+chronic benign neutropenia,class_4,snomedct_us
+klebsiella quasipneumoniae subsp. quasipneumoniae,class_4,snomedct_us
+sepsis due to staphylococcus aureus,class_4,snomedct_us
+"hemorrhagic fevers, viral",class_4,snomedct_us
+manganese pneumonitis,class_4,snomedct_us
+intermittent fever (finding),class_4,snomedct_us
+tick-borne orbivirus fever,class_4,snomedct_us
+pneumonia in systemic mycosis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b capsular polysaccharide antigen unconjugated,class_4,snomedct_us
+administration of booster dose of pneumococcal vaccine,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11a capsular polysaccharide unconjugated antigen,class_4,snomedct_us
+mycoplasma pneumoniae dna assay,class_4,snomedct_us
+chronic progressive coccidioidal pneumonia,class_4,snomedct_us
+uveoparotid fever,class_4,snomedct_us
+rio bravo fever,class_4,snomedct_us
+"periodic fever, aphthous stomatitis, pharyngitis, adenitis syndrome",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 14 capsular polysaccharide antigen conjugated,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6e,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 13,class_4,snomedct_us
+measurement of streptococcus pneumoniae danish serotype 3 antibody,class_4,snomedct_us
+hantaan virus,class_4,snomedct_us
+mycoplasma pneumoniae,class_4,snomedct_us
+"ephemeral fever virus, bovine",class_4,snomedct_us
+biliary tract infection,class_4,snomedct_us
+sepsis caused by meningococcus,class_4,snomedct_us
+periodontitis due to congenital neutropenia,class_4,snomedct_us
+spotted fever group rickettsia antibody,class_4,snomedct_us
+clinical sepsis,class_4,snomedct_us
+ganjam virus disease,class_4,snomedct_us
+dehydration fever in newborn,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 7a,class_4,snomedct_us
+pharyngo-conjunctival fever,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 1 capsular polysaccharide antigen conjugated to nontypeable haemophilus influenzae protein d,class_4,snomedct_us
+sepsis caused by monkeypox virus,class_4,snomedct_us
+history of yellow fever vaccination,class_4,snomedct_us
+acute exogenous lipoid pneumonia,class_4,snomedct_us
+sepsis caused by peptostreptococcus,class_4,snomedct_us
+ross river virus infection,class_4,snomedct_us
+chronic coccidioidomycotic pneumonia,class_4,snomedct_us
+streptococcus pneumoniae serogroup 10,class_4,snomedct_us
+glandular fever pharyngitis,class_4,snomedct_us
+acute coccidioidomycosis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 18f ab,class_4,snomedct_us
+sepsis caused by klebsiella pneumoniae,class_4,snomedct_us
+fever of the newborn,class_4,snomedct_us
+nocardial pneumonia,class_4,snomedct_us
+pneumonia caused by serratia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 29,class_4,snomedct_us
+"pneumonia, necrotizing",class_4,snomedct_us
+streptococcus pneumoniae danish serotype 9v igg,class_4,snomedct_us
+scrub typhus,class_4,snomedct_us
+hazara hemorrhagic fever,class_4,snomedct_us
+q fever aseptic meningitis,class_4,snomedct_us
+rheumatic arthritis,class_4,snomedct_us
+antigen of streptococcus pneumoniae danish serotype 17f capsular polysaccharide unconjugated (substance),class_4,snomedct_us
+streptococcus pneumoniae danish serotype 48,class_4,snomedct_us
+administration of prophylactic anti-infective agent for pneumocystosis jirovecii pneumonia,class_4,snomedct_us
+yellow fever virus ag,class_4,snomedct_us
+bancroftian filarial fever,class_4,snomedct_us
+postoperative pneumonia,class_4,snomedct_us
+yellow fever,class_4,snomedct_us
+machupo virus,class_4,snomedct_us
+pneumococcal lobar pneumonia,class_4,snomedct_us
+carbapenemase-producing klebsiella pneumoniae,class_4,snomedct_us
+history of pneumocystis jirovecii pneumonia,class_4,snomedct_us
+chlamydophila pneumoniae igm,class_4,snomedct_us
+at risk for sepsis,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6b ab,class_4,snomedct_us
+chronic exogenous lipoid pneumonia,class_4,snomedct_us
+benign ethnic neutropenia,class_4,snomedct_us
+sepsis of newborn due to escherichia coli,class_4,snomedct_us
+autosomal recessive severe congenital neutropenia due to jagn1 deficiency,class_4,snomedct_us
+adenoviral pneumonia,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6f,class_4,snomedct_us
+streptococcus pneumoniae polysaccharide antibody,class_4,snomedct_us
+sepsis due to acinetobacter,class_4,snomedct_us
+isfahan fever,class_4,snomedct_us
+phase of fever,class_4,snomedct_us
+vaccine product containing only streptococcus pneumoniae capsular polysaccharide antigen conjugated (medicinal product),class_4,snomedct_us
+streptococcus pneumoniae danish serotype 27,class_4,snomedct_us
+yellow fever vaccination given,class_4,snomedct_us
+streptococcus pneumoniae,class_4,snomedct_us
+history of dengue virus infection,class_4,snomedct_us
+"rickettsia, spotted fever group",class_4,snomedct_us
+acute pneumonia due to coccidioidomycosis,class_4,snomedct_us
+immune neutropenia,class_4,snomedct_us
+murutucu virus disease,class_4,snomedct_us
+administration of pneumococcal 7-valent conjugate vaccine,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 11b,class_4,snomedct_us
+idiopathic pneumonia syndrome,class_4,snomedct_us
+tribec virus disease,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 10a capsular polysaccharide antigen,class_4,snomedct_us
+at high risk for ebola virus disease,class_4,snomedct_us
+drug resistant streptococcus pneumoniae disease,class_4,snomedct_us
+calovo virus disease,class_4,snomedct_us
+chronic fever,class_4,snomedct_us
+tuberculous pneumonia,class_4,snomedct_us
+colorado tick fever virus igg,class_4,snomedct_us
+severe fever with thrombocytopenia syndrome,class_4,snomedct_us
+low grade fever,class_4,snomedct_us
+right middle zone pneumonia,class_4,snomedct_us
+otu deubiquitinase with linear linkage specificity related autoinflammatory syndrome (disorder),class_4,snomedct_us
+anti-glomerular basement membrane disease,class_4,snomedct_us
+sepsis caused by bacteroides,class_4,snomedct_us
+hypostatic pneumonia,class_4,snomedct_us
+meningococcal pneumonia,class_4,snomedct_us
+sepsis of newborn due to streptococcus agalactiae,class_4,snomedct_us
+amyloid of familial mediterranean fever,class_4,snomedct_us
+miscarriage with sepsis,class_4,snomedct_us
+relapsing fever of central and/or south africa,class_4,snomedct_us
+anaphylaxis caused by vaccine product containing streptococcus pneumoniae antigen,class_4,snomedct_us
+right hip joint arthritis caused by streptococcus pneumoniae,class_4,snomedct_us
+allergy to pneumococcal vaccine,class_4,snomedct_us
+streptococcus pneumoniae capsular polysaccharide igg,class_4,snomedct_us
+streptococcus pneumoniae danish serotype 6a capsular polysaccharide antigen conjugated to corynebacterium diphtheriae crm197 protein,class_4,snomedct_us
+sepsis with cutaneous manifestations,class_4,snomedct_us
+sepik fever,class_4,snomedct_us
+colorado tick fever virus,class_4,snomedct_us
+sepsis caused by coagulase negative staphylococcus,class_4,snomedct_us
+acute rheumatic valvulitis,class_4,snomedct_us
+ lbp ,class_1,abbreviation
+ ha ,class_1,abbreviation
+h/a,class_1,abbreviation
+ cp ,class_1,abbreviation
+d.o.e.,class_1,abbreviation
+ gi ,class_2,abbreviation
+nb/nb,class_2,abbreviation
+ crd ,class_2,abbreviation
+ abd ,class_2,abbreviation
+ age ,class_2,abbreviation
+n&v&d,class_2,abbreviation
+ nb ,class_2,abbreviation
+ gerd ,class_2,abbreviation
+ bm ,class_2,abbreviation
+n&v,class_2,abbreviation
+d&v,class_2,abbreviation
+ nv ,class_2,abbreviation
+ ibs ,class_2,abbreviation
+ wbm ,class_2,abbreviation
+n/v/d nbnb ,class_2,abbreviation
+n/v,class_2,abbreviation
+ rinv ,class_2,abbreviation
+ cinv ,class_2,abbreviation
+ ponv ,class_2,abbreviation
+ nvd ,class_2,abbreviation
+ nvdc ,class_2,abbreviation
+ cid,class_2,abbreviation
+ aad ,class_2,abbreviation
+d&d,class_2,abbreviation
+get oob,class_3,abbreviation
+ hbp ,class_3,abbreviation
+ cbc,class_3,abbreviation
+ shob ,class_3,abbreviation
+ ebl ,class_3,abbreviation
+ fe ,class_3,abbreviation
+ abla ,class_3,abbreviation
+ rbc ,class_3,abbreviation
+ aiha ,class_3,abbreviation
+ aha ,class_3,abbreviation
+ fn ,class_4,abbreviation
+ inf ,class_4,abbreviation
+ qsofa ,class_4,abbreviation
+ fuo ,class_4,abbreviation
+ sirs ,class_4,abbreviation
+ ain ,class_4,abbreviation
+ cin ,class_4,abbreviation
+f&c,class_4,abbreviation
+ map ,class_4,abbreviation
+ bp ,class_4,abbreviation
+ lrti ,class_4,abbreviation
+ pcp ,class_4,abbreviation
+ anc ,class_4,abbreviation
+ cbc,class_4,abbreviation
+ ne ,class_4,abbreviation
+ wbc ,class_4,abbreviation
+f/c,class_4,abbreviation
+nφ,class_4,abbreviation
+ psi ,class_4,abbreviation
+ puo ,class_4,abbreviation
+ pna ,class_4,abbreviation
+ sofa ,class_4,abbreviation
+ shob ,class_4,abbreviation
+ sbp ,class_4,abbreviation
+ cxr ,class_4,abbreviation
+ach,class_1,additional
+diffic,class_1,additional
+irrit,class_1,additional
+heav,class_1,additional
+bother,class_1,additional
+suffer,class_1,additional
+crisi,class_1,additional
+annoy,class_1,additional
+inflammation,class_1,additional
+tens,class_1,additional
+wound,class_1,additional
+anguish,class_1,additional
+hurt,class_1,additional
+bad,class_1,additional
+spasm,class_1,additional
+swollen,class_1,additional
+numb,class_1,additional
+sore,class_1,additional
+uncomfort,class_1,additional
+distress,class_1,additional
+rawness,class_1,additional
+injursensitivity,class_1,additional
+agony,class_1,additional
+stinging,class_1,additional
+burn,class_1,additional
+tingl,class_1,additional
+lancinating,class_1,additional
+heart burn,class_2,additional
+disgorge,class_2,additional
+abdom,class_2,additional
+loss of electrolytes,class_2,additional
+lack of hydration,class_2,additional
+electrolyte,class_2,additional
+puk,class_2,additional
+dry,class_2,additional
+barf,class_2,additional
+motion sickness,class_2,additional
+queasy,class_2,additional
+throw,class_2,additional
+dizz,class_2,additional
+stomach,class_2,additional
+acid reflux,class_2,additional
+giddy,class_2,additional
+visceral,class_2,additional
+stomach ache,class_2,additional
+exhaust,class_2,additional
+water loss,class_2,additional
+queasiness,class_2,additional
+dri,class_2,additional
+reflux,class_2,additional
+digest,class_2,additional
+threw,class_2,additional
+dessicc,class_2,additional
+reduced fluid intake,class_2,additional
+bloat,class_2,additional
+upset stomach,class_2,additional
+throat,class_2,additional
+sick to my stomach,class_2,additional
+light-headed,class_2,additional
+lightheaded,class_2,additional
+disgust,class_2,additional
+throwing up,class_2,additional
+excessive sweating,class_2,additional
+losse,class_2,additional
+depletion of fluids,class_2,additional
+dry heave,class_2,additional
+vertigo,class_2,additional
+regurgitat,class_2,additional
+rectum,class_2,additional
+burn,class_2,additional
+retching,class_2,additional
+dyspepsia,class_2,additional
+sick,class_2,additional
+weariness,class_3,additional
+cold,class_3,additional
+drows,class_3,additional
+letharg,class_3,additional
+shortness of breath,class_3,additional
+iron,class_3,additional
+hematocrit,class_3,additional
+rapid heart rate,class_3,additional
+weary,class_3,additional
+blood,class_3,additional
+dizz,class_3,additional
+sleepy,class_3,additional
+exhaust,class_3,additional
+heartbeat,class_3,additional
+listless ,class_3,additional
+sleepiness,class_3,additional
+no energy,class_3,additional
+hemoglobin,class_3,additional
+skin,class_3,additional
+palpit,class_3,additional
+light-headed,class_3,additional
+lightheaded,class_3,additional
+jaundice,class_3,additional
+yellow,class_3,additional
+hypothyroid,class_3,additional
+deficien,class_3,additional
+pale skin,class_3,additional
+oxygen,class_3,additional
+iron-deficiency,class_3,additional
+worn out,class_3,additional
+tired,class_3,additional
+pallor,class_3,additional
+disorient,class_4,additional
+sweat,class_4,additional
+weak,class_4,additional
+chill,class_4,additional
+bacteria,class_4,additional
+flushed face,class_4,additional
+hot flashes,class_4,additional
+faint,class_4,additional
+washed out,class_4,additional
+trembl,class_4,additional
+fatigue,class_4,additional
+leukocyte,class_4,additional
+glassy eyes,class_4,additional
+viral,class_4,additional
+tissue,class_4,additional
+virus,class_4,additional
+difficulty breathing,class_4,additional
+flushing,class_4,additional
+shaking chills,class_4,additional
+toxin,class_4,additional
+infect,class_4,additional
+pulmonary infection,class_4,additional
+respiratory infection,class_4,additional
+granulocyto,class_4,additional
+chest infection,class_4,additional
+confus,class_4,additional
+febri,class_4,additional
+shiver,class_4,additional
+respirat,class_4,additional
+energy,class_4,additional
+high temperature,class_4,additional
+elevated body temperature,class_4,additional
+shudder,class_4,additional
+leukopenia,class_4,additional
+prick,class_1,additional
+damage,class_1,additional
+sting,class_1,additional
+misery,class_1,additional
+sweat,class_2,additional
+bowel movements,class_2,additional
+upper abdominal discomfort,class_2,additional
+dry mouth,class_2,additional
+ejection,class_2,additional
+bowel,class_2,additional
+dry skin,class_2,additional
+contracions,class_2,additional
+fluid,class_2,additional
+spasmic contractions,class_2,additional
+forceful ejection,class_2,additional
+urge to vomit,class_2,additional
+spasm,class_2,additional
+dizziness,class_2,additional
+liquid,class_2,additional
+watery bowel movements,class_2,additional
+expulsion,class_2,additional
+feeling very thirsty,class_2,additional
+feeling tiredd,class_2,additional
+cramp,class_2,additional
+mucous,class_3,additional
+mucous membranes,class_3,additional
+soft systolic murmurs,class_3,additional
+fatigability,class_3,additional
+erythrocytes,class_3,additional
+palpiltations,class_3,additional
+pallor of the skin,class_3,additional
+lethargy,class_3,additional
+sob,class_3,additional
+confusion,class_4,additional
+clammy,class_4,additional
+lung,class_4,additional
+inflammation,class_4,additional
+skin,class_4,additional
+disorientation,class_4,additional
+rapid breathing,class_4,additional
+parenchyma,class_4,additional
+phlegm,class_4,additional
+heart rate,class_4,additional
+sob,class_4,additional
+sweaty,class_4,additional
+frequent stool,class_2,additional
+feeling hot,class_4,additional
+increased temperature,class_4,additional
+raised body temperature,class_4,additional

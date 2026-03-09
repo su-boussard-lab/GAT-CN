@@ -1,0 +1,31 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Nausea,C0027497,MTH,nausea,701
+No nausea,C0423584,MTH,nausea,49
+Postoperative Nausea,C0520904,MSH,nausea,11
+Morning nausea,C0240352,SNOMEDCT_US,nausea,0
+Functional nausea,C4546083,SNOMEDCT_US,nausea,0
+Level of nausea,C3839628,SNOMEDCT_US,nausea,0
+Assessment of nausea,C5687780,SNOMEDCT_US,nausea,0
+Postoperative Nausea and Vomiting,C0520909,MSH,nausea,11
+Nausea and vomiting,C0027498,MTH,nausea,236
+Chemotherapy-induced nausea and vomiting,C0401160,SNOMEDCT_US,nausea,19
+Nausea care education,C1443410,SNOMEDCT_US,nausea,0
+Vomiting without nausea,C2910398,SNOMEDCT_US,nausea,1
+Nausea care management,C1443411,SNOMEDCT_US,nausea,0
+Increased nausea and vomiting,C0520906,SNOMEDCT_US,nausea,1
+Intractable nausea and vomiting,C3697880,SNOMEDCT_US,nausea,8
+Nausea care assessment,C1443409,SNOMEDCT_US,nausea,0
+Decreased nausea and vomiting,C0520907,SNOMEDCT_US,nausea,0
+Absence of nausea and vomiting,C0520908,SNOMEDCT_US,nausea,3
+Radiation-induced nausea and vomiting,C0520911,SNOMEDCT_US,nausea,0
+Drug-induced nausea and vomiting,C0267204,SNOMEDCT_US,nausea,0
+Tendency to nausea and vomiting,C1532194,SNOMEDCT_US,nausea,0
+Able to communicate about nausea,C5141200,SNOMEDCT_US,nausea,0
+Nausea and vomiting status: disruptive effects,C1319169,SNOMEDCT_US,nausea,0
+Nausea care,C1171206,SNOMEDCT_US,nausea,0
+Nausea present,C0423583,SNOMEDCT_US,nausea,1
+History of severe nausea and vomiting following administration of anesthetic agent,C4510184,SNOMEDCT_US,nausea,0
+"Nausea, vomiting and diarrhea",C0151791,SNOMEDCT_US,nausea,0
+Nausea and vomiting status,C1319170,SNOMEDCT_US,nausea,0
+Nausea and vomiting control behavior,C1321112,SNOMEDCT_US,nausea,0
+Nausea and vomiting following administration of anesthetic agent,C4510181,SNOMEDCT_US,nausea,0

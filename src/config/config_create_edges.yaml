@@ -1,0 +1,7 @@
+
+preprocessed_data_folder: "data_preprocessed"
+dic_path: "graph_data/TrainTest"
+train_path: "TrainTest/train"
+val_path: "TrainTest/test"
+graph_data_folder: "graph_data"
+pmi_matrix: true 

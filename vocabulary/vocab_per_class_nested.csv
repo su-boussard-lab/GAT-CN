@@ -1,0 +1,409 @@
+NAME,DIAGNOSE,TYPE,OCCURENCE
+fever,class_4,seed,342
+skin,class_4,additional,331
+oral,class_4,clinician,313
+infect,class_4,additional,306
+cough,class_4,clinician,292
+ wbc ,class_4,abbreviation,261
+lung,class_4,additional,252
+neut,class_4,seed,246
+respirat,class_4,additional,243
+chills,class_4,clinician,235
+chill,class_4,additional,235
+ cbc,class_4,abbreviation,220
+ cxr ,class_4,abbreviation,199
+seps,class_4,seed,197
+sepsis,class_4,snomedct_us,197
+shortness of breath,class_4,clinician,196
+febrile,class_4,seed,181
+febri,class_4,additional,181
+ bp ,class_4,abbreviation,160
+pneumo,class_4,seed,159
+sob,class_4,additional,141
+antibiotics,class_4,clinician,138
+neutropenia,class_4,snomedct_us,138
+weak,class_4,additional,131
+viral,class_4,additional,110
+pneumonia,class_4,snomedct_us,109
+elevated,class_4,clinician,106
+fatigue,class_4,additional,106
+ anc ,class_4,abbreviation,103
+neupogen,class_4,clinician,102
+core,class_4,clinician,88
+bacteria,class_4,additional,82
+pancy,class_4,seed,77
+tissue,class_4,additional,77
+consolid,class_4,seed,76
+confus,class_4,additional,76
+rectal,class_4,clinician,73
+shock,class_4,clinician,68
+neulasta,class_4,clinician,67
+consolidation,class_4,clinician,65
+ pcp ,class_4,abbreviation,62
+virus,class_4,additional,54
+dyspnea,class_4,clinician,51
+inflam,class_4,seed,47
+productive cough,class_4,clinician,46
+ pna ,class_4,abbreviation,45
+blood pressure,class_4,clinician,44
+sweat,class_4,additional,41
+febrile neutropenia,class_4,snomedct_us,40
+infiltrate,class_4,clinician,36
+oxygen,class_4,clinician,36
+confusion,class_4,additional,35
+septic,class_4,seed,32
+ sirs ,class_4,abbreviation,32
+hypoxia,class_4,clinician,31
+rigor,class_4,clinician,30
+ sbp ,class_4,abbreviation,27
+inflammation,class_4,additional,24
+parenchyma,class_4,additional,23
+low grade fever,class_4,snomedct_us,20
+chest x-ray,class_4,clinician,18
+high-grade,class_4,clinician,18
+shaking,class_4,clinician,14
+white blood cell,class_4,clinician,14
+septic shock,class_4,snomedct_us,14
+leukopenia,class_4,additional,14
+heart rate,class_4,additional,14
+low-grade,class_4,clinician,13
+faint,class_4,additional,10
+leukocyte,class_4,additional,10
+aspiration pneumonia,class_4,snomedct_us,9
+flushing,class_4,additional,9
+pressors,class_4,clinician,8
+difficulty breathing,class_4,additional,8
+respiratory infection,class_4,additional,8
+hypoxemia,class_4,clinician,7
+shaking chills,class_4,additional,7
+energy,class_4,additional,7
+postobstructive pneumonia,class_4,snomedct_us,6
+ map ,class_4,abbreviation,6
+phlegm,class_4,additional,5
+klebsiella pneumoniae,class_4,snomedct_us,4
+atypical pneumonia,class_4,snomedct_us,4
+shiver,class_4,additional,4
+hypertherm,class_4,seed,3
+thermometer,class_4,clinician,3
+systemic inflammatory response,class_4,clinician,3
+hay fever,class_4,snomedct_us,3
+community acquired pneumonia,class_4,snomedct_us,3
+f/c,class_4,abbreviation,3
+disorient,class_4,additional,3
+urosepsis,class_4,clinician,2
+neutropenic sepsis,class_4,snomedct_us,2
+treatment of fever,class_4,snomedct_us,2
+idiopathic pulmonary fibrosis,class_4,snomedct_us,2
+dengue fever,class_4,snomedct_us,2
+systemic inflammatory response syndrome,class_4,snomedct_us,2
+fever with rigors,class_4,snomedct_us,2
+abdominal infection,class_4,snomedct_us,2
+malaria,class_4,snomedct_us,2
+ fn ,class_4,abbreviation,2
+trembl,class_4,additional,2
+toxin,class_4,additional,2
+pulmonary infection,class_4,additional,2
+high temperature,class_4,additional,2
+disorientation,class_4,additional,2
+feeling hot,class_4,additional,2
+agran,class_4,seed,1
+body temperature,class_4,clinician,1
+low white count,class_4,clinician,1
+fever of unknown origin,class_4,clinician,1
+presumed source,class_4,clinician,1
+cough with fever,class_4,snomedct_us,1
+sepsis due to escherichia coli,class_4,snomedct_us,1
+bacterial sepsis,class_4,snomedct_us,1
+acute bronchiolitis,class_4,snomedct_us,1
+history of neutropenia,class_4,snomedct_us,1
+yellow fever,class_4,snomedct_us,1
+ ne ,class_4,abbreviation,1
+ psi ,class_4,abbreviation,1
+skin,class_3,additional,187
+ cbc,class_3,abbreviation,161
+anem,class_3,seed,148
+anemia,class_3,snomedct_us,148
+blood,class_3,additional,137
+weak,class_3,clinician,102
+dizz,class_3,additional,96
+shortness of breath,class_3,additional,92
+chronic anemia,class_3,snomedct_us,88
+tired,class_3,additional,83
+lightheaded,class_3,additional,75
+sob,class_3,additional,70
+fatigue,class_3,clinician,66
+yellow,class_3,additional,65
+marrow,class_3,clinician,57
+normocytic,class_3,clinician,33
+iron,class_3,additional,33
+normocytic anemia,class_3,snomedct_us,30
+hypothyroid,class_3,additional,28
+hemoglobin,class_3,additional,25
+dyspnea,class_3,clinician,20
+ rbc ,class_3,abbreviation,17
+palpit,class_3,additional,13
+deficien,class_3,additional,12
+mucous,class_3,additional,12
+jaundice,class_3,additional,10
+cold,class_3,additional,8
+hematocrit,class_3,additional,8
+iron deficiency,class_3,clinician,7
+red blood cell,class_3,clinician,6
+iron deficiency anemia,class_3,snomedct_us,6
+drows,class_3,additional,5
+oxygen,class_3,additional,5
+macrocytic,class_3,clinician,4
+microcytic,class_3,clinician,4
+anemia of chronic disease,class_3,snomedct_us,4
+microcytic anemia,class_3,snomedct_us,4
+pale,class_3,clinician,2
+myelodysplastic,class_3,clinician,2
+normocytic normochromic anemia,class_3,snomedct_us,2
+coombs negative hemolytic anemia,class_3,snomedct_us,2
+anemia in neoplastic disease,class_3,snomedct_us,2
+light-headed,class_3,additional,2
+pallor,class_3,additional,2
+mucous membranes,class_3,additional,2
+light headed,class_3,clinician,1
+relative anemia,class_3,snomedct_us,1
+letharg,class_3,additional,1
+naus,class_2,seed,161
+nausea,class_2,snomedct_us,157
+vomit,class_2,seed,156
+vomiting,class_2,snomedct_us,155
+bowel,class_2,additional,133
+abdom,class_2,additional,123
+dry,class_2,additional,118
+dri,class_2,additional,117
+diar,class_2,seed,114
+diarrhea,class_2,snomedct_us,114
+fluid,class_2,additional,80
+nausea and vomiting,class_2,snomedct_us,75
+dizz,class_2,additional,74
+throat,class_2,additional,66
+ age ,class_2,abbreviation,62
+gastro,class_2,clinician,58
+lightheaded,class_2,additional,53
+ gi ,class_2,abbreviation,52
+electrolyte,class_2,additional,52
+stool,class_2,clinician,47
+n/v,class_2,abbreviation,47
+dizziness,class_2,additional,45
+bowel movement,class_2,clinician,43
+dehy,class_2,seed,39
+bloody,class_2,clinician,39
+bowel movements,class_2,additional,38
+burn,class_2,additional,37
+dehydration,class_2,snomedct_us,32
+ bm ,class_2,abbreviation,32
+emes,class_2,seed,30
+sweat,class_2,additional,28
+reflux,class_2,additional,24
+ abd ,class_2,abbreviation,20
+ gerd ,class_2,abbreviation,20
+liquid,class_2,additional,20
+hyponatremia,class_2,clinician,19
+loose,class_2,clinician,19
+stomach,class_2,additional,15
+sick,class_2,additional,14
+gastroenter,class_2,seed,13
+watery,class_2,clinician,12
+ cinv ,class_2,abbreviation,12
+light-headed,class_2,additional,12
+rectum,class_2,additional,12
+enteritis,class_2,clinician,9
+no nausea,class_2,snomedct_us,8
+chemotherapy-induced nausea and vomiting,class_2,snomedct_us,8
+gastrit,class_2,seed,7
+no vomiting,class_2,snomedct_us,7
+exhaust,class_2,additional,7
+digest,class_2,additional,7
+loose stools,class_2,clinician,6
+ejection,class_2,additional,6
+cramp,class_2,additional,6
+postoperative nausea and vomiting,class_2,snomedct_us,5
+postoperative nausea,class_2,snomedct_us,5
+intractable nausea and vomiting,class_2,snomedct_us,5
+ ponv ,class_2,abbreviation,5
+throw,class_2,additional,5
+vertigo,class_2,additional,5
+spasm,class_2,additional,5
+thirst,class_2,clinician,4
+loss of consciousness,class_2,clinician,4
+acid reflux,class_2,additional,4
+throwing up,class_2,additional,4
+nauseated,class_2,clinician,3
+hematemesis,class_2,snomedct_us,3
+nb/nb,class_2,abbreviation,3
+bloat,class_2,additional,3
+regurgitat,class_2,additional,3
+thirsty,class_2,clinician,2
+viral gastroenteritis,class_2,snomedct_us,2
+losse,class_2,additional,2
+dyspepsia,class_2,additional,2
+dry skin,class_2,additional,2
+hypernat,class_2,seed,1
+hyponatremic,class_2,clinician,1
+light headed,class_2,clinician,1
+lose consciousness,class_2,clinician,1
+acute diarrhea,class_2,snomedct_us,1
+dry heave,class_2,additional,1
+watery bowel movements,class_2,additional,1
+pain,class_1,seed,512
+ach,class_1,additional,461
+tens,class_1,additional,374
+tender,class_1,clinician,369
+numb,class_1,additional,353
+ache,class_1,seed,332
+chest pain,class_1,snomedct_us,329
+distress,class_1,additional,308
+abdominal pain,class_1,snomedct_us,259
+headach,class_1,seed,242
+headache,class_1,snomedct_us,242
+tendernes,class_1,seed,231
+radiat,class_1,clinician,227
+diffic,class_1,additional,211
+aching,class_1,clinician,191
+dysuria,class_1,seed,167
+back pain,class_1,snomedct_us,148
+sore,class_1,additional,140
+wound,class_1,additional,134
+pain control,class_1,snomedct_us,123
+sore throat,class_1,snomedct_us,120
+tightness,class_1,seed,116
+pressure,class_1,seed,111
+burn,class_1,additional,109
+sting,class_1,additional,103
+burning,class_1,clinician,85
+painful,class_1,clinician,83
+neuropathy,class_1,clinician,77
+neck pain,class_1,snomedct_us,64
+flank pain,class_1,snomedct_us,63
+algia,class_1,seed,62
+radiating,class_1,clinician,56
+uncontrolled pain,class_1,snomedct_us,55
+tingl,class_1,additional,54
+discomfort,class_1,seed,52
+sharp,class_1,clinician,49
+spasm,class_1,additional,42
+chronic pain,class_1,snomedct_us,40
+myalgia,class_1,snomedct_us,39
+low back pain,class_1,clinician,38
+ cp ,class_1,abbreviation,31
+heav,class_1,additional,31
+irrit,class_1,additional,30
+inflammation,class_1,additional,29
+dull,class_1,clinician,26
+severe pain,class_1,snomedct_us,26
+localize,class_1,clinician,24
+arthralgia,class_1,snomedct_us,24
+no abdominal pain,class_1,snomedct_us,23
+bone pain,class_1,snomedct_us,23
+migraine,class_1,clinician,22
+cramp,class_1,seed,21
+knee pain,class_1,snomedct_us,19
+shoulder pain,class_1,snomedct_us,18
+pain management,class_1,snomedct_us,18
+epigastric pain,class_1,snomedct_us,17
+ ha ,class_1,abbreviation,17
+moderate pain,class_1,snomedct_us,16
+chronic back pain,class_1,snomedct_us,16
+swollen,class_1,additional,16
+breakthrough pain,class_1,snomedct_us,15
+radiates,class_1,clinician,13
+arm pain,class_1,snomedct_us,13
+bad,class_1,additional,13
+uncomfort,class_1,additional,13
+acute chest pain,class_1,snomedct_us,12
+radiculopathy,class_1,seed,11
+rectal pain,class_1,snomedct_us,11
+lower abdominal pain,class_1,snomedct_us,10
+oral pain,class_1,snomedct_us,10
+upper abdominal pain,class_1,snomedct_us,10
+damage,class_1,additional,10
+pain relief,class_1,snomedct_us,9
+stabbing,class_1,clinician,8
+increased pain,class_1,snomedct_us,8
+mild pain,class_1,snomedct_us,8
+neuropathic pain,class_1,snomedct_us,8
+suffer,class_1,additional,8
+throbbing,class_1,clinician,7
+jaw pain,class_1,snomedct_us,7
+foot pain,class_1,snomedct_us,7
+eye pain,class_1,snomedct_us,7
+right flank pain,class_1,snomedct_us,7
+shooting,class_1,clinician,6
+chest wall pain,class_1,snomedct_us,6
+acute abdominal pain,class_1,snomedct_us,6
+intermittent pain,class_1,snomedct_us,6
+thigh pain,class_1,snomedct_us,6
+sharp pain,class_1,snomedct_us,6
+intractable abdominal pain,class_1,snomedct_us,5
+suprapubic pain,class_1,snomedct_us,5
+pelvic pain,class_1,snomedct_us,5
+atypical chest pain,class_1,snomedct_us,5
+chronic low back pain,class_1,snomedct_us,5
+crisi,class_1,additional,5
+dynia,class_1,seed,4
+pleurisy,class_1,clinician,4
+pain radiating to right leg,class_1,snomedct_us,4
+left sided chest pain,class_1,snomedct_us,4
+musculoskeletal pain,class_1,snomedct_us,4
+generalized abdominal pain,class_1,snomedct_us,4
+pain level,class_1,snomedct_us,4
+biliary colic,class_1,snomedct_us,4
+radiating pain,class_1,snomedct_us,4
+rebound tenderness,class_1,snomedct_us,4
+bother,class_1,additional,4
+shooting pain,class_1,snomedct_us,3
+throbbing pain,class_1,snomedct_us,3
+right upper quadrant pain,class_1,snomedct_us,3
+left flank pain,class_1,snomedct_us,3
+facial pain,class_1,snomedct_us,3
+chronic pain syndrome,class_1,snomedct_us,3
+stabbing pain,class_1,snomedct_us,3
+ankle pain,class_1,snomedct_us,3
+rib pain,class_1,snomedct_us,3
+hand pain,class_1,snomedct_us,3
+ lbp ,class_1,abbreviation,3
+malignant bone pain,class_1,snomedct_us,2
+pain crisis,class_1,snomedct_us,2
+constant pain,class_1,snomedct_us,2
+pain and symptom management,class_1,snomedct_us,2
+left lower quadrant pain,class_1,snomedct_us,2
+angina pectoris,class_1,snomedct_us,2
+stomach ache,class_1,snomedct_us,2
+acute pain service,class_1,snomedct_us,2
+anal pain,class_1,snomedct_us,2
+pain in limb,class_1,snomedct_us,2
+right sided chest pain,class_1,snomedct_us,2
+lancinating,class_1,additional,2
+pounding,class_1,clinician,1
+excruciating,class_1,clinician,1
+right inguinal pain,class_1,snomedct_us,1
+chronic chest pain,class_1,snomedct_us,1
+anterior knee pain,class_1,snomedct_us,1
+vaginal pain,class_1,snomedct_us,1
+frontal sinus pain,class_1,snomedct_us,1
+chronic abdominal pain,class_1,snomedct_us,1
+deep pain,class_1,snomedct_us,1
+history of back pain,class_1,snomedct_us,1
+bladder pain,class_1,snomedct_us,1
+squeezing pain,class_1,snomedct_us,1
+heel pain,class_1,snomedct_us,1
+pain in calf,class_1,snomedct_us,1
+diffuse pain,class_1,snomedct_us,1
+dull pain,class_1,snomedct_us,1
+left sided abdominal pain,class_1,snomedct_us,1
+right sided abdominal pain,class_1,snomedct_us,1
+abdominal wall pain,class_1,snomedct_us,1
+wound pain,class_1,snomedct_us,1
+inguinal pain,class_1,snomedct_us,1
+left upper quadrant pain,class_1,snomedct_us,1
+renal pain,class_1,snomedct_us,1
+polyarthralgia,class_1,snomedct_us,1
+radicular pain,class_1,snomedct_us,1
+pain score,class_1,snomedct_us,1
+h/a,class_1,abbreviation,1
+hurt,class_1,additional,1
+prick,class_1,additional,1

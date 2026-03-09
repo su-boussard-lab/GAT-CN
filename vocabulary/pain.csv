@@ -1,0 +1,1051 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Pain,C0030193,MTH,pain,2716
+Chest Pain,C0008031,MTH,pain,804
+Back Pain,C0004604,MTH,pain,413
+Low Back Pain,C0024031,MTH,pain,103
+Abdominal Pain,C0000737,MTH,pain,690
+Headache,C0018681,MTH,pain,540
+Neck Pain,C0007859,MTH,pain,110
+Angina Pectoris,C0002962,MTH,pain,6
+Eye pain,C0151827,MTH,pain,14
+Chronic pain,C0150055,MTH,pain,105
+Dysmenorrhea,C0013390,MTH,pain,1
+Facial Pain,C0015468,MTH,pain,10
+Epigastric pain,C0232493,MTH,pain,32
+Myalgia,C0231528,MTH,pain,70
+Arthralgia,C0003862,MTH,pain,46
+Acute onset pain,C0184567,MTH,pain,0
+Sore Throat,C0242429,MTH,pain,203
+Pain management,C0002766,MTH,pain,199
+Pain in limb,C0030196,MTH,pain,3
+Bone pain,C0151825,MTH,pain,87
+Pleuritic pain,C0008033,MTH,pain,12
+Shoulder Pain,C0037011,MTH,pain,50
+Flank Pain,C0016199,MTH,pain,120
+Pain in lower limb,C0023222,MTH,pain,0
+Jaw pain,C0236000,MTH,pain,36
+Knee pain,C0231749,MTH,pain,51
+Pain in scrotum,C0236078,MTH,pain,0
+Hip joint pain,C0019559,MTH,pain,0
+Precordial pain,C0232286,MTH,pain,0
+Bladder pain,C0232849,MTH,pain,3
+Foot pain,C0016512,MTH,pain,11
+Rectal pain,C0034886,MTH,pain,39
+"Pain, Postoperative",C0030201,MSH,pain,0
+Inguinal pain,C0239783,SNOMEDCT_US,pain,3
+Oral pain,C0221776,MTH,pain,28
+Mastodynia,C0024902,MTH,pain,0
+Abdominal colic,C0232488,MTH,pain,0
+Anal pain,C0238637,MTH,pain,6
+Mittelschmerz,C0152149,MTH,pain,0
+Pain in wrist,C0221785,SNOMEDCT_US,pain,0
+Pain in penis,C0497481,MTH,pain,0
+Fibromyalgia,C0016053,MTH,pain,1
+Vaginal pain,C0236082,MTH,pain,3
+Ankle pain,C0238656,SNOMEDCT_US,pain,16
+"Pain, Burning",C0234230,MTH,pain,19
+Somatoform pain disorder,C0152174,SNOMEDCT_US,pain,0
+Loin pain,C0235632,MTH,pain,0
+Absence of pain sensation,C0344307,MTH,pain,0
+Causalgia,C0007462,MSH,pain,0
+Labor Pain,C0474368,MTH,pain,0
+Prostatic pain,C0240812,MTH,pain,0
+Renal pain,C0558489,MTH,pain,2
+Pain in urethra,C0151830,MTH,pain,0
+Stomach ache,C0221512,MTH,pain,5
+Hand pain,C0239833,SNOMEDCT_US,pain,7
+Liver pain,C0522067,MTH,pain,0
+Musculoskeletal Pain,C0026858,MSH,pain,9
+Absence of pain,C0234225,MTH,pain,0
+Upper abdominal pain,C0232492,SNOMEDCT_US,pain,23
+Pain in buttock,C0231710,MTH,pain,0
+Rheumatism,C0035435,MTH,pain,0
+Pain in elbow,C0239266,SNOMEDCT_US,pain,0
+Vulvodynia,C0406670,MTH,pain,0
+Perineal pain,C0240717,MTH,pain,0
+Atypical facial pain,C0154729,MTH,pain,3
+Chest pain on breathing,C0423729,SNOMEDCT_US,pain,0
+Retrosternal pain,C0151826,SNOMEDCT_US,pain,0
+Rib pain,C0574068,MTH,pain,15
+Thigh pain,C0241374,SNOMEDCT_US,pain,11
+Dull pain,C0278144,MTH,pain,4
+Pain in finger,C0239589,SNOMEDCT_US,pain,0
+Pain Threshold,C0162703,MSH,pain,0
+Radiating pain,C0234254,MTH,pain,11
+Shooting pain,C0278146,MTH,pain,9
+Neuropathic pain,C3714625,MTH,pain,52
+Generalized aches and pains,C0281856,MTH,pain,0
+Periumbilical pain,C1096624,SNOMEDCT_US,pain,0
+Pain in toe,C0241416,SNOMEDCT_US,pain,0
+Lower abdominal pain,C0232495,SNOMEDCT_US,pain,31
+Radicular pain,C0278147,SNOMEDCT_US,pain,3
+"Pain, Referred",C0234250,MSH,pain,0
+Phantom pain,C3495442,MTH,pain,0
+Pain control,C1304888,MTH,pain,350
+Pain in esophagus (finding),C0221727,MTH,pain,0
+Sharp pain,C0455270,MTH,pain,13
+Breakthrough Pain,C1135120,MSH,pain,67
+Localized pain,C0520962,SNOMEDCT_US,pain,0
+Heel pain,C0231780,SNOMEDCT_US,pain,2
+Visceral Pain,C0234245,MSH,pain,0
+Smarting pain,C0235048,MTH,pain,0
+Arm Pain,C0239377,MTH,pain,36
+Dull chest pain,C0232285,MTH,pain,2
+Colicky Pain,C3888418,MTH,pain,0
+Cardiac pain,C0423636,MTH,pain,0
+Pain relief,C0451615,MTH,pain,49
+Hand joint pain,C0423665,SNOMEDCT_US,pain,0
+"Pain, Crushing",C0458259,MSH,pain,0
+Biliary Colic,C0151824,MTH,pain,9
+Reflex Sympathetic Dystrophy,C0034931,MTH,pain,0
+Greater trochanteric pain syndrome,C0151451,SNOMEDCT_US,pain,0
+Pain in axilla,C0577659,SNOMEDCT_US,pain,0
+Throbbing pain,C0278148,SNOMEDCT_US,pain,10
+Stabbing pain,C0278145,SNOMEDCT_US,pain,8
+Abdominal wind pain,C0476289,SNOMEDCT_US,pain,0
+Pelvic Pain,C0030794,MTH,pain,15
+Tissue Pain,C0234244,MSH,pain,0
+Pain in calf,C0236040,SNOMEDCT_US,pain,1
+Ovarian pain,C0458109,SNOMEDCT_US,pain,0
+Tenderness of gums,C0239739,MTH,pain,0
+Pain around eye,C0234656,SNOMEDCT_US,pain,0
+Hunger pain,C0581870,SNOMEDCT_US,pain,0
+Severe pain,C0278140,MTH,pain,113
+Mild pain,C0278138,MTH,pain,38
+Inflammatory pain,C0234251,SNOMEDCT_US,pain,0
+Neurogenic pain,C0423717,SNOMEDCT_US,pain,0
+Cramping pain,C0458254,SNOMEDCT_US,pain,4
+Scalding pain on urination,C0423736,SNOMEDCT_US,pain,0
+Right upper quadrant pain,C0235299,SNOMEDCT_US,pain,13
+Agnosia for Pain,C0563625,MTH,pain,0
+Pancreatic pain,C0522071,SNOMEDCT_US,pain,0
+Suprapubic pain,C0241310,SNOMEDCT_US,pain,7
+Wound pain,C0241745,SNOMEDCT_US,pain,1
+"Abdomen, Acute",C0000727,MTH,pain,0
+Diffuse pain,C0520963,SNOMEDCT_US,pain,4
+Clavicle pain,C0581323,SNOMEDCT_US,pain,0
+Ache,C0234238,MTH,pain,907
+Musculoskeletal chest pain,C0476280,MTH,pain,0
+Pain in testicle,C0039591,MTH,pain,0
+Central pain,C0234243,SNOMEDCT_US,pain,0
+Pricking pain,C0423603,MTH,pain,0
+Chronic pain syndrome,C1298685,SNOMEDCT_US,pain,5
+Ureteric pain,C0235633,SNOMEDCT_US,pain,0
+Pain character,C0423608,MTH,pain,2
+"Pain, Splitting",C0458257,MSH,pain,0
+Temporomandibular Joint Dysfunction Syndrome,C0039496,MTH,pain,0
+Moderate pain,C0278139,MTH,pain,53
+Excruciating pain,C0278141,MTH,pain,29
+Thalamic pain,C0423718,SNOMEDCT_US,pain,0
+Mechanical pain,C0234252,SNOMEDCT_US,pain,0
+Night pain,C0234255,SNOMEDCT_US,pain,2
+Generalized abdominal pain,C0344304,SNOMEDCT_US,pain,9
+Complex Regional Pain Syndromes,C0458219,MTH,pain,0
+Chest wall pain,C0008035,MTH,pain,11
+Urinary Tract Pain,C0423701,MTH,pain,0
+Gnawing pain,C0559222,SNOMEDCT_US,pain,0
+Atypical chest pain,C0262384,SNOMEDCT_US,pain,5
+Monitoring pain,C0513566,SNOMEDCT_US,pain,0
+PAROXYSMAL EXTREME PAIN DISORDER,C1833661,MTH,pain,0
+Genitourinary pain,C0423703,MTH,pain,0
+Left lower quadrant pain,C0238551,SNOMEDCT_US,pain,4
+Right lower quadrant pain,C0694551,SNOMEDCT_US,pain,1
+Left upper quadrant pain,C0238552,SNOMEDCT_US,pain,2
+Deep pain,C0234229,SNOMEDCT_US,pain,2
+Umbilical pain,C0232504,SNOMEDCT_US,pain,0
+Uncontrolled pain,C0747149,SNOMEDCT_US,pain,103
+Injection site pain,C0151828,SNOMEDCT_US,pain,0
+Congenital Pain Insensitivity,C0002768,MTH,pain,0
+Sore to touch,C0234233,MTH,pain,0
+Vertebrogenic Pain Syndrome,C0750949,MSH,pain,0
+Polyarthralgia,C0162296,MTH,pain,2
+Fracture pain,C3267038,SNOMEDCT_US,pain,0
+Shoulder joint pain,C0423670,MTH,pain,0
+Tiring with pain,C0578063,SNOMEDCT_US,pain,0
+Increased pain,C5141269,SNOMEDCT_US,pain,43
+Vulvovaginal pain,C0520588,SNOMEDCT_US,pain,0
+Hypochondrial pain,C0476305,SNOMEDCT_US,pain,0
+Anorectal pain,C0581362,SNOMEDCT_US,pain,0
+Perianal pain,C0585134,SNOMEDCT_US,pain,1
+Subcostal pain,C0423645,SNOMEDCT_US,pain,0
+Pelvic Girdle Pain,C0240682,MTH,pain,0
+Chronic intractable pain,C0476481,SNOMEDCT_US,pain,0
+Hypochondriacal pain,C0338938,SNOMEDCT_US,pain,0
+Pain of intercostal space,C0877023,SNOMEDCT_US,pain,0
+Pain in female genitalia,C0423610,SNOMEDCT_US,pain,0
+Preventing pain,C0558255,SNOMEDCT_US,pain,0
+Response to pain finding,C0424543,MTH,pain,0
+Complex regional pain syndrome of upper limb,C4040007,MTH,pain,0
+Acute abdominal pain,C0740577,MTH,pain,12
+Chronic abdominal pain,C0232491,SNOMEDCT_US,pain,3
+Posterior auricular pain,C2316035,SNOMEDCT_US,pain,0
+Superficial pain,C0234228,SNOMEDCT_US,pain,0
+Pain Measurement,C0030198,MSH,pain,0
+Chest pain on exertion,C0232288,SNOMEDCT_US,pain,1
+Crushing chest pain,C0232290,SNOMEDCT_US,pain,0
+Craniofacial Pain,C0751137,MSH,pain,0
+Epididymal pain,C0239278,SNOMEDCT_US,pain,0
+Chronic back pain,C0740418,SNOMEDCT_US,pain,39
+Non-cardiac chest pain,C0476281,MTH,pain,0
+Ulcer-type pain,C0522062,SNOMEDCT_US,pain,0
+Sacral back pain,C0423686,SNOMEDCT_US,pain,0
+Spontaneous pain,C1997216,SNOMEDCT_US,pain,0
+Squeezing pain,C1997001,SNOMEDCT_US,pain,1
+Pelvic and perineal pain,C0478659,SNOMEDCT_US,pain,0
+Post-mastectomy pain,C0406845,SNOMEDCT_US,pain,0
+Sickening with pain,C0578064,SNOMEDCT_US,pain,0
+Intermittent pain,C1282310,SNOMEDCT_US,pain,18
+Post-vasectomy pain,C0458105,SNOMEDCT_US,pain,0
+Exquisite pain,C0278143,SNOMEDCT_US,pain,0
+Postcordotomy pain,C0520964,SNOMEDCT_US,pain,0
+Indifference to pain,C0234241,SNOMEDCT_US,pain,0
+Cutting pain,C0423606,SNOMEDCT_US,pain,0
+Heavy pain,C0458256,SNOMEDCT_US,pain,0
+Minimizing pain,C0558256,SNOMEDCT_US,pain,0
+Appendicular pain,C0554107,SNOMEDCT_US,pain,0
+Nuchal pain,C0573983,SNOMEDCT_US,pain,0
+Tightening pain,C0423604,SNOMEDCT_US,pain,0
+Parasternal pain,C0423633,SNOMEDCT_US,pain,0
+Pseudothalamic pain,C0423720,SNOMEDCT_US,pain,0
+Delusional pain,C0394998,SNOMEDCT_US,pain,0
+Griping pain,C0423605,SNOMEDCT_US,pain,0
+McGill Pain Questionnaire,C0024985,MSH,pain,0
+Responds to pain,C4083063,MTH,pain,0
+Left Flank Pain,C0423641,MSH,pain,5
+Right Flank Pain,C0423640,MSH,pain,18
+Characteristic of pain,C1286315,SNOMEDCT_US,pain,2
+Central pain syndrome,C1536114,SNOMEDCT_US,pain,0
+Facet joint pain,C0423690,SNOMEDCT_US,pain,0
+Pain in palate,C3532522,SNOMEDCT_US,pain,0
+Thoracic back pain,C0423684,SNOMEDCT_US,pain,1
+Consultation for pain,C1719974,SNOMEDCT_US,pain,0
+Pattern of pain,C1286321,SNOMEDCT_US,pain,1
+Foot joint pain,C0458239,SNOMEDCT_US,pain,0
+Elbow joint pain,C0423669,SNOMEDCT_US,pain,0
+Assessment of pain control,C1161170,MTH,pain,1
+Radiating chest pain,C0232289,SNOMEDCT_US,pain,1
+Freezing pain,C4509815,SNOMEDCT_US,pain,0
+Sclerotomal pain,C1562724,SNOMEDCT_US,pain,0
+Discogenic pain,C3662528,SNOMEDCT_US,pain,0
+Constant pain,C1960160,SNOMEDCT_US,pain,11
+Posttreatment pain,C1291733,SNOMEDCT_US,pain,0
+Tingling pain,C5192202,SNOMEDCT_US,pain,2
+Fearful with pain,C0578065,SNOMEDCT_US,pain,0
+Punishing with pain,C0578066,SNOMEDCT_US,pain,0
+Hallucinations of pain,C0424076,SNOMEDCT_US,pain,0
+Pain provoked by rest,C1960728,MTH,pain,0
+Post-herniorraphy pain,C0458169,SNOMEDCT_US,pain,0
+Post-episiotomy pain,C0406846,SNOMEDCT_US,pain,0
+No present pain,C0578069,SNOMEDCT_US,pain,0
+No genitourinary pain,C0423702,SNOMEDCT_US,pain,0
+No abdominal pain,C0423651,SNOMEDCT_US,pain,51
+Pelvic congestion syndrome,C0152078,SNOMEDCT_US,pain,0
+Paroxysmal Nerve Pain,C0751373,MTH,pain,0
+Deep pain on intercourse,C0423747,SNOMEDCT_US,pain,0
+Hypoalgesia,C0085625,SNOMEDCT_US,pain,0
+Acute Pain Service,C0242934,MSH,pain,17
+Chest pain at rest,C0392685,SNOMEDCT_US,pain,0
+Chronic pain control,C1171182,SNOMEDCT_US,pain,0
+Acute chest pain,C0522051,SNOMEDCT_US,pain,15
+Peripheral neuropathic pain,C0458960,SNOMEDCT_US,pain,0
+Dejerine-Roussy Syndrome,C0221057,MSH,pain,0
+Localized abdominal pain,C0522061,SNOMEDCT_US,pain,0
+Iliac fossa pain,C0423647,SNOMEDCT_US,pain,0
+Sacroiliac joint pain,C0458232,SNOMEDCT_US,pain,0
+Drilling quality pain,C4273948,SNOMEDCT_US,pain,0
+Pain in female perineum,C0235641,SNOMEDCT_US,pain,0
+Pain in male perineum,C0235808,SNOMEDCT_US,pain,0
+Variation of pain,C4303454,SNOMEDCT_US,pain,0
+"Flatulence, eructation, and gas pain",C0016205,MTH,pain,0
+Pain Perception,C3714605,MSH,pain,0
+Pain in cheek,C0238973,SNOMEDCT_US,pain,0
+Chronic neck pain,C0746815,SNOMEDCT_US,pain,0
+Visual Analog Pain Scale,C0042815,MTH,pain,0
+"Postoperative Pain, Chronic",C2074900,MSH,pain,0
+"Postoperative Pain, Acute",C2215257,MSH,pain,0
+Superficial pain on intercourse,C0423745,SNOMEDCT_US,pain,0
+Central post-stroke pain,C0423719,SNOMEDCT_US,pain,0
+No pain in liver,C5395685,SNOMEDCT_US,pain,0
+Pain due to neoplastic disease,C1719395,MTH,pain,0
+Chronic low back pain,C0457949,SNOMEDCT_US,pain,17
+Difficulty coping with pain,C0582153,SNOMEDCT_US,pain,0
+Acute pain control,C1171175,SNOMEDCT_US,pain,0
+Application site pain,C0521491,SNOMEDCT_US,pain,0
+Decreased pain threshold,C0456440,SNOMEDCT_US,pain,0
+Central abdominal pain,C0423644,SNOMEDCT_US,pain,0
+Soft tissue rheumatism,C0553642,MTH,pain,0
+High pain threshold,C0423727,SNOMEDCT_US,pain,0
+Malignant bone pain,C0560609,SNOMEDCT_US,pain,5
+Frontal sinus pain,C0578047,SNOMEDCT_US,pain,0
+Maxillary sinus pain,C0578046,SNOMEDCT_US,pain,0
+Anterior knee pain,C0409326,SNOMEDCT_US,pain,1
+Upper chest pain,C0563278,SNOMEDCT_US,pain,0
+Abdominal wall pain,C0581869,SNOMEDCT_US,pain,1
+Central chest pain,C0423634,SNOMEDCT_US,pain,0
+Low pain threshold,C0423725,SNOMEDCT_US,pain,0
+Sternoclavicular joint pain,C0458226,SNOMEDCT_US,pain,0
+Acromioclavicular joint pain,C0458228,SNOMEDCT_US,pain,0
+Abdominal pain in pregnancy,C0587223,SNOMEDCT_US,pain,0
+Pain in coccyx,C0009193,SNOMEDCT_US,pain,0
+Pain of left testicle,C2129032,SNOMEDCT_US,pain,0
+Pain of right testicle,C2129031,SNOMEDCT_US,pain,0
+Phantom limb syndrome without pain,C0452135,MTH,pain,0
+Urethral meatal pain,C0241562,SNOMEDCT_US,pain,0
+Metacarpophalangeal joint pain,C0240325,SNOMEDCT_US,pain,0
+Post-thoracotomy pain syndrome,C0406844,SNOMEDCT_US,pain,0
+"Low Back Pain, Mechanical",C0423682,MSH,pain,0
+Pain of erector spinae muscle,C5699750,SNOMEDCT_US,pain,0
+High tolerance of pain,C0423726,SNOMEDCT_US,pain,0
+Site of abdominal pain,C0423646,SNOMEDCT_US,pain,0
+Breakthrough cancer pain,C2721580,SNOMEDCT_US,pain,0
+Myofascial neck pain,C3805213,SNOMEDCT_US,pain,0
+Refer to pain clinic,C0420379,SNOMEDCT_US,pain,0
+Left sided chest pain,C0541828,SNOMEDCT_US,pain,7
+Recurrent abdominal pain,C2585575,SNOMEDCT_US,pain,0
+Chronic psychogenic pain,C2711099,SNOMEDCT_US,pain,0
+Localized chest pain,C2184182,SNOMEDCT_US,pain,0
+Bilateral calf pain,C2032293,SNOMEDCT_US,pain,0
+Postpartum episiotomy pain,C3840216,SNOMEDCT_US,pain,0
+Bilateral testicular pain,C2129033,SNOMEDCT_US,pain,0
+Pain control education,C1444378,SNOMEDCT_US,pain,0
+Education about pain,C4039106,SNOMEDCT_US,pain,0
+Inadequate pain control,C3650806,SNOMEDCT_US,pain,0
+Squeezing chest pain,C1299600,SNOMEDCT_US,pain,0
+Acute pelvic pain,C1282322,SNOMEDCT_US,pain,0
+Demonstrates knowledge of pain management,C1301612,MTH,pain,0
+Acute low back pain,C0457950,SNOMEDCT_US,pain,0
+Burning epigastric pain,C0232494,SNOMEDCT_US,pain,0
+Pleuropericardial chest pain,C0232291,SNOMEDCT_US,pain,0
+Esophageal chest pain,C0232533,SNOMEDCT_US,pain,0
+Posterior heel pain,C0231787,SNOMEDCT_US,pain,0
+Plantar heel pain,C0231786,SNOMEDCT_US,pain,0
+Midabdominal crampy pain,C0232496,SNOMEDCT_US,pain,0
+Sexual pain disorder,C0036910,SNOMEDCT_US,pain,0
+Renal angle pain,C0522123,SNOMEDCT_US,pain,0
+Increased pain threshold,C0456441,SNOMEDCT_US,pain,0
+Persistent wound pain,C0406836,SNOMEDCT_US,pain,0
+Distressing present pain,C0578072,SNOMEDCT_US,pain,0
+Left hypochondrial pain,C0578058,SNOMEDCT_US,pain,0
+Left subcostal pain,C0423643,SNOMEDCT_US,pain,0
+Dallas pain questionnaire,C0451095,SNOMEDCT_US,pain,0
+Chest pain rating,C0429692,SNOMEDCT_US,pain,0
+Sympathetically independent pain,C0458171,SNOMEDCT_US,pain,0
+Tibiofibular joint pain,C0458233,SNOMEDCT_US,pain,0
+Peripheral neurogenic pain,C0458959,SNOMEDCT_US,pain,0
+Subtalar joint pain,C0458234,SNOMEDCT_US,pain,0
+Talonavicular joint pain,C0458238,SNOMEDCT_US,pain,0
+Muscle tension pain,C0458242,SNOMEDCT_US,pain,0
+Anal stump pain,C0559208,SNOMEDCT_US,pain,0
+Period pain absent,C0567311,SNOMEDCT_US,pain,0
+Psychosomatic abdominal pain,C0585107,SNOMEDCT_US,pain,0
+Metatarsophalangeal joint pain,C0458240,SNOMEDCT_US,pain,0
+Horrible present pain,C0578073,SNOMEDCT_US,pain,0
+Persistent testicular pain,C0560253,SNOMEDCT_US,pain,0
+Bony pelvic pain,C0581322,SNOMEDCT_US,pain,0
+Right hypochondrial pain,C0578057,SNOMEDCT_US,pain,0
+Mild present pain,C0578070,SNOMEDCT_US,pain,0
+Nonspecific abdominal pain,C0589386,SNOMEDCT_US,pain,1
+Neurological pain disorder,C0423704,SNOMEDCT_US,pain,0
+Excruciating present pain,C0578074,SNOMEDCT_US,pain,0
+Sympathetically maintained pain,C0393916,SNOMEDCT_US,pain,0
+Right subcostal pain,C0423642,SNOMEDCT_US,pain,0
+Limb stump pain,C0423700,SNOMEDCT_US,pain,0
+Able to cope with pain,C0582151,SNOMEDCT_US,pain,0
+Chronic chest pain,C1740831,SNOMEDCT_US,pain,2
+Pain of left knee region,C5442019,MTH,pain,0
+Pain of right knee region,C5442020,MTH,pain,0
+Sore nipple,C0423637,MTH,pain,0
+Algophobia,C0233702,SNOMEDCT_US,pain,0
+Tenalgia,C0231529,SNOMEDCT_US,pain,0
+Anterior chest wall pain,C0476278,SNOMEDCT_US,pain,0
+Chronic musculoskeletal pain,C0746683,SNOMEDCT_US,pain,0
+Gradual onset of pain,C1960159,SNOMEDCT_US,pain,0
+Implementation of pain guidelines,C1269713,SNOMEDCT_US,pain,0
+Sensation of pain reduced,C5230944,SNOMEDCT_US,pain,0
+Pain in right hip joint,C2202100,SNOMEDCT_US,pain,0
+Finding of response to pain,C1960712,MTH,pain,0
+"Low Back Pain, Postural",C0577660,MSH,pain,0
+Pain level: disruptive effects,C0518072,SNOMEDCT_US,pain,0
+Free-standing pain clinic,C0338005,SNOMEDCT_US,pain,0
+Alteration in comfort: pain,C0231384,SNOMEDCT_US,pain,0
+Finding of pain tolerance,C0576706,SNOMEDCT_US,pain,0
+Persistent pain following procedure,C0458166,SNOMEDCT_US,pain,0
+Affective response to pain,C0458275,SNOMEDCT_US,pain,0
+Examination of pain sensation,C0558828,SNOMEDCT_US,pain,0
+Low tolerance of pain,C0423724,SNOMEDCT_US,pain,0
+Total body pain syndrome,C0458118,SNOMEDCT_US,pain,0
+Seen in pain clinic,C0559977,SNOMEDCT_US,pain,0
+Acute sensitivity to pain,C0423723,SNOMEDCT_US,pain,0
+Type of abdominal pain,C0423653,SNOMEDCT_US,pain,3
+Excessive sensitivity to pain,C0423722,SNOMEDCT_US,pain,0
+Site of referred pain,C0449699,SNOMEDCT_US,pain,0
+Post-surgery back pain,C0458168,SNOMEDCT_US,pain,0
+Post-vasectomy epididymal pain,C0560252,SNOMEDCT_US,pain,0
+Post-abdominoperineal resection pain,C0458113,SNOMEDCT_US,pain,0
+Non-colicky abdominal pain,C0423650,SNOMEDCT_US,pain,0
+Chest pain not present,C0423635,SNOMEDCT_US,pain,0
+Lumbar facet joint pain,C0458225,SNOMEDCT_US,pain,0
+Angina decubitus,C0152172,MTH,pain,0
+Pain threshold - finding,C1286437,SNOMEDCT_US,pain,0
+Left inguinal pain,C4750541,SNOMEDCT_US,pain,1
+Pediatric pain assessment,C1827921,SNOMEDCT_US,pain,0
+Pain control management,C1444379,SNOMEDCT_US,pain,0
+Chronic nonmalignant pain,C3662064,SNOMEDCT_US,pain,0
+Lumbar discogenic pain,C3662826,SNOMEDCT_US,pain,0
+Adult pain assessment,C1827421,SNOMEDCT_US,pain,0
+Intractable breast pain,C1277643,SNOMEDCT_US,pain,0
+Axis pressure pain,C1562929,SNOMEDCT_US,pain,0
+Chronic vaginal pain,C1960183,SNOMEDCT_US,pain,0
+Colicky hypogastric pain,C1299637,SNOMEDCT_US,pain,0
+Visceral abdominal pain,C2586208,SNOMEDCT_US,pain,0
+Chronic pain clinic,C3839654,SNOMEDCT_US,pain,0
+Chronic ankle pain,C3839854,SNOMEDCT_US,pain,0
+Abdominal muscle pain,C3840090,SNOMEDCT_US,pain,0
+Acute pain clinic,C3840226,SNOMEDCT_US,pain,0
+Chronic visceral pain,C4545042,SNOMEDCT_US,pain,0
+Abdominal pain characteristic,C1286320,SNOMEDCT_US,pain,0
+Thoracic discogenic pain,C3662521,SNOMEDCT_US,pain,0
+Cyclic pelvic pain,C4303528,SNOMEDCT_US,pain,0
+Chronic neuropathic pain,C4544057,SNOMEDCT_US,pain,0
+Primary chronic pain,C4545041,SNOMEDCT_US,pain,0
+Right inguinal pain,C4750780,SNOMEDCT_US,pain,2
+Vertebral joint pain,C4750322,SNOMEDCT_US,pain,0
+Cervical discogenic pain,C3532521,SNOMEDCT_US,pain,0
+Anterior pleuritic pain,C3532941,SNOMEDCT_US,pain,0
+Acute ankle pain,C3838912,SNOMEDCT_US,pain,1
+Chronic nociceptive pain,C4543902,SNOMEDCT_US,pain,0
+Chronic orofacial pain,C4546211,SNOMEDCT_US,pain,0
+Orofacial neuropathic pain,C4546316,SNOMEDCT_US,pain,0
+Loin pain-hematuria syndrome,C0268712,SNOMEDCT_US,pain,0
+Pain in both feet,C2126424,SNOMEDCT_US,pain,1
+Satisfied with management of pain,C5546937,SNOMEDCT_US,pain,0
+Pain Clinics,C0242936,MTH,pain,0
+Pain management education,C1276796,SNOMEDCT_US,pain,0
+Cervical nerve root pain,C0522255,SNOMEDCT_US,pain,0
+Scapulalgia,C0231655,SNOMEDCT_US,pain,0
+Site of gastrointestinal tract pain,C0542474,SNOMEDCT_US,pain,0
+Type of gastrointestinal tract pain,C0542475,SNOMEDCT_US,pain,0
+Unable to cope with pain,C0582152,SNOMEDCT_US,pain,0
+Ability to cope with pain,C0582150,SNOMEDCT_US,pain,0
+Arc of pain in joint,C0423695,SNOMEDCT_US,pain,0
+Intractable abdominal pain,C4047369,SNOMEDCT_US,pain,0
+Bilateral thumb pain,C4047530,SNOMEDCT_US,pain,0
+Epigastric pain syndrome,C5686383,SNOMEDCT_US,pain,0
+Very mild pain,C3853138,SNOMEDCT_US,pain,0
+Postoperative abdominal pain,C4047372,SNOMEDCT_US,pain,0
+Bilateral wrist pain,C4047546,SNOMEDCT_US,pain,0
+Bilateral heel pain,C4047547,SNOMEDCT_US,pain,0
+Right sided abdominal pain,C0563277,SNOMEDCT_US,pain,1
+Finding of pain sense,C1720726,SNOMEDCT_US,pain,0
+Referred pain in face,C3163691,SNOMEDCT_US,pain,0
+Sensory dimension of pain,C1286322,SNOMEDCT_US,pain,0
+Assessment of chest pain,C2919903,SNOMEDCT_US,pain,0
+Consultation for acute pain,C1719825,SNOMEDCT_US,pain,0
+Normal sensation of pain,C5230862,SNOMEDCT_US,pain,0
+Myofascial pain with referral,C4546059,SNOMEDCT_US,pain,0
+History of chest pain,C4512001,SNOMEDCT_US,pain,0
+Consultation for chronic pain,C1720693,SNOMEDCT_US,pain,0
+Chronic pain in face,C2316650,SNOMEDCT_US,pain,0
+Abdominal pain - cause unknown,C1282002,SNOMEDCT_US,pain,0
+Affective dimension of pain,C1286323,SNOMEDCT_US,pain,0
+Acute pain of scrotum,C4302280,SNOMEDCT_US,pain,0
+Acute pain in face,C4544058,SNOMEDCT_US,pain,0
+Diurnal variation of pain,C4305050,SNOMEDCT_US,pain,0
+Acute postthoracotomy pain syndrome,C2732433,SNOMEDCT_US,pain,0
+Frequency of pain symptom,C3839223,SNOMEDCT_US,pain,0
+Ability to sense pain,C2684877,SNOMEDCT_US,pain,0
+Pain following cerebrovascular accident,C4076169,SNOMEDCT_US,pain,0
+Chronic pain following radiotherapy,C4546306,SNOMEDCT_US,pain,0
+Chronic pain following trauma,C4546209,SNOMEDCT_US,pain,0
+Non-cyclic pelvic pain,C4305560,SNOMEDCT_US,pain,0
+Familial episodic pain syndrome,C5190598,MTH,pain,0
+Persistent idiopathic facial pain,C5191641,MTH,pain,0
+Referred otalgia,C0271411,SNOMEDCT_US,pain,0
+Pain of skin,C0241136,MTH,pain,0
+Pain of nose,C0240564,MTH,pain,0
+HSAN Type IV,C0020074,MTH,pain,0
+Pain in thoracic spine,C0677061,SNOMEDCT_US,pain,0
+Back pain complicating pregnancy,C0686344,SNOMEDCT_US,pain,0
+Thoracic facet joint pain,C0575032,SNOMEDCT_US,pain,0
+Costal margin chest pain,C0581866,SNOMEDCT_US,pain,0
+Cervical facet joint pain,C0575031,SNOMEDCT_US,pain,0
+History of back pain,C3494784,SNOMEDCT_US,pain,6
+Education about chronic pain,C5440885,SNOMEDCT_US,pain,0
+Chest pain due to pericarditis,C3698305,SNOMEDCT_US,pain,0
+Chronic post-thoracotomy pain syndrome,C3697756,SNOMEDCT_US,pain,0
+No pain on tooth percussion,C5396297,SNOMEDCT_US,pain,0
+Left sided abdominal pain,C0563276,SNOMEDCT_US,pain,0
+Right sided chest pain,C0563275,SNOMEDCT_US,pain,4
+Left iliac fossa pain,C0476307,SNOMEDCT_US,pain,0
+Pain of uterus,C0567085,MTH,pain,0
+Thoracic nerve root pain,C0522256,SNOMEDCT_US,pain,0
+Rebound tenderness,C0234246,SNOMEDCT_US,pain,9
+Hospital-based outpatient pain clinic,C0337971,SNOMEDCT_US,pain,0
+Neck pain aggravated by recumbency,C0522032,SNOMEDCT_US,pain,0
+Myofascial pain syndrome of neck,C0458110,SNOMEDCT_US,pain,0
+Distress from pain in labor,C0474485,SNOMEDCT_US,pain,0
+Referral to pain management specialist,C0584122,SNOMEDCT_US,pain,0
+Admission to pain management department,C0583278,SNOMEDCT_US,pain,0
+Pain severity,C1507013,MTH,pain,2
+Abdominal pain through to back,C0277969,SNOMEDCT_US,pain,0
+Dysuria,C0013428,MTH,pain,361
+Chronic pelvic pain of female,C0404484,SNOMEDCT_US,pain,0
+Myofascial low back pain,C3267173,SNOMEDCT_US,pain,0
+Chronic idiopathic pain syndrome,C4285670,SNOMEDCT_US,pain,0
+Demonstrates adequate pain control,C5548091,SNOMEDCT_US,pain,0
+Microvascular Angina,C0206064,MTH,pain,0
+Finding of pain of uterine contraction,C0567147,SNOMEDCT_US,pain,0
+Myofascial pain syndrome of lower back,C0458116,SNOMEDCT_US,pain,0
+Education on self-management of pain,C4759625,SNOMEDCT_US,pain,0
+Phantom limb syndrome with pain,C3814878,MTH,pain,0
+Pain crisis,C0231225,SNOMEDCT_US,pain,7
+Lumbosacral nerve root pain,C0522257,SNOMEDCT_US,pain,0
+Chronic idiopathic anal pain,C0267515,SNOMEDCT_US,pain,0
+Central crushing chest pain,C0458102,SNOMEDCT_US,pain,0
+Distal radioulnar joint pain,C0458229,SNOMEDCT_US,pain,0
+First metatarsophalangeal joint pain,C0458235,SNOMEDCT_US,pain,0
+Lesser metatarsophalangeal joint pain,C0458236,SNOMEDCT_US,pain,0
+Persistent prosthetic joint pain,C0410816,SNOMEDCT_US,pain,0
+Chronic nonspecific abdominal pain,C0400882,SNOMEDCT_US,pain,0
+Back pain prevention education,C0556556,SNOMEDCT_US,pain,0
+Right iliac fossa pain,C0476306,SNOMEDCT_US,pain,0
+Recurrent acute abdominal pain,C0476308,SNOMEDCT_US,pain,0
+Acute thoracic back pain,C0423685,SNOMEDCT_US,pain,0
+"Low Back Pain, Posterior Compartment",C0423689,MSH,pain,0
+Pain behavior present,C1828439,SNOMEDCT_US,pain,0
+Bilateral hip joint pain,C2108709,SNOMEDCT_US,pain,0
+Bilateral elbow joint pain,C2220045,SNOMEDCT_US,pain,0
+Bilateral shoulder joint pain,C2184203,SNOMEDCT_US,pain,0
+Bilateral pain in upper arms,C2032142,SNOMEDCT_US,pain,0
+Pain in bilateral lower legs,C2032151,SNOMEDCT_US,pain,0
+Periorbital pain of left eye,C2053484,SNOMEDCT_US,pain,0
+Periorbital pain of right eye,C2053485,SNOMEDCT_US,pain,0
+Low back pain in pregnancy,C3839171,SNOMEDCT_US,pain,0
+Post-mastectomy chronic pain syndrome,C4075447,SNOMEDCT_US,pain,0
+Able to communicate about pain,C5141201,SNOMEDCT_US,pain,0
+Deficient knowledge of pain management,C3875029,SNOMEDCT_US,pain,0
+Identification of attitude toward pain,C4038713,SNOMEDCT_US,pain,0
+Assessment of knowledge about pain,C4040019,SNOMEDCT_US,pain,0
+Liaising with pain management specialist,C4041192,SNOMEDCT_US,pain,0
+Abdominal pain in early pregnancy,C1281941,SNOMEDCT_US,pain,0
+Joint pain in left hand,C4047545,SNOMEDCT_US,pain,0
+Joint pain in right hand,C4047544,SNOMEDCT_US,pain,0
+Post-herpetic polyneuropathy,C0153025,SNOMEDCT_US,pain,0
+Abdominal pain worse on motion,C0277970,SNOMEDCT_US,pain,0
+Alteration in comfort: chronic pain,C0231385,SNOMEDCT_US,pain,0
+Back pain worse on sneezing,C0423678,SNOMEDCT_US,pain,0
+Finding of present pain intensity,C0578068,SNOMEDCT_US,pain,0
+Varni-Thompson pediatric pain questionnaire,C0582679,SNOMEDCT_US,pain,0
+Interphalangeal joint of toe pain,C0458237,SNOMEDCT_US,pain,0
+Myofascial pain syndrome of thorax,C0458114,SNOMEDCT_US,pain,0
+Referral to pain management service,C0583979,SNOMEDCT_US,pain,0
+Referral to back pain clinic,C0586679,SNOMEDCT_US,pain,0
+Pain during outflow of dialysate,C0403569,SNOMEDCT_US,pain,0
+Acute back pain with sciatica,C0423677,SNOMEDCT_US,pain,0
+Seen by pain management specialist,C0583547,SNOMEDCT_US,pain,0
+Discharge by pain management specialist,C0584260,SNOMEDCT_US,pain,0
+Additional pain and sensation observations,C0560168,SNOMEDCT_US,pain,0
+Admission by pain management specialist,C0583136,SNOMEDCT_US,pain,0
+Seen by pain management nurse,C0583638,SNOMEDCT_US,pain,0
+Seen by pain management service,C0583688,SNOMEDCT_US,pain,0
+Referral by pain management specialist,C0583826,SNOMEDCT_US,pain,0
+Referral by pain management nurse,C0583916,SNOMEDCT_US,pain,0
+Discharge by pain management nurse,C0584356,SNOMEDCT_US,pain,0
+Referral to pain management nurse,C0584187,SNOMEDCT_US,pain,0
+Referral to acute pain service,C0585241,SNOMEDCT_US,pain,0
+Pain in round ligament in pregnancy,C3840206,SNOMEDCT_US,pain,0
+Administration of analgesic,C0262176,SNOMEDCT_US,pain,0
+Assessment of psychological response to pain,C4039433,SNOMEDCT_US,pain,0
+Assessment of knowledge of pain management,C4039468,SNOMEDCT_US,pain,0
+Dallas pain questionnaire score,C2960435,SNOMEDCT_US,pain,0
+Chronic pain control management,C1443473,SNOMEDCT_US,pain,0
+Acute pain control management,C1443468,SNOMEDCT_US,pain,0
+Chronic pain control assessment,C1443471,SNOMEDCT_US,pain,0
+Chronic pain control education,C1443472,SNOMEDCT_US,pain,0
+Acute pain control assessment,C1443469,SNOMEDCT_US,pain,0
+Acute pain control education,C1443470,SNOMEDCT_US,pain,0
+Chronic thoracic back pain,C3662084,SNOMEDCT_US,pain,0
+Generalized colicky abdominal pain,C1300119,SNOMEDCT_US,pain,0
+Electric shock type pain,C4509826,SNOMEDCT_US,pain,0
+Bilateral acromioclavicular joint pain,C4751105,SNOMEDCT_US,pain,0
+Chronic urinary bladder pain,C5192392,SNOMEDCT_US,pain,0
+Chronic primary generalized pain,C4546300,SNOMEDCT_US,pain,0
+Chronic mechanical visceral pain,C4546309,SNOMEDCT_US,pain,0
+Chronic secondary facial pain,C4546314,SNOMEDCT_US,pain,0
+Brief pain inventory score,C2732532,SNOMEDCT_US,pain,0
+Acceptable pain level status,C1960642,SNOMEDCT_US,pain,0
+Chronic primary musculoskeletal pain,C4546301,SNOMEDCT_US,pain,0
+Bilateral foot joint pain,C4281046,SNOMEDCT_US,pain,0
+Functional abdominal pain syndrome,C3266155,SNOMEDCT_US,pain,0
+Chronic primary orofacial pain,C4546303,SNOMEDCT_US,pain,0
+Chronic central neuropathic pain,C4546312,SNOMEDCT_US,pain,0
+Chronic sacroiliac joint pain,C5190491,SNOMEDCT_US,pain,0
+Bilateral temporomandibular joint pain,C4544099,SNOMEDCT_US,pain,0
+Intractable low back pain,C4038989,SNOMEDCT_US,pain,0
+Chronic primary visceral pain,C4546299,SNOMEDCT_US,pain,0
+Chronic peripheral neuropathic pain,C4546313,SNOMEDCT_US,pain,0
+Chronic secondary oral pain,C4546315,SNOMEDCT_US,pain,0
+Working through the pain of grief,C0557919,SNOMEDCT_US,pain,0
+Finding of sensory dimension of pain,C0578061,SNOMEDCT_US,pain,0
+Finding of affective dimension of pain,C0578062,SNOMEDCT_US,pain,0
+Referred pain in shoulder from abdomen,C0423611,SNOMEDCT_US,pain,0
+Pain level,C0518087,SNOMEDCT_US,pain,150
+Pain of lymph node,C0578050,MTH,pain,0
+Complex regional pain syndrome of hand,C0343267,SNOMEDCT_US,pain,0
+Acute pain following mastectomy,C4520454,SNOMEDCT_US,pain,0
+Orofacial pain management specialty,C5699821,SNOMEDCT_US,pain,0
+Bilateral sacroiliac joint pain,C4047549,SNOMEDCT_US,pain,0
+Bilateral ankle joint pain,C4047548,SNOMEDCT_US,pain,0
+Chronic pain of left foot,C4509718,SNOMEDCT_US,pain,0
+Drugs used in neuropathic pain,C1319667,SNOMEDCT_US,pain,0
+Disorder characterized by back pain,C1302248,SNOMEDCT_US,pain,0
+Chronic pain in male pelvis,C3662083,SNOMEDCT_US,pain,0
+Bilateral chronic pain of feet,C4751174,SNOMEDCT_US,pain,0
+Bilateral periorbital pain of eyes,C5191888,SNOMEDCT_US,pain,0
+Neuropathic pain due to radiation,C4039640,SNOMEDCT_US,pain,0
+Cancer pain and symptom management,C1531820,SNOMEDCT_US,pain,0
+Female deep pain on intercourse,C5229452,SNOMEDCT_US,pain,0
+Chronic pain of right foot,C4509720,SNOMEDCT_US,pain,0
+Ischemic foot with rest pain,C4076177,SNOMEDCT_US,pain,0
+Acute pain due to injury,C2316722,SNOMEDCT_US,pain,0
+Feature of present pain intensity,C1286324,SNOMEDCT_US,pain,0
+Able to tolerate generalized pain,C4274583,SNOMEDCT_US,pain,0
+Able to recognize generalized pain,C4274605,SNOMEDCT_US,pain,0
+Able to understand generalized pain,C4274578,SNOMEDCT_US,pain,0
+Able to manage generalized pain,C4274622,SNOMEDCT_US,pain,0
+Chronic pain due to injury,C2316723,SNOMEDCT_US,pain,0
+Acute pain in female pelvis,C2317372,SNOMEDCT_US,pain,0
+Bilateral pain of inguinal region,C4750931,SNOMEDCT_US,pain,0
+Bilateral pain of shoulder blades,C4751106,SNOMEDCT_US,pain,0
+Joint pain of pelvic region,C4076174,SNOMEDCT_US,pain,0
+Pain in spine,C0423673,SNOMEDCT_US,pain,0
+Psychogenic backache,C0577663,SNOMEDCT_US,pain,0
+Pain in forearm,C0239667,SNOMEDCT_US,pain,0
+Short form McGill pain questionnaire,C0457972,SNOMEDCT_US,pain,0
+Pain score,C0582148,SNOMEDCT_US,pain,8
+Characteristics of pain of truncal structure,C1286319,SNOMEDCT_US,pain,0
+Acute pain of joint of knee,C3839361,SNOMEDCT_US,pain,0
+History of pain of multiple joints,C3532476,SNOMEDCT_US,pain,0
+Bilateral pain of joint of hands,C5192488,SNOMEDCT_US,pain,0
+Compensated movement at site of pain,C1828383,SNOMEDCT_US,pain,0
+Characteristic of pain at anatomical site,C1286316,SNOMEDCT_US,pain,0
+Functional abdominal pain of childhood,C5686418,SNOMEDCT_US,pain,0
+Pain due to internal prosthetic device,C0436092,SNOMEDCT_US,pain,0
+Pain in lumbar spine,C0423681,MTH,pain,0
+Chronic pain due to malignant neoplastic disease,C4544056,SNOMEDCT_US,pain,0
+No pain in abdominal region on palpation,C5395763,SNOMEDCT_US,pain,0
+Family education about pain management,C4038780,SNOMEDCT_US,pain,0
+Liaising about pain management plan,C4041454,SNOMEDCT_US,pain,0
+Education on non-opioid pain medication,C4721262,SNOMEDCT_US,pain,0
+Pain diary,C0451366,SNOMEDCT_US,pain,1
+Pain rehabilitation,C0458264,SNOMEDCT_US,pain,0
+Pain in left arm,C0564820,MTH,pain,0
+Pain in right arm,C0564821,MTH,pain,0
+Discharge from pain management service,C0584464,SNOMEDCT_US,pain,0
+Beliefs about pain control questionnaire,C0582615,SNOMEDCT_US,pain,0
+London hospital pain chart assessment,C0451271,SNOMEDCT_US,pain,0
+Myofascial pain syndrome of thoracic spine,C4751058,SNOMEDCT_US,pain,0
+Myofascial pain syndrome of lumbar spine,C4751057,SNOMEDCT_US,pain,0
+Pain of left temporomandibular joint,C2032363,SNOMEDCT_US,pain,0
+Pain of right temporomandibular joint,C2032434,SNOMEDCT_US,pain,0
+Pain in male genitalia,C0458104,SNOMEDCT_US,pain,0
+Distal interphalangeal joint of finger pain,C0458231,SNOMEDCT_US,pain,0
+Complex regional pain syndrome of knee,C0343266,SNOMEDCT_US,pain,0
+Complex regional pain syndrome of foot,C0343265,SNOMEDCT_US,pain,0
+Under care of pain management nurse,C0583464,SNOMEDCT_US,pain,0
+Proximal interphalangeal joint of finger pain,C0458230,SNOMEDCT_US,pain,0
+Referred to acute chest pain clinic,C0581036,SNOMEDCT_US,pain,0
+Under care of pain management specialist,C0583366,SNOMEDCT_US,pain,0
+Palliative procedure for pancreatic pain relief,C0400580,SNOMEDCT_US,pain,0
+Evaluation of response to pain management interventions,C1269704,SNOMEDCT_US,pain,0
+Evaluation of response to pain management instruction,C1269703,SNOMEDCT_US,pain,0
+Implementation of alternative methods of pain control,C1269712,SNOMEDCT_US,pain,0
+Pain in thumb,C0241394,SNOMEDCT_US,pain,0
+Pain in thyroid,C0542134,SNOMEDCT_US,pain,0
+Pain in femur,C0578451,SNOMEDCT_US,pain,0
+Brief pain coping inventory score,C2959533,SNOMEDCT_US,pain,0
+Assessment using Dallas pain questionnaire,C2960312,SNOMEDCT_US,pain,0
+Knowledge level about pain management,C2585941,SNOMEDCT_US,pain,0
+Pediatric chronic pain management service,C5229979,SNOMEDCT_US,pain,0
+Visual analog scale pain score,C2732809,SNOMEDCT_US,pain,0
+Adult chronic pain management service,C5229980,SNOMEDCT_US,pain,0
+Geriatric chronic pain management service,C5229981,SNOMEDCT_US,pain,0
+Chronic pain after cancer treatment,C5230193,SNOMEDCT_US,pain,0
+Pediatric chronic pain management specialty,C5230003,SNOMEDCT_US,pain,0
+Assessment using McGill pain questionnaire,C2959503,SNOMEDCT_US,pain,0
+Ischemic foot pain when walking,C4075863,SNOMEDCT_US,pain,0
+Assessment using brief pain inventory,C2960682,SNOMEDCT_US,pain,0
+Chronic female pelvic pain syndrome,C4543114,SNOMEDCT_US,pain,0
+Adult chronic pain management specialty,C5230004,SNOMEDCT_US,pain,0
+Geriatric chronic pain management specialty,C5230008,SNOMEDCT_US,pain,0
+Pain co-occurrent and due to varicose veins of left leg,C4047625,SNOMEDCT_US,pain,0
+Pain co-occurrent and due to varicose veins of right leg,C4047600,SNOMEDCT_US,pain,0
+Finding related to pain control behavior,C1443467,SNOMEDCT_US,pain,0
+Verbal Rating Scale for pain intensity,C5547406,SNOMEDCT_US,pain,0
+Chronic pain of left upper limb,C4509719,SNOMEDCT_US,pain,0
+Phantom pain following excision of eye,C4038876,SNOMEDCT_US,pain,0
+Phantom pain following amputation of penis,C4041132,SNOMEDCT_US,pain,0
+Stated pain intensity within acceptable range,C1828229,SNOMEDCT_US,pain,0
+Acute exacerbation of chronic abdominal pain,C2919655,SNOMEDCT_US,pain,0
+Referral to chronic pain management service,C4545626,SNOMEDCT_US,pain,0
+Peripheral vascular disease with rest pain,C1996961,SNOMEDCT_US,pain,0
+AVPU - alert voice pain unresponsive scale,C3165076,SNOMEDCT_US,pain,0
+Psychosocial dysfunction due to chronic pain,C3662105,SNOMEDCT_US,pain,0
+Bilateral chronic pain of upper limbs,C4706630,SNOMEDCT_US,pain,0
+Chronic pain of right upper limb,C4509721,SNOMEDCT_US,pain,0
+Complete pain relief response to treatment,C3874258,SNOMEDCT_US,pain,0
+Manchester foot pain and disability index,C2960415,SNOMEDCT_US,pain,0
+Wong-Baker FACES pain assessment scale,C4305328,SNOMEDCT_US,pain,0
+Cryoanalgesia,C0524318,SNOMEDCT_US,pain,0
+Pain / sensation finding,C0234185,MTH,pain,0
+Referral to epidural anesthesia for spinal pain,C1563106,SNOMEDCT_US,pain,0
+Degree of client satisfaction with pain management,C2585416,SNOMEDCT_US,pain,0
+Able to manage pain in body part,C4274620,SNOMEDCT_US,pain,0
+Able to recognize pain in body part,C4274600,SNOMEDCT_US,pain,0
+Able to tolerate pain in body part,C4274582,SNOMEDCT_US,pain,0
+Able to understand pain in body part,C4274576,SNOMEDCT_US,pain,0
+Neck pain due to malignant neoplastic disease,C4038936,SNOMEDCT_US,pain,0
+Chronic pain following surgical procedure for cancer,C4546304,SNOMEDCT_US,pain,0
+Alimentary tract pain due to vascular insufficiency,C0267397,SNOMEDCT_US,pain,0
+Documentation of pain medication action plan,C3495078,SNOMEDCT_US,pain,0
+Left temporomandibular joint pain dysfunction syndrome,C4750779,SNOMEDCT_US,pain,0
+Right temporomandibular joint pain dysfunction syndrome,C4750540,SNOMEDCT_US,pain,0
+Pain and tenderness,C0234242,SNOMEDCT_US,pain,4
+Pain observable,C1320390,SNOMEDCT_US,pain,0
+Finding related to ability to cope with pain,C1287063,SNOMEDCT_US,pain,0
+Characteristics of pain of head and neck region,C1286317,SNOMEDCT_US,pain,0
+Pain in cervical spine,C0423674,SNOMEDCT_US,pain,0
+Chronic pelvic pain without obvious pathology,C0458112,SNOMEDCT_US,pain,0
+Chronic Prostatitis with Chronic Pelvic Pain Syndrome,C1723764,MSH,pain,0
+"Complex regional pain syndrome, type II, upper limb",C1443291,SNOMEDCT_US,pain,0
+Evaluation of psychosocial response to instruction about pain,C4040901,SNOMEDCT_US,pain,0
+Earache,C0013456,MTH,pain,2
+Pain of cervix,C0567230,SNOMEDCT_US,pain,0
+Pain of sternum,C0575503,SNOMEDCT_US,pain,0
+Low back pain co-occurrent with neuralgia of left sciatic nerve,C5230063,SNOMEDCT_US,pain,0
+University of Alabama at Birmingham pain behavior scale (assessment scale),C3472644,MTH,pain,0
+Assessment using brief pain coping inventory,C2960463,SNOMEDCT_US,pain,0
+Verbal Rating Scale pain intensity score,C5547405,SNOMEDCT_US,pain,0
+Assessment using visual analog pain scale,C2960689,SNOMEDCT_US,pain,0
+Assessment using pain self efficacy questionnaire,C2959756,SNOMEDCT_US,pain,0
+Bilateral temporomandibular joint pain dysfunction syndrome,C4750693,SNOMEDCT_US,pain,0
+Prostatitis category III (National Institute of Health classification),C5551563,MTH,pain,0
+Pain co-occurrent and due to varicose veins of bilateral legs,C4047626,SNOMEDCT_US,pain,0
+Pain of left shoulder joint,C0241039,SNOMEDCT_US,pain,0
+Pain of right shoulder joint,C0241040,SNOMEDCT_US,pain,0
+Pain in upper arm,C0839476,SNOMEDCT_US,pain,1
+Phantom pain following amputation of lower limb,C4039150,SNOMEDCT_US,pain,0
+Continuous abdominal pain of left lower quadrant,C3873252,SNOMEDCT_US,pain,0
+Complex regional pain syndrome of lower limb,C4543483,SNOMEDCT_US,pain,0
+Phantom pain following amputation of upper limb,C4039070,SNOMEDCT_US,pain,0
+Bilateral amputation stump pain of lower limbs,C5547597,SNOMEDCT_US,pain,0
+Chronic musculoskeletal pain due to persistent inflammation,C4546307,SNOMEDCT_US,pain,0
+Chronic visceral pain due to persistent inflammation,C4546311,SNOMEDCT_US,pain,0
+Referral to rapid access chest pain clinic,C1278470,SNOMEDCT_US,pain,0
+Seen in rapid access chest pain clinic,C1278496,SNOMEDCT_US,pain,0
+Demonstrates adequate pain control with oral analgesics,C1827764,SNOMEDCT_US,pain,0
+Manchester foot pain and disability index score,C2960416,SNOMEDCT_US,pain,0
+Response to treatment shows partial pain relief,C3873600,SNOMEDCT_US,pain,0
+Bilateral amputation stump pain of upper limbs,C5547594,SNOMEDCT_US,pain,0
+Chronic visceral pain due to vascular disorder,C4546310,SNOMEDCT_US,pain,0
+Narcotic addiction service with chronic pain management,C5229982,SNOMEDCT_US,pain,0
+Demonstrates adequate pain control without oral analgesics,C1827459,SNOMEDCT_US,pain,0
+Pain Catastrophizing Scale,C4273905,SNOMEDCT_US,pain,0
+Autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain,C4755257,SNOMEDCT_US,pain,0
+Able to recognize own emotional pain and distress,C4274601,SNOMEDCT_US,pain,0
+Vaso-occlusive pain episode in sickle cell disease,C4708695,SNOMEDCT_US,pain,0
+Crymodynia,C0522244,SNOMEDCT_US,pain,0
+Pain on penetration,C0423746,SNOMEDCT_US,pain,0
+Pain control nurse,C0557532,SNOMEDCT_US,pain,0
+Pain management specialist,C0586849,SNOMEDCT_US,pain,0
+Pain management department,C0587486,SNOMEDCT_US,pain,0
+Pain management service,C0587604,SNOMEDCT_US,pain,1
+Pain on eye movement,C0239430,SNOMEDCT_US,pain,0
+Anesthesia and pain medication during labor plan,C4082135,SNOMEDCT_US,pain,0
+Chronic neck pain for greater than 3 months,C4076102,SNOMEDCT_US,pain,0
+Time from onset of pain to call for help,C3164804,SNOMEDCT_US,pain,0
+Labor and delivery non-medicinal pain relief plan,C4082136,SNOMEDCT_US,pain,0
+Identification of cultural and value components related to pain management,C1269709,SNOMEDCT_US,pain,0
+Pain in left lower limb,C0564822,SNOMEDCT_US,pain,0
+Pain in right lower limb,C0564823,SNOMEDCT_US,pain,0
+Pain in hallux,C1644184,SNOMEDCT_US,pain,0
+Pain in pinna,C5230789,SNOMEDCT_US,pain,0
+Pain in chin,C3532891,SNOMEDCT_US,pain,0
+Pain in sacrum,C5547845,SNOMEDCT_US,pain,0
+Family history of backache,C2316195,SNOMEDCT_US,pain,0
+Pain from metastases,C1269642,SNOMEDCT_US,pain,0
+Pain management (specialty),C1273541,SNOMEDCT_US,pain,0
+Pain medication review,C3266236,SNOMEDCT_US,pain,0
+Pain / sensation observable,C1286314,SNOMEDCT_US,pain,0
+Pain control behavior,C0518061,SNOMEDCT_US,pain,0
+Abbey Pain Scale,C4706384,SNOMEDCT_US,pain,0
+Pain of left forearm,C2126412,SNOMEDCT_US,pain,0
+Pain of right forearm,C2126411,SNOMEDCT_US,pain,0
+Pain on tooth percussion,C5396268,SNOMEDCT_US,pain,0
+Toothache,C0040460,MTH,pain,0
+Arthralgia of the ankle and/or foot,C0423658,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type II of left upper limb,C2921598,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type II of right upper limb,C2921599,SNOMEDCT_US,pain,0
+Chronic pain following left total hip arthroplasty,C4509796,SNOMEDCT_US,pain,0
+Chronic pain following left total knee arthroplasty,C4509797,SNOMEDCT_US,pain,0
+Bilateral chronic pain following total hip arthroplasty,C4706631,SNOMEDCT_US,pain,0
+Bilateral total knee chronic pain following arthroplasty,C4509795,SNOMEDCT_US,pain,0
+Chronic pain following right total hip arthroplasty,C4509798,SNOMEDCT_US,pain,0
+Chronic pain following right total knee arthroplasty,C4509799,SNOMEDCT_US,pain,0
+pain of left arm only,C2032333,MTH,pain,0
+pain of right arm only,C2032401,MTH,pain,0
+Pain of oral cavity structure,C0578051,MTH,pain,0
+Hereditary sensory and autonomic neuropathy type 7,C3809882,SNOMEDCT_US,pain,0
+Pain of left hand,C2032351,SNOMEDCT_US,pain,0
+Pain of left wrist,C2167935,SNOMEDCT_US,pain,0
+Pain in left foot,C2141243,SNOMEDCT_US,pain,0
+Pain in right hand,C2032420,SNOMEDCT_US,pain,0
+Pain in right foot,C2016977,SNOMEDCT_US,pain,0
+Greater trochanteric pain syndrome of left lower limb,C4545238,SNOMEDCT_US,pain,0
+Greater trochanteric pain syndrome of right lower limb,C4545239,SNOMEDCT_US,pain,0
+Bilateral greater trochanteric pain syndrome of lower limbs,C4545237,SNOMEDCT_US,pain,0
+Chronic sacral pain for greater than three months,C3662081,SNOMEDCT_US,pain,0
+Narcotic addiction medicine specialty with chronic pain management,C5230005,SNOMEDCT_US,pain,0
+Demonstrates adequate pain control throughout the perioperative period,C1301557,SNOMEDCT_US,pain,0
+Assessment using Manchester foot pain and disability index,C2960596,SNOMEDCT_US,pain,0
+"Complex regional pain syndrome, type II, lower limb",C1443290,SNOMEDCT_US,pain,0
+Pain in area of anesthesia,C0474367,SNOMEDCT_US,pain,0
+Pain provoked by eating,C1960724,SNOMEDCT_US,pain,0
+Chronic pain in coccyx for more than three months,C3662095,SNOMEDCT_US,pain,0
+Chronic musculoskeletal pain due to disease of nervous system,C4546308,SNOMEDCT_US,pain,0
+Pain of shoulder girdle,C5566310,SNOMEDCT_US,pain,0
+Pain of left breast,C2032341,SNOMEDCT_US,pain,0
+Pain radiating to neck,C1960989,SNOMEDCT_US,pain,0
+Pain of right breast,C2228804,SNOMEDCT_US,pain,0
+Pain due to arthritis,C5545366,SNOMEDCT_US,pain,0
+Pain and symptom management,C1273397,SNOMEDCT_US,pain,5
+Time from onset of pain to administration of thrombolytic agent,C1272237,SNOMEDCT_US,pain,0
+Right upper limb pain co-occurrent and due to ischemia,C4706623,SNOMEDCT_US,pain,0
+History of pain at rest due to peripheral vascular disease,C5230309,SNOMEDCT_US,pain,0
+Low back pain co-occurrent and due to bilateral sciatica,C4510611,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type II of left lower limb,C3863922,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type II of right lower limb,C3863921,SNOMEDCT_US,pain,0
+Pain control techniques education,C0204955,SNOMEDCT_US,pain,0
+Pain in limb - multiple,C0565592,SNOMEDCT_US,pain,0
+Pain of endocrine structure,C0578054,SNOMEDCT_US,pain,0
+Pain of cardiovascular structure,C0578048,SNOMEDCT_US,pain,0
+Pain of lymphoreticular structure,C0578049,SNOMEDCT_US,pain,0
+Pain of respiratory structure,C0578045,SNOMEDCT_US,pain,0
+Pain of digestive structure,C0578052,SNOMEDCT_US,pain,0
+Pain coping strategies questionnaire,C0582650,SNOMEDCT_US,pain,0
+Pain on joint movement,C0575033,SNOMEDCT_US,pain,0
+Pain of truncal structure,C0578056,SNOMEDCT_US,pain,0
+Pain of left upper limb co-occurrent and due to ischemia,C4706624,SNOMEDCT_US,pain,0
+Pain from tissue expander,C0406881,SNOMEDCT_US,pain,0
+Pain of left calf,C2032367,SNOMEDCT_US,pain,0
+Pain of left heel,C2032349,SNOMEDCT_US,pain,0
+Pain of left eye,C2141086,SNOMEDCT_US,pain,0
+Pain of bilateral eyes,C2032148,SNOMEDCT_US,pain,0
+Pain in right heel,C2032418,SNOMEDCT_US,pain,0
+Pain of right calf,C2032437,SNOMEDCT_US,pain,0
+Pain of right eye,C2201627,SNOMEDCT_US,pain,0
+Limb pain at rest due to atherosclerosis of artery of lower limb,C5230761,SNOMEDCT_US,pain,0
+Pain of left thigh,C2896456,SNOMEDCT_US,pain,0
+Pain of right wrist,C2895043,SNOMEDCT_US,pain,0
+Pain of right thigh,C2896455,SNOMEDCT_US,pain,0
+Chronic back pain greater than three months duration,C3662035,SNOMEDCT_US,pain,0
+Pain of left knee joint,C2142181,MTH,pain,0
+Pain of right knee joint,C2202235,MTH,pain,0
+Pain caused by breast implant,C0405495,SNOMEDCT_US,pain,0
+Pain of bilateral knee joints,C2220048,SNOMEDCT_US,pain,0
+Pain provoked by running,C1960729,SNOMEDCT_US,pain,0
+Pain provoked by breathing,C1960722,SNOMEDCT_US,pain,0
+Pain tolerance level finding,C1288121,SNOMEDCT_US,pain,0
+Pain following sexual intercourse,C1827628,SNOMEDCT_US,pain,0
+Pain by sensation quality,C1444779,SNOMEDCT_US,pain,0
+Pain intensity rating scale,C1960637,SNOMEDCT_US,pain,0
+Pain provoked by allergen,C1960720,SNOMEDCT_US,pain,0
+Pain provoked by coughing,C1960723,SNOMEDCT_US,pain,0
+Pain provoked by lifting,C1960731,SNOMEDCT_US,pain,0
+Pain radiating to jaw,C1960980,SNOMEDCT_US,pain,2
+Pain provoked by altercation,C1960721,SNOMEDCT_US,pain,0
+Pain provoked by temperature,C1960730,SNOMEDCT_US,pain,0
+Pain provoked by movement,C1960727,SNOMEDCT_US,pain,0
+Pain provoked by walking,C1960732,SNOMEDCT_US,pain,0
+Pain provoked by exertion,C1960725,SNOMEDCT_US,pain,0
+Pain in female pelvis,C1960888,SNOMEDCT_US,pain,0
+Pain provoked by light,C1960726,SNOMEDCT_US,pain,0
+Pain radiating to head,C1960979,SNOMEDCT_US,pain,0
+Pain relief by antacid,C1997206,SNOMEDCT_US,pain,0
+Pain relief by walking,C1997791,SNOMEDCT_US,pain,0
+Pain relief by rest,C1998249,SNOMEDCT_US,pain,0
+Pain relief by medication,C1998289,SNOMEDCT_US,pain,0
+Pain on tooth palpation,C5396286,SNOMEDCT_US,pain,0
+Pain relieved by analgesic,C3872550,SNOMEDCT_US,pain,0
+Pain in male pelvis,C3874368,SNOMEDCT_US,pain,0
+Pain provoked by trauma,C3872898,SNOMEDCT_US,pain,0
+Pain onset during sleep,C1997983,SNOMEDCT_US,pain,0
+Pain level: psychological effects,C0518879,SNOMEDCT_US,pain,0
+Pain onset at rest,C1997935,SNOMEDCT_US,pain,0
+Pain Catastrophizing Scale score,C4274410,SNOMEDCT_US,pain,0
+Pain control care plan,C4544238,SNOMEDCT_US,pain,0
+McGill Pain Questionnaire score,C4305047,SNOMEDCT_US,pain,0
+Pain-relief static magnet,C3876820,SNOMEDCT_US,pain,0
+Abbey Pain Scale score,C4749354,SNOMEDCT_US,pain,0
+Pain Self-efficacy Questionnaire,C4075347,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type I of left lower limb,C2118348,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type I of left upper limb,C2118346,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type I of right lower limb,C2118347,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type I of right upper limb,C2118345,SNOMEDCT_US,pain,0
+Pain of left hip joint,C2141922,SNOMEDCT_US,pain,0
+Pain in left thumb,C4047529,SNOMEDCT_US,pain,0
+Pain of bilateral forearms,C4280830,SNOMEDCT_US,pain,0
+Pain of bilateral hands,C4281047,SNOMEDCT_US,pain,0
+Pain of bilateral thighs,C4280833,SNOMEDCT_US,pain,0
+Pain following radiation therapy,C4520350,SNOMEDCT_US,pain,0
+Pain in right thumb,C4047528,SNOMEDCT_US,pain,0
+Pain of left acromioclavicular joint,C2167173,SNOMEDCT_US,pain,0
+Pain of left sternoclavicular joint,C2108861,SNOMEDCT_US,pain,0
+Pain of right sternoclavicular joint,C2108892,SNOMEDCT_US,pain,0
+Pain of right acromioclavicular joint,C2218659,SNOMEDCT_US,pain,0
+Pain during labor and delivery,C1301639,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type 2 of bilateral upper limbs,C4520444,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type 2 of bilateral lower limbs,C4520441,SNOMEDCT_US,pain,0
+"Pain self-management deficit, acute",C0231387,SNOMEDCT_US,pain,0
+"Pain self-management deficit, chronic",C0231388,SNOMEDCT_US,pain,0
+Pain following administration of agent,C0458170,SNOMEDCT_US,pain,0
+Pain on movement of uterus,C0567086,SNOMEDCT_US,pain,0
+Pain on movement of pinna,C0576840,SNOMEDCT_US,pain,0
+Pain on movement of skin,C0574747,SNOMEDCT_US,pain,0
+Pain on movement of cervix,C0567231,SNOMEDCT_US,pain,0
+Pain on movement of ovary,C0567259,SNOMEDCT_US,pain,0
+Pain and sensation symptom findings,C0586408,SNOMEDCT_US,pain,0
+Pain when milk coming in,C0423734,SNOMEDCT_US,pain,0
+Pain finding at anatomical site,C0458087,SNOMEDCT_US,pain,0
+Pain on abdominal wall movement,C0423655,SNOMEDCT_US,pain,0
+Pain during inflow of dialysate,C0403568,SNOMEDCT_US,pain,0
+Pain of left elbow joint,C2140799,SNOMEDCT_US,pain,0
+Pain of left ankle joint,C2139394,SNOMEDCT_US,pain,0
+Pain in left sacroiliac joint,C2129522,SNOMEDCT_US,pain,0
+Pain of right ankle joint,C2200472,SNOMEDCT_US,pain,0
+Pain in right sacroiliac joint,C2129521,SNOMEDCT_US,pain,0
+Pain of right elbow joint,C2201434,SNOMEDCT_US,pain,0
+Pain of head and neck region,C0578055,SNOMEDCT_US,pain,0
+Catch - Finding of sensory dimension of pain,C0231617,MTH,pain,0
+Complex regional pain syndrome type I of bilateral lower limbs,C4543353,SNOMEDCT_US,pain,0
+Complex regional pain syndrome type I of bilateral upper limbs,C4543352,SNOMEDCT_US,pain,0
+Pain on movement of lumbar spine,C0575448,SNOMEDCT_US,pain,0
+Pain due to knee joint prosthesis,C0587242,SNOMEDCT_US,pain,0
+Pain due to hip joint prosthesis,C0587241,SNOMEDCT_US,pain,0
+Neck pain co-occurrent with neurological deficit following whiplash injury to neck,C4511382,SNOMEDCT_US,pain,0
+Neck pain co-occurrent with neck stiffness following whiplash injury to neck,C4510716,SNOMEDCT_US,pain,0
+Pain characterized by provoking factor,C1960719,SNOMEDCT_US,pain,0
+Pain of left lower leg,C4751092,SNOMEDCT_US,pain,3
+Pain radiating to lower abdomen,C1960986,SNOMEDCT_US,pain,0
+Pain radiating to left arm,C1960981,SNOMEDCT_US,pain,0
+Pain radiating to left flank,C1960982,SNOMEDCT_US,pain,0
+Pain radiating to left shoulder,C1960984,SNOMEDCT_US,pain,0
+Pain radiating to left leg,C1960983,SNOMEDCT_US,pain,0
+Pain relief related to position,C1997553,SNOMEDCT_US,pain,0
+Pain relief by sitting up,C1996974,SNOMEDCT_US,pain,0
+Pain of left shoulder blade,C4281061,SNOMEDCT_US,pain,0
+Pain of right lower leg,C4751096,SNOMEDCT_US,pain,0
+Pain radiating to middle abdomen,C1960988,SNOMEDCT_US,pain,0
+Pain radiating to right flank,C1960991,SNOMEDCT_US,pain,0
+Pain radiating to right shoulder,C1960993,SNOMEDCT_US,pain,0
+Pain radiating to upper abdomen,C1960997,SNOMEDCT_US,pain,0
+Pain characterized by relieving factor,C1961000,SNOMEDCT_US,pain,0
+Pain radiating to right arm,C1960990,SNOMEDCT_US,pain,0
+Pain radiating to right leg,C1960992,SNOMEDCT_US,pain,10
+Pain of right shoulder blade,C4281062,SNOMEDCT_US,pain,0
+Pain relief by supine position,C1998080,SNOMEDCT_US,pain,0
+Pain relief by lowering leg,C4545333,SNOMEDCT_US,pain,0
+Pain disorder with psychological factor,C3698088,SNOMEDCT_US,pain,0
+Pain onset during moderate exercise,C1998269,SNOMEDCT_US,pain,0
+Assessment using Pain Catastrophizing Scale,C4275195,SNOMEDCT_US,pain,0
+Pain self efficacy questionnaire score,C2959913,SNOMEDCT_US,pain,0
+Pain-relief microcurrent skin patch,C3875650,SNOMEDCT_US,pain,0
+Pain-relief phototherapy skin patch,C3875883,SNOMEDCT_US,pain,0
+Pain management medication delivery system,C3876285,SNOMEDCT_US,pain,0
+Assessment using Abbey Pain Scale,C4749357,SNOMEDCT_US,pain,0
+Neck pain co-occurrent with tenderness of neck following whiplash injury to neck,C4518428,SNOMEDCT_US,pain,0
+Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis,C4706621,SNOMEDCT_US,pain,0
+Pain management medication delivery system pump,C3876284,SNOMEDCT_US,pain,0
+Pain of bilateral knee regions,C5549683,SNOMEDCT_US,pain,0
+Pain of bilateral upper limbs,C4281049,SNOMEDCT_US,pain,0
+Pain of bilateral sternoclavicular joints,C4721065,SNOMEDCT_US,pain,0
+Pain management education for family,C3494917,SNOMEDCT_US,pain,0
+Pain management education of caregiver,C3494918,SNOMEDCT_US,pain,0
+Pain on movement of cervical spine,C0575253,SNOMEDCT_US,pain,0
+Pain on movement of skeletal muscle,C0575069,SNOMEDCT_US,pain,0
+Pain on movement of thoracic spine,C0575354,SNOMEDCT_US,pain,0
+Pain due to shoulder joint prosthesis,C0587243,SNOMEDCT_US,pain,0
+Pain of joint of left foot,C3650255,SNOMEDCT_US,pain,0
+Pain of joint of right foot,C3650253,SNOMEDCT_US,pain,0
+Chronic pain of cardiac implantable electronic device pocket following implantation of cardiac implantable electronic device,C5566577,SNOMEDCT_US,pain,0
+Pain in lower limb on elevation,C3872811,SNOMEDCT_US,pain,0
+Pain in left abdominal lumbar region,C5439499,SNOMEDCT_US,pain,0
+Pain radiating to center of chest,C1960978,SNOMEDCT_US,pain,0
+Pain in symphysis pubis in pregnancy,C2315195,SNOMEDCT_US,pain,0
+Pain Assessment in Advanced Dementia Scale,C4274791,SNOMEDCT_US,pain,0
+Pain due to enlargement of spleen,C5394771,SNOMEDCT_US,pain,0
+Pain in lumbar region on palpation,C5395122,SNOMEDCT_US,pain,0
+Pain in epigastric region on palpation,C5395120,SNOMEDCT_US,pain,0
+Pain on passive stretch of joint,C1997119,SNOMEDCT_US,pain,0
+Pain in abdominal region on palpation,C5395121,SNOMEDCT_US,pain,0
+Pain in right abdominal lumbar region,C5439500,SNOMEDCT_US,pain,0
+Pain management medication delivery system handpiece,C3876282,SNOMEDCT_US,pain,0
+Pain management medication delivery system cassette,C3876283,SNOMEDCT_US,pain,0
+Alert Confusion Voice Pain Unresponsiveness scale,C5438652,SNOMEDCT_US,pain,0
+Pain radiating to left side of chest,C1960985,SNOMEDCT_US,pain,0
+Pain radiating to right side of chest,C1960994,SNOMEDCT_US,pain,0
+Pain of toe of left foot,C4280824,SNOMEDCT_US,pain,0
+Pain in finger of left hand,C4280993,SNOMEDCT_US,pain,0
+Pain in fingers of bilateral hands,C4280992,SNOMEDCT_US,pain,0
+Pain in finger of right hand,C4280994,SNOMEDCT_US,pain,0
+Pain of toes of bilateral feet,C4280834,SNOMEDCT_US,pain,0
+Pain of toe of right foot,C4280825,SNOMEDCT_US,pain,0
+Pain of amputation stump of right upper limb,C3864142,SNOMEDCT_US,pain,0
+Pain on application of pressure to tooth,C5396283,SNOMEDCT_US,pain,0
+Pain in left lumbar region of back,C5439496,SNOMEDCT_US,pain,0
+Pain radiating to lumbar region of back,C1960987,SNOMEDCT_US,pain,0
+Pain in right lumbar region of back,C5439497,SNOMEDCT_US,pain,0
+Pain radiating to thoracic region left side,C1960995,SNOMEDCT_US,pain,0
+Pain radiating to thoracic region right side,C1960996,SNOMEDCT_US,pain,0
+Pain in lymph nodes after alcohol consumption,C1277603,SNOMEDCT_US,pain,0
+Pain during regional anesthesia for cesarean section,C1301801,SNOMEDCT_US,pain,0
+Alert Confusion Voice Pain Unresponsive scale score,C5438653,SNOMEDCT_US,pain,0
+Metatarsalgia,C0025587,MSH,pain,0
+Pain of joint of left lower leg,C4280831,SNOMEDCT_US,pain,0
+Pain of joint of right lower leg,C4280832,SNOMEDCT_US,pain,0
+Pain of joint of bilateral lower legs,C4281048,SNOMEDCT_US,pain,0
+complex regional pain syndrome type I of both upper limbs,C3646466,MTH,pain,0
+Pain of amputation stump of left lower limb,C5547595,SNOMEDCT_US,pain,0
+Pain due to varicose veins of lower extremity,C3873641,SNOMEDCT_US,pain,0
+Pain on flushing of implanted venous access device,C3697907,SNOMEDCT_US,pain,0
+Pain of amputation stump of left upper limb,C5547593,SNOMEDCT_US,pain,0
+Pain of amputation stump of right lower limb,C5547596,SNOMEDCT_US,pain,0
+Swallowing painful,C0221150,SNOMEDCT_US,pain,0
+Dyspareunia (female),C0013394,MTH,pain,0
+Pain in testicle as late effect of injury to testicle,C2711897,SNOMEDCT_US,pain,0
+Pain of left hand due to and following cerebrovascular accident,C4520349,SNOMEDCT_US,pain,0
+Pain of right hand due to and following cerebrovascular accident,C4520352,SNOMEDCT_US,pain,0
+Pain of left lower limb co-occurrent and due to ischemia,C4303596,SNOMEDCT_US,pain,0
+Pain of bilateral lower limbs co-occurrent and due to ischemia,C4303597,SNOMEDCT_US,pain,0
+Pain of right lower limb co-occurrent and due to ischemia,C4303595,SNOMEDCT_US,pain,0
+Pain at rest of left lower limb co-occurrent and due to atherosclerosis,C4303601,SNOMEDCT_US,pain,0
+Pain at rest of right lower limb co-occurrent and due to atherosclerosis,C4303598,SNOMEDCT_US,pain,0
+Dyspareunia,C1384606,MTH,pain,0
+Pain of bilateral upper limbs co-occurrent and due to ischemia,C4520232,SNOMEDCT_US,pain,0
+Dyschezia,C0237326,MTH,pain,0
+Pain at rest of left upper limb co-occurrent and due to atherosclerosis,C4520234,SNOMEDCT_US,pain,0
+Pain at rest of right upper limb co-occurrent and due to atherosclerosis,C4520235,SNOMEDCT_US,pain,0
+Pain at rest of left lower limb co-occurrent and due to atherosclerosis of bypass graft,C4520233,SNOMEDCT_US,pain,0
+Pain at rest of right lower limb co-occurrent and due to atherosclerosis of bypass graft,C4520231,SNOMEDCT_US,pain,0
+Growing pains,C0423693,SNOMEDCT_US,pain,0
+Breastfeeding painful,C0558161,SNOMEDCT_US,pain,0
+After pains,C0423732,SNOMEDCT_US,pain,0
+False labor pains,C0474369,SNOMEDCT_US,pain,0
+Generalized acute body pains,C0686728,SNOMEDCT_US,pain,0
+Generalized chronic body pains,C0686729,SNOMEDCT_US,pain,0
+Suxamethonium pains,C0456669,SNOMEDCT_US,pain,0
+Musculoskeletal decompression sickness,C0413270,SNOMEDCT_US,pain,0
+Cryalgesia,C0522243,SNOMEDCT_US,pain,0
+Onset of contractions,C0426197,SNOMEDCT_US,pain,0
+Mastodynia of bilateral breasts,C2032146,SNOMEDCT_US,pain,0
+Pulpalgia,C3696893,SNOMEDCT_US,pain,0

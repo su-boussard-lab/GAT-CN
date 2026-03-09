@@ -1,0 +1,62 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Cyclic neutropenia,C0221023,MTH,neutropenia,0
+Congenital neutropenia,C0340970,MTH,neutropenia,0
+Neutropenia,C0027947,MTH,neutropenia,540
+Autoimmune neutropenia,C0340971,MTH,neutropenia,0
+Severe congenital neutropenia,C1853118,MTH,neutropenia,0
+Febrile Neutropenia,C0746883,MTH,neutropenia,114
+Poikiloderma with Neutropenia,C1858723,MTH,neutropenia,0
+Immune neutropenia,C0272175,SNOMEDCT_US,neutropenia,0
+Drug-induced neutropenia,C0272178,SNOMEDCT_US,neutropenia,2
+Refractory Neutropenia,C2826320,MTH,neutropenia,0
+Transient neonatal neutropenia (disorder),C0158997,MTH,neutropenia,0
+Isoimmune neutropenia,C0270242,SNOMEDCT_US,neutropenia,0
+Toxic neutropenia,C0272182,SNOMEDCT_US,neutropenia,0
+Familial neutropenia,C0272172,MTH,neutropenia,0
+Metabolic neutropenia,C0398584,SNOMEDCT_US,neutropenia,0
+Chronic idiopathic neutropenia,C2267231,MTH,neutropenia,0
+Primary splenic neutropenia,C0398580,SNOMEDCT_US,neutropenia,0
+Acquired neutropenia,C4543729,SNOMEDCT_US,neutropenia,0
+Benign ethnic neutropenia,C3805116,SNOMEDCT_US,neutropenia,0
+Chloramphenicol-induced neutropenia,C0456082,SNOMEDCT_US,neutropenia,0
+Chronic familial neutropenia (disorder),C3665676,MTH,neutropenia,0
+History of neutropenia,C4040114,SNOMEDCT_US,neutropenia,6
+Alloimmune neonatal neutropenia,C0272176,SNOMEDCT_US,neutropenia,0
+Chronic benign neutropenia,C0546989,SNOMEDCT_US,neutropenia,0
+Maternal transfer neutropenia,C0270243,SNOMEDCT_US,neutropenia,0
+Chronic hypoplastic neutropenia,C0543668,SNOMEDCT_US,neutropenia,0
+Acquired neutropenia in newborn,C0398577,SNOMEDCT_US,neutropenia,0
+"Neutropenia, Severe Congenital, X-Linked",C1845987,MSH,neutropenia,0
+Dose-related drug-induced neutropenia,C0272179,SNOMEDCT_US,neutropenia,0
+Non dose-related drug-induced neutropenia,C0272180,SNOMEDCT_US,neutropenia,0
+Shwachman syndrome,C0272170,MTH,neutropenia,0
+Onycho-tricho-dysplasia neutropenia syndrome,C5438689,SNOMEDCT_US,neutropenia,0
+"Neutropenia, Severe Congenital, Autosomal Recessive 3",C5235141,MTH,neutropenia,0
+Adult chronic idiopathic neutropenia,C5191335,SNOMEDCT_US,neutropenia,0
+Chronic benign neutropenia of childhood,C1268597,SNOMEDCT_US,neutropenia,0
+Periodontitis due to congenital neutropenia,C5671125,MTH,neutropenia,0
+Periodontitis exacerbated by acquired neutropenia,C5568706,SNOMEDCT_US,neutropenia,0
+Periodontitis exacerbated by familial neutropenia,C5568704,SNOMEDCT_US,neutropenia,0
+Periodontitis exacerbated by cyclical neutropenia,C5568703,SNOMEDCT_US,neutropenia,0
+Autosomal dominant severe congenital neutropenia,C4749612,SNOMEDCT_US,neutropenia,0
+Neutrophil count decreased,C0853697,MTH,neutropenia,0
+Reticular dysgenesis,C0272167,MSH,neutropenia,0
+Neutropenia with AIDS (acquired immunodeficiency syndrome),C1562414,SNOMEDCT_US,neutropenia,0
+Periodontitis exacerbated by chronic familial neutropenia,C5568702,SNOMEDCT_US,neutropenia,0
+Dursun Syndrome,C2751630,MTH,neutropenia,0
+Neutropenia with dysgranulopoiesis,C0272169,SNOMEDCT_US,neutropenia,0
+X-linked dyserythropoietic anemia with abnormal platelets and neutropenia,C5190600,SNOMEDCT_US,neutropenia,0
+Neutropenia due to irradiation,C0398579,SNOMEDCT_US,neutropenia,0
+Neutropenia associated with infectious disease,C0272181,SNOMEDCT_US,neutropenia,0
+Transient neonatal neutropenia due to congenital viral infection,C4302208,SNOMEDCT_US,neutropenia,0
+Transient neonatal neutropenia due to neonatal bacterial sepsis,C4302100,SNOMEDCT_US,neutropenia,0
+"Neutropenia, monocytopenia, deafness syndrome",C4518430,SNOMEDCT_US,neutropenia,0
+Autosomal recessive severe congenital neutropenia due to JAGN1 deficiency,C5190861,SNOMEDCT_US,neutropenia,0
+Autosomal recessive severe congenital neutropenia due to CXCR2 deficiency,C5190862,SNOMEDCT_US,neutropenia,0
+Autosomal recessive severe congenital neutropenia due to CSF3R deficiency,C5190863,SNOMEDCT_US,neutropenia,0
+Neutropenia associated with autoimmune disease,C0272177,SNOMEDCT_US,neutropenia,0
+"Congenital neutropenia, myelofibrosis, nephromegaly syndrome",C4755251,SNOMEDCT_US,neutropenia,0
+3-methylglutaconic aciduria type 7,C4225393,SNOMEDCT_US,neutropenia,0
+Neutropenia due to and following chemotherapy,C4708168,SNOMEDCT_US,neutropenia,0
+Neutropenia of the small for gestational age baby,C0456038,SNOMEDCT_US,neutropenia,0
+Combined immunodeficiency due to GINS1 deficiency,C5568132,SNOMEDCT_US,neutropenia,0

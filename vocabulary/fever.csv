@@ -1,0 +1,446 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Fever,C0015967,MTH,fever,1621
+Hay fever,C0018621,MTH,fever,7
+Rheumatic Fever,C0035436,MTH,fever,1
+Typhoid Fever,C0041466,MTH,fever,0
+Dengue Fever,C0011311,MTH,fever,4
+Yellow Fever,C0043395,MTH,fever,1
+Q Fever,C0034362,MTH,fever,0
+Scarlet Fever,C0036285,MSH,fever,0
+Malaria,C0024530,MTH,fever,8
+Relapsing Fever,C0035021,MTH,fever,0
+Lassa Fever,C0023092,MTH,fever,0
+Infectious Mononucleosis,C0021345,MTH,fever,0
+Rocky Mountain Spotted Fever,C0035793,MTH,fever,0
+Paratyphoid Fever,C0030528,MSH,fever,0
+Rat-Bite Fever,C0034686,MTH,fever,0
+Chikungunya Fever,C0008055,MSH,fever,0
+yellow fever vaccine,C0301508,MTH,fever,0
+Boutonneuse Fever,C0006060,MSH,fever,0
+"Hemorrhagic Fever, Crimean",C0019099,MTH,fever,0
+Trench Fever,C0040830,MSH,fever,0
+Henoch-Schoenlein Purpura,C0034152,MTH,fever,0
+Familial Mediterranean Fever,C0031069,MTH,fever,0
+Brucellosis,C0006309,MTH,fever,0
+Phlebotomus Fever,C0030372,MSH,fever,0
+Leptospirosis,C0023364,MTH,fever,0
+Plague,C0032064,MTH,fever,0
+Tularemia,C0041351,MSH,fever,0
+Anthrax disease,C0003175,MTH,fever,0
+Streptobacillary fever,C0152063,MTH,fever,0
+Colorado Tick Fever,C0009400,MSH,fever,0
+Rift Valley Fever,C0035613,MTH,fever,0
+"Hemorrhagic Fever, Ebola",C0282687,MTH,fever,0
+Blackwater Fever,C0005681,MSH,fever,0
+Oroya Fever,C0029307,MTH,fever,0
+Pontiac Fever,C0343528,MSH,fever,0
+Metal fever,C0238276,MTH,fever,0
+"Hemorrhagic Fever, Omsk",C0019103,MSH,fever,0
+Cat-Scratch Disease,C0007361,MTH,fever,0
+Fever with chills,C0085594,SNOMEDCT_US,fever,0
+Paratyphoid A fever,C0343375,SNOMEDCT_US,fever,0
+Bartonella Infections,C0004771,MTH,fever,0
+Rheumatic Heart Disease,C0035439,MTH,fever,0
+Uveoparotid Fever,C0042171,MSH,fever,0
+"Hemorrhagic Fever, Argentinian",C0019097,MSH,fever,0
+Psittacosis,C0029291,MTH,fever,0
+"Hemorrhagic Fever, Bolivian",C0282192,MTH,fever,0
+Byssinosis,C0006542,MTH,fever,0
+O'nyong-nyong fever,C0276286,SNOMEDCT_US,fever,0
+Scrub Typhus,C0036472,MTH,fever,0
+Sweating fever,C0038992,MTH,fever,0
+Drug Fever,C1320835,MSH,fever,4
+Pharyngo-Conjunctival Fever,C0031351,MSH,fever,0
+Intermittent fever (finding),C0277799,MTH,fever,0
+Katayama Fever,C3495690,MTH,fever,0
+"Leishmaniasis, Visceral",C0023290,MSH,fever,0
+Tick-borne relapsing fever,C0035022,MTH,fever,0
+Hemorrhagic Fever with Renal Syndrome,C0019101,MSH,fever,0
+Paratyphoid B fever,C0343376,SNOMEDCT_US,fever,0
+Paratyphoid C fever,C0343377,SNOMEDCT_US,fever,0
+Jungle yellow fever,C0043397,SNOMEDCT_US,fever,0
+Meningococcal meningitis,C0025294,MTH,fever,0
+Fort Bragg Fever,C1306220,MTH,fever,0
+Fever of the newborn,C0235839,MTH,fever,0
+Pasteurella Infections,C0030636,MTH,fever,0
+Marburg Virus Disease,C0024788,MTH,fever,0
+Urban yellow fever,C0043398,SNOMEDCT_US,fever,0
+Remittent fever,C0239575,MTH,fever,0
+Yellow fever virus,C0043396,MSH,fever,0
+Venezuelan equine encephalomyelitis,C0014078,MTH,fever,0
+Tahyna fever,C0276381,SNOMEDCT_US,fever,0
+Wesselsbron fever,C0276291,SNOMEDCT_US,fever,0
+Mucambo fever,C0276285,SNOMEDCT_US,fever,0
+Quaranfil fever,C0276633,SNOMEDCT_US,fever,0
+Arenaviral hemorrhagic fever,C0153112,SNOMEDCT_US,fever,0
+"Typhus, Epidemic Louse-Borne",C0041473,MSH,fever,0
+Exanthema Subitum,C0015231,MTH,fever,0
+Sodoku,C0152062,MSH,fever,0
+Low grade fever,C0239574,MTH,fever,70
+Canicola fever,C0554636,MTH,fever,0
+Factitious fever,C0231270,SNOMEDCT_US,fever,0
+Mayaro fever,C0276284,SNOMEDCT_US,fever,0
+Pel Ebstein fever,C0221101,SNOMEDCT_US,fever,0
+Brazilian purpuric fever,C0275703,SNOMEDCT_US,fever,0
+Arbovirus hemorrhagic fever,C0003721,SNOMEDCT_US,fever,0
+Chronic fever,C0743971,SNOMEDCT_US,fever,0
+Enteroviral exanthematous fever,C0546948,MTH,fever,0
+"Hemorrhagic Fevers, Viral",C0019104,MSH,fever,0
+Postprocedural fever,C2349671,SNOMEDCT_US,fever,0
+Pixuna fever,C0347849,SNOMEDCT_US,fever,0
+Zika Virus Infection,C0276289,MTH,fever,0
+Malt-workers' lung,C0155888,SNOMEDCT_US,fever,0
+Brass-founders' fever,C0264453,SNOMEDCT_US,fever,0
+Postoperative fever,C0424786,SNOMEDCT_US,fever,0
+Treatment of fever,C0150234,SNOMEDCT_US,fever,2
+Continuous fever,C0424767,SNOMEDCT_US,fever,0
+Vaccination against yellow fever,C0199823,MTH,fever,0
+Oropouche Orthobunyavirus Infection,C0276386,MSH,fever,0
+Hay fever with asthma,C0264411,MTH,fever,0
+Ross river virus infection,C0919833,MTH,fever,0
+Izumi fever,C0277513,SNOMEDCT_US,fever,0
+Grain fever,C0264471,SNOMEDCT_US,fever,0
+Brill-Zinsser Disease,C0006181,MSH,fever,0
+"Malaria, Falciparum",C0024535,MSH,fever,0
+Spondweni fever,C0276292,SNOMEDCT_US,fever,0
+Sindbis fever,C0037169,SNOMEDCT_US,fever,0
+Kunjin fever,C0276297,SNOMEDCT_US,fever,0
+Sennetsu Fever,C0520779,MSH,fever,0
+Puerperal pyrexia,C1331543,MTH,fever,0
+Severe Dengue,C0019100,MSH,fever,0
+Rickettsialpox,C0035597,MTH,fever,0
+Humidifier fever,C0340205,SNOMEDCT_US,fever,0
+Tertian fever,C0424773,SNOMEDCT_US,fever,0
+Quartan fever,C0424775,SNOMEDCT_US,fever,0
+Prolonged fever,C0424768,SNOMEDCT_US,fever,0
+Central fever,C0424785,SNOMEDCT_US,fever,0
+Mosquito-borne hemorrhagic fever,C0153071,SNOMEDCT_US,fever,0
+Aseptic fever,C0231271,SNOMEDCT_US,fever,0
+Batai fever,C0276377,SNOMEDCT_US,fever,0
+Bebaru fever,C0276283,SNOMEDCT_US,fever,0
+Manzanilla fever,C0276632,SNOMEDCT_US,fever,0
+Hysterical fever,C0231272,SNOMEDCT_US,fever,0
+Swinging fever,C0277800,SNOMEDCT_US,fever,0
+Copper fever,C0264456,SNOMEDCT_US,fever,0
+Spelters' fever,C0264454,SNOMEDCT_US,fever,0
+Cough with fever,C1277295,SNOMEDCT_US,fever,3
+Cat-bite fever,C1260912,MTH,fever,0
+Viral fever,C1655732,SNOMEDCT_US,fever,0
+Post vaccination fever,C2349672,SNOMEDCT_US,fever,0
+African Tick-Bite Fever,C1320317,MSH,fever,0
+Pattern of fever,C0424758,SNOMEDCT_US,fever,0
+Intermittent hepatic fever,C0424776,SNOMEDCT_US,fever,0
+Trivittatus fever,C0343611,SNOMEDCT_US,fever,0
+Calchaqui fever,C0343618,SNOMEDCT_US,fever,0
+Biphasic fever,C0424777,SNOMEDCT_US,fever,0
+Staircase fever,C0424782,SNOMEDCT_US,fever,0
+Quotidien fever,C0424771,SNOMEDCT_US,fever,0
+Irregular fever,C0424783,SNOMEDCT_US,fever,0
+Sepik fever,C0343600,SNOMEDCT_US,fever,0
+Isfahan fever,C0343619,SNOMEDCT_US,fever,0
+Maguari fever,C0343604,SNOMEDCT_US,fever,0
+Uukuniemi fever,C0343622,SNOMEDCT_US,fever,0
+Candiru fever,C0343632,SNOMEDCT_US,fever,0
+Borrelia recurrentis Infection,C0152061,MSH,fever,0
+Rio Bravo fever,C0276293,MTH,fever,0
+Spotted Fever Group Rickettsiosis,C0038041,MSH,fever,0
+Fever of Unknown Origin,C0015970,MTH,fever,1
+Etiocholanolone fever,C1290891,SNOMEDCT_US,fever,0
+Paraneoplastic fever,C3165180,SNOMEDCT_US,fever,0
+Polymer fume fever,C0238385,SNOMEDCT_US,fever,0
+Disorder characterized by fever,C0743841,SNOMEDCT_US,fever,0
+West Nile Fever,C0043124,MSH,fever,0
+Bancroftian filarial fever,C0344006,SNOMEDCT_US,fever,0
+Phase of fever,C0424759,SNOMEDCT_US,fever,0
+Examination of fever,C0436148,SNOMEDCT_US,fever,0
+Colorado tick fever virus,C0009401,MSH,fever,0
+"Encephalitis, Central European",C0014054,MSH,fever,0
+African Swine Fever Virus,C0001753,MTH,fever,0
+Rapid fall of fever,C0424765,SNOMEDCT_US,fever,0
+Gradual fall of fever,C0424766,SNOMEDCT_US,fever,0
+Febrile Neutropenia,C0746883,MTH,fever,114
+Tick-borne hemorrhagic fever,C0343590,SNOMEDCT_US,fever,0
+Acute Q fever,C0519066,MTH,fever,0
+Rheumatic fever without heart involvement,C0264743,MTH,fever,0
+Acute rheumatic myocarditis,C0155557,MTH,fever,0
+Mite-borne hemorrhagic fever,C0343585,SNOMEDCT_US,fever,0
+Pneumonia in typhoid fever,C0339956,SNOMEDCT_US,fever,0
+Q fever endocarditis,C0340354,SNOMEDCT_US,fever,0
+Transitory fever of newborn,C0270260,SNOMEDCT_US,fever,0
+"Hemorrhagic Fever Virus, Crimean-Congo",C0009743,MSH,fever,0
+Semliki forest fever,C0343598,SNOMEDCT_US,fever,0
+East Coast Fever,C0013467,MSH,fever,0
+Sandfly fever due to Sandfly fever Sicilian virus,C0343628,SNOMEDCT_US,fever,0
+Lujo hemorrhagic fever,C4274433,SNOMEDCT_US,fever,0
+Piry virus disease,C0276366,SNOMEDCT_US,fever,0
+Mycoplasmal postpartum fever,C0521837,SNOMEDCT_US,fever,0
+Mycoplasmal postabortal fever,C0521836,SNOMEDCT_US,fever,0
+Pneumonia in Q fever,C0276119,SNOMEDCT_US,fever,0
+Acute rheumatic pericarditis,C0155555,SNOMEDCT_US,fever,0
+North Asian Tick Typhus,C0549160,MSH,fever,0
+Rift Valley fever virus,C0035614,MSH,fever,0
+H/O: rheumatic fever,C0455526,SNOMEDCT_US,fever,0
+Brazilian hemorrhagic fever,C0343633,SNOMEDCT_US,fever,0
+Venezuelan hemorrhagic fever,C0042470,SNOMEDCT_US,fever,0
+Sandfly Fever Sicilian Virus,C0206041,MTH,fever,0
+Dehydration fever in newborn,C0270257,SNOMEDCT_US,fever,0
+Recurrent rheumatic fever,C0264741,SNOMEDCT_US,fever,0
+Uganda S fever,C0276290,SNOMEDCT_US,fever,0
+Neapolitan sandfly fever,C0343627,SNOMEDCT_US,fever,0
+Spiking temperature,C0424781,MTH,fever,0
+Acute rheumatic heart disease,C0035440,MTH,fever,0
+Chronic Q Fever,C1443892,MSH,fever,0
+"Hemorrhagic Fever Virus, Omsk",C0028996,MSH,fever,0
+Acute rise of fever,C0424761,SNOMEDCT_US,fever,0
+Q fever osteomyelitis,C1443896,SNOMEDCT_US,fever,0
+Rodent-borne hemorrhagic fever,C0343594,SNOMEDCT_US,fever,0
+Bwamba virus disease,C0276376,SNOMEDCT_US,fever,0
+Chandipura virus disease,C0276367,SNOMEDCT_US,fever,0
+Kemerovo virus disease,C0276459,SNOMEDCT_US,fever,0
+Changuinola virus disease,C0392652,SNOMEDCT_US,fever,0
+Chapare hemorrhagic fever,C4274434,SNOMEDCT_US,fever,0
+Paratyphoid fever vaccination,C0199802,SNOMEDCT_US,fever,0
+Elokomin fluke fever,C0276123,SNOMEDCT_US,fever,0
+Hazara hemorrhagic fever,C0343593,SNOMEDCT_US,fever,0
+Yellow fever screening,C0420003,SNOMEDCT_US,fever,0
+FH: Hay fever,C0455413,SNOMEDCT_US,fever,0
+Q fever myocarditis,C0340414,SNOMEDCT_US,fever,0
+Slightly remittent fever,C0424769,SNOMEDCT_US,fever,0
+Double quotidien fever,C0424772,SNOMEDCT_US,fever,0
+Filoviral hemorrhagic fever,C0343634,SNOMEDCT_US,fever,0
+Malayan filarial fever,C0344011,SNOMEDCT_US,fever,0
+Timorian filarial fever,C0344016,SNOMEDCT_US,fever,0
+Rheumatic fever nodule,C0410150,SNOMEDCT_US,fever,0
+Reversed diurnal fever,C0424779,SNOMEDCT_US,fever,0
+Glandular fever pharyngitis,C0396001,SNOMEDCT_US,fever,0
+Q fever pericarditis,C0340453,SNOMEDCT_US,fever,0
+"Periodic Fever, Aphthous Stomatitis, Pharyngitis, Adenitis Syndrome",C4082167,MTH,fever,0
+Nanukayami,C0686708,MTH,fever,0
+Sandfly fever Naples virus,C0446167,MSH,fever,0
+Bunyamwera virus disease,C0006391,SNOMEDCT_US,fever,0
+Guama virus disease,C0276383,SNOMEDCT_US,fever,0
+Classical Swine Fever Virus,C0019842,MSH,fever,0
+Gradual rise of fever,C0424762,SNOMEDCT_US,fever,0
+Plateau phase of fever,C0424763,SNOMEDCT_US,fever,0
+Hepatitis in yellow fever,C0400907,SNOMEDCT_US,fever,0
+Notification of scarlet fever,C0419801,SNOMEDCT_US,fever,0
+Notification of glandular fever,C0419812,SNOMEDCT_US,fever,0
+Rising phase of fever,C0424760,SNOMEDCT_US,fever,0
+Falling phase of fever,C0424764,SNOMEDCT_US,fever,0
+H/O: hay fever,C0455541,SNOMEDCT_US,fever,0
+Mosquito-borne arboviral fever,C0343595,SNOMEDCT_US,fever,0
+Mosquito-borne alphavirus fever,C0343596,SNOMEDCT_US,fever,0
+Mosquito-borne rhabdovirus fever,C0343617,SNOMEDCT_US,fever,0
+Tick-borne orbivirus fever,C0343623,SNOMEDCT_US,fever,0
+Mosquito-borne orbivirus fever,C0343615,SNOMEDCT_US,fever,0
+Mosquito-borne flavivirus fever,C0343599,SNOMEDCT_US,fever,0
+Sandfly-borne orbivirus fever,C0343630,SNOMEDCT_US,fever,0
+Sandfly-borne rhabdovirus fever,C0343631,SNOMEDCT_US,fever,0
+Alkhurma hemorrhagic fever,C5230236,SNOMEDCT_US,fever,0
+Q fever encephalitis,C1443895,SNOMEDCT_US,fever,0
+Q fever hepatitis,C1443893,SNOMEDCT_US,fever,0
+Scarlet fever suspected,C4750340,SNOMEDCT_US,fever,0
+Typhoid fever suspected,C4750337,SNOMEDCT_US,fever,0
+Yellow fever suspected,C4750345,SNOMEDCT_US,fever,0
+Paratyphoid fever suspected,C4750347,SNOMEDCT_US,fever,0
+Rocky mountain spotted fever vaccine,C0035795,MTH,fever,0
+Acute rheumatic endocarditis,C0155556,SNOMEDCT_US,fever,0
+TNF receptor-associated periodic fever syndrome (TRAPS),C1275126,MTH,fever,0
+Relapsing fever of the Caucasus,C0275773,SNOMEDCT_US,fever,0
+Western Rocky Mountain spotted fever,C0343760,SNOMEDCT_US,fever,0
+Pattern of fever - finding,C1287517,SNOMEDCT_US,fever,0
+Phase of fever - finding,C1287526,SNOMEDCT_US,fever,0
+Tick-borne orthobunyavirus fever,C1319958,SNOMEDCT_US,fever,0
+Mosquito-borne orthobunyavirus fever,C1319959,SNOMEDCT_US,fever,0
+Myoclonus associated with fever,C2711743,SNOMEDCT_US,fever,0
+History of glandular fever,C1318714,SNOMEDCT_US,fever,0
+"Ephemeral Fever Virus, Bovine",C0206547,MSH,fever,0
+Queensland Tick Typhus,C2979888,MSH,fever,0
+Rickettsia rickettsii,C0035588,MTH,fever,0
+Yellow fever virus antibody,C0370177,MTH,fever,0
+Primary pulmonary coccidioidomycosis,C0153257,MTH,fever,0
+Erythema marginatum in acute rheumatic fever,C0451910,SNOMEDCT_US,fever,0
+Simian hemorrhagic fever virus,C0318796,MSH,fever,0
+Junin virus,C0019089,MTH,fever,0
+Restan virus disease,C0276391,SNOMEDCT_US,fever,0
+Apyrexial,C0277797,SNOMEDCT_US,fever,0
+Vesicular stomatitis Indiana virus disease,C0042586,SNOMEDCT_US,fever,0
+Chagres virus disease,C0343629,SNOMEDCT_US,fever,0
+Acute coccidioidomycosis,C3840167,MTH,fever,0
+Guaroa virus disease,C0276385,SNOMEDCT_US,fever,0
+Catu virus disease,C0276378,SNOMEDCT_US,fever,0
+Ilesha virus disease,C0276402,SNOMEDCT_US,fever,0
+South American hemorrhagic fever,C0276420,SNOMEDCT_US,fever,0
+Scarlet fever streptococcus toxin,C0301458,SNOMEDCT_US,fever,0
+Far Eastern Spotted Fever,C3532354,MSH,fever,0
+Relapsing fever of North Africa,C0275774,SNOMEDCT_US,fever,0
+Meningitis due to typhoid fever,C0338392,SNOMEDCT_US,fever,0
+Education about managing fever,C4041511,SNOMEDCT_US,fever,0
+Yellow fever virus Ag,C2700290,SNOMEDCT_US,fever,0
+Genus Phlebovirus,C1457865,MTH,fever,0
+Administration of scarlet fever antitoxin,C0199793,SNOMEDCT_US,fever,0
+Ephemeral fever virus Ab,C0883032,SNOMEDCT_US,fever,0
+Yellow fever virus RNA,C0487761,SNOMEDCT_US,fever,0
+Yellow fever virus IgG,C0370178,SNOMEDCT_US,fever,0
+Yellow fever virus IgM,C0370179,SNOMEDCT_US,fever,0
+Severe Fever with Thrombocytopenia Syndrome,C4284413,MTH,fever,0
+Bussuquara virus disease,C0276299,SNOMEDCT_US,fever,0
+Oriboca virus disease,C0276393,SNOMEDCT_US,fever,0
+Murutucu virus disease,C0343608,SNOMEDCT_US,fever,0
+Itaqui virus disease,C0276398,SNOMEDCT_US,fever,0
+Shuni virus disease,C0343613,SNOMEDCT_US,fever,0
+Apeu virus disease,C0343607,SNOMEDCT_US,fever,0
+Banzi virus disease,C0276298,SNOMEDCT_US,fever,0
+Calovo virus disease,C0276403,SNOMEDCT_US,fever,0
+Marituba virus disease,C0276396,SNOMEDCT_US,fever,0
+Wyeomyia virus disease,C0276387,SNOMEDCT_US,fever,0
+Ossa virus disease,C0276392,SNOMEDCT_US,fever,0
+Caraparu virus disease,C0276399,SNOMEDCT_US,fever,0
+Dugbe virus disease,C0276414,SNOMEDCT_US,fever,0
+Ganjam virus disease,C0276413,SNOMEDCT_US,fever,0
+Tataguine virus disease,C0276418,SNOMEDCT_US,fever,0
+Madrid virus disease,C0276397,SNOMEDCT_US,fever,0
+Thogoto virus disease,C0276416,SNOMEDCT_US,fever,0
+Nepuyo virus disease,C0343609,SNOMEDCT_US,fever,0
+Orunga virus disease,C0343616,SNOMEDCT_US,fever,0
+Tribec virus disease,C0343624,SNOMEDCT_US,fever,0
+Germistan virus disease,C0343603,SNOMEDCT_US,fever,0
+Bhanja virus disease,C0343621,SNOMEDCT_US,fever,0
+Inkoo virus disease,C0338407,SNOMEDCT_US,fever,0
+Alcelaphine herpesvirus 1,C0319238,MTH,fever,0
+Enteric fever antibody titer measurement,C0474649,MTH,fever,0
+Quaranfil virus,C0319321,MSH,fever,0
+Hemorrhagic fever virus antibody,C0475351,SNOMEDCT_US,fever,0
+Infection by Babesia bigemina,C0276852,MTH,fever,0
+Hantaan virus,C0086384,MTH,fever,0
+Coxiella burnetii antibody,C0443670,MTH,fever,0
+Amyloid of familial Mediterranean fever,C1288287,SNOMEDCT_US,fever,0
+Tacaiuma virus disease,C0276404,SNOMEDCT_US,fever,0
+Eastern Rocky Mountain spotted fever,C0343761,SNOMEDCT_US,fever,0
+Mosquito-borne flavivirus hemorrhagic fever,C0343588,SNOMEDCT_US,fever,0
+Mosquito-borne bunyavirus hemorrhagic fever,C0343589,SNOMEDCT_US,fever,0
+Tick-borne bunyavirus hemorrhagic fever,C0343592,SNOMEDCT_US,fever,0
+Mosquito-borne alphavirus hemorrhagic fever,C0343587,SNOMEDCT_US,fever,0
+Tick-borne flavivirus hemorrhagic fever,C0343591,SNOMEDCT_US,fever,0
+Requires a yellow fever vaccination,C0580980,SNOMEDCT_US,fever,0
+Tensaw virus disease,C0276401,SNOMEDCT_US,fever,0
+Everglades virus disease,C0276287,SNOMEDCT_US,fever,0
+Hyper-IgD periodic fever syndrome (HIDS),C1275127,SNOMEDCT_US,fever,0
+Seasonal allergic conjunctivitis,C0339164,MTH,fever,0
+Boophilus annulatus,C0323512,MTH,fever,0
+"Rickettsia, spotted fever group",C1533182,SNOMEDCT_US,fever,0
+Yellow fever vaccination given,C5190668,SNOMEDCT_US,fever,0
+Glandular fever screening test,C1271666,SNOMEDCT_US,fever,0
+Q fever aseptic meningitis,C1443894,SNOMEDCT_US,fever,0
+Viral hemorrhagic fever suspected,C4750341,SNOMEDCT_US,fever,0
+Post tetanus vaccination fever,C3696934,SNOMEDCT_US,fever,0
+Post diphtheria vaccination fever,C3697836,SNOMEDCT_US,fever,0
+Dengue fever outbreak education,C3698203,SNOMEDCT_US,fever,0
+Post pertussis vaccination fever,C3697296,SNOMEDCT_US,fever,0
+Yellow fever vaccination contraindicated,C4304803,SNOMEDCT_US,fever,0
+Hyperimmunoglobulinemia D,C0398691,MTH,fever,0
+Nairovirus serogroup Crimean-Congo hemorrhagic fever,C0475417,SNOMEDCT_US,fever,0
+Hereditary Autoinflammatory Diseases,C0751422,MTH,fever,0
+History of yellow fever vaccination,C3532661,SNOMEDCT_US,fever,0
+Carditis due to rheumatic fever,C3840221,SNOMEDCT_US,fever,0
+Family history of rheumatic fever,C2315907,SNOMEDCT_US,fever,0
+Myocarditis due to scarlet fever,C4039176,SNOMEDCT_US,fever,0
+Rickettsia spotted fever group antigen,C1441157,MTH,fever,0
+Rocky Mountain spotted fever vaccination,C0199817,SNOMEDCT_US,fever,0
+Menstrual cycle dependent periodic fever,C3553418,SNOMEDCT_US,fever,0
+Measurement of Yellow fever virus antibody,C1294848,MTH,fever,0
+Post yellow fever vaccination encephalitis,C0393472,SNOMEDCT_US,fever,0
+Acute rheumatic carditis,C5441648,MTH,fever,0
+Machupo virus,C0019090,MSH,fever,0
+Adverse reaction to yellow fever vaccine,C0413554,SNOMEDCT_US,fever,0
+yellow fever virus strain 17D-204 live antigen,C2356374,MTH,fever,0
+West Nile fever without encephalitis,C1301414,SNOMEDCT_US,fever,0
+Mosquito-borne bunyamwera group virus fever,C0343602,SNOMEDCT_US,fever,0
+Mosquito-borne guama group virus fever,C0343614,SNOMEDCT_US,fever,0
+Rickettsia spotted fever group DNA,C1954553,SNOMEDCT_US,fever,0
+Spotted fever group rickettsia antibody,C0483206,SNOMEDCT_US,fever,0
+Rickettsia spotted fever group IgM,C0483208,SNOMEDCT_US,fever,0
+Rickettsia spotted fever group IgG,C0483207,SNOMEDCT_US,fever,0
+Rickettsia spotted fever group RNA,C0807770,SNOMEDCT_US,fever,0
+Rift valley fever virus IgM,C3476458,SNOMEDCT_US,fever,0
+Rift valley fever virus Ab,C0883341,SNOMEDCT_US,fever,0
+Rift valley fever virus Ag,C0883342,SNOMEDCT_US,fever,0
+Colorado tick fever virus IgM,C0552714,SNOMEDCT_US,fever,0
+Colorado tick fever virus antibody,C0945986,SNOMEDCT_US,fever,0
+Colorado tick fever virus IgG,C0552713,SNOMEDCT_US,fever,0
+Rift valley fever virus IgG,C3476457,SNOMEDCT_US,fever,0
+"Encephalitis, West Nile Fever",C0751583,MSH,fever,0
+Acute rheumatic pancarditis,C0264749,SNOMEDCT_US,fever,0
+Relapsing fever of Western United States,C0275775,SNOMEDCT_US,fever,0
+Pericarditis due to familial Mediterranean fever,C0265170,SNOMEDCT_US,fever,0
+Mosquito-borne bwamba group virus fever,C1305926,SNOMEDCT_US,fever,0
+Mosquito-borne simbu group virus fever,C0343612,SNOMEDCT_US,fever,0
+Mosquito-borne California group virus fever,C0343610,SNOMEDCT_US,fever,0
+Mosquito-borne serogroup C bunyavirus fever,C0343606,SNOMEDCT_US,fever,0
+Vaccine product containing only Coxiella burnetii antigen (medicinal product),C5240158,MTH,fever,0
+Ross river fever antibody level,C1277853,SNOMEDCT_US,fever,0
+Yellow fever virus RNA assay,C1294196,SNOMEDCT_US,fever,0
+Cat scratch fever antibody level,C1277868,SNOMEDCT_US,fever,0
+Relapsing fever of Southwest U.S. AND/OR Mexico,C1279518,MTH,fever,0
+Relapsing fever of Asia AND/OR Africa,C0275768,SNOMEDCT_US,fever,0
+Cutaneous coccidioidomycosis,C0343892,MTH,fever,0
+Acute rheumatic valvulitis,C0264758,SNOMEDCT_US,fever,0
+Otitis media due to scarlet fever,C4041551,SNOMEDCT_US,fever,0
+Cardiac disorder due to typhoid fever,C4041099,SNOMEDCT_US,fever,0
+Ovine herpesvirus 2,C0319240,MTH,fever,0
+Fever defervescence,C0424784,SNOMEDCT_US,fever,0
+Live attenuated Yellow fever virus antigen only vaccine product,C5395855,SNOMEDCT_US,fever,0
+History of Dengue virus infection,C5549687,SNOMEDCT_US,fever,0
+Chronic arthritis due to and following rheumatic fever,C5446073,MTH,fever,0
+Familial Cold Autoinflammatory Syndrome 2,C2673198,MSH,fever,0
+Hemorrhagic fever virus serology screening test,C1960906,SNOMEDCT_US,fever,0
+Live attenuated Yellow fever virus antigen,C5230649,SNOMEDCT_US,fever,0
+Febrile transfusion reaction,C0149993,SNOMEDCT_US,fever,0
+Relapsing fever of Central AND/OR South America,C0275772,SNOMEDCT_US,fever,0
+Relapsing fever of Iran AND/OR Central Asia,C0275776,SNOMEDCT_US,fever,0
+Relapsing fever of Central AND/OR South Africa,C0275770,SNOMEDCT_US,fever,0
+Measurement of spotted fever group rickettsia antibody,C2733203,SNOMEDCT_US,fever,0
+Measurement of Colorado tick fever virus antibody,C1294674,SNOMEDCT_US,fever,0
+"Post diphtheria, tetanus and pertussis vaccination fever",C3697977,SNOMEDCT_US,fever,0
+Yellow fever virus antigen-containing vaccine product,C5394963,SNOMEDCT_US,fever,0
+Borrelia hermsii Infection,C0275767,MTH,fever,0
+Lassa virus antibody,C0443707,SNOMEDCT_US,fever,0
+Flavirin,C1295488,SNOMEDCT_US,fever,0
+Suspected Ebola virus disease,C3872857,SNOMEDCT_US,fever,0
+Acute rheumatic aortitis,C5547694,SNOMEDCT_US,fever,0
+Ebola virus disease not suspected,C3872858,SNOMEDCT_US,fever,0
+"Fever, diurnal variation",C0424778,SNOMEDCT_US,fever,0
+Alcelaphine herpesvirus 2,C0319239,SNOMEDCT_US,fever,0
+Relapsing fever of Iberian Peninsula AND/OR Northwest Africa,C0275769,SNOMEDCT_US,fever,0
+Fever with rigors,C2830450,SNOMEDCT_US,fever,2
+Spotted fever group rickettsiae ribonucleic acid assay,C1294153,SNOMEDCT_US,fever,0
+Fever relief cloth,C3881726,SNOMEDCT_US,fever,0
+Rheumatic arthritis,C5445125,MTH,fever,0
+Coxiella burnetii (Q fever) antibody measurement,C0373890,MTH,fever,0
+Yellow Fever virus group,C1008579,SNOMEDCT_US,fever,0
+At high risk for Ebola virus disease,C3872859,SNOMEDCT_US,fever,0
+At low risk for Ebola virus disease,C3872860,SNOMEDCT_US,fever,0
+Epstein-Barr virus infectious mononucleosis,C5568720,SNOMEDCT_US,fever,0
+Alkhurma virus,C3658305,MSH,fever,0
+Febrile Convulsions,C0009952,MTH,fever,0
+Fever due to infection,C4304689,SNOMEDCT_US,fever,0
+Subacute rheumatic arthritis,C0264745,SNOMEDCT_US,fever,0
+"Relapsing fever of Southern U.S., Mexico, Central AND/OR South America",C0275777,SNOMEDCT_US,fever,0
+"Dengue hemorrhagic fever, grade III",C1443985,SNOMEDCT_US,fever,0
+"Dengue hemorrhagic fever, grade II",C1443984,SNOMEDCT_US,fever,0
+"Dengue hemorrhagic fever, grade I",C1443983,SNOMEDCT_US,fever,0
+"Dengue hemorrhagic fever, grade IV",C1443986,SNOMEDCT_US,fever,0
+Live attenuated Junin virus antigen-containing vaccine product,C5395849,SNOMEDCT_US,fever,0
+Rift Valley virus encephalitis,C5566992,SNOMEDCT_US,fever,0
+Fever greater than 100.4 Fahrenheit,C1959900,SNOMEDCT_US,fever,0
+Fever caused by SARS-CoV-2,C5397034,SNOMEDCT_US,fever,0
+Rheumatic arthritis of temporomandibular joint,C1998063,SNOMEDCT_US,fever,0
+"Febrile agglutinins measurement, Brucella, Francisella, Murine typhus, Q fever, Rocky Mountain Spotted Fever, scrub typhus",C0523263,SNOMEDCT_US,fever,0
+Fever-associated acute infantile liver failure syndrome,C5681094,SNOMEDCT_US,fever,0
+Herpes Labialis,C0019345,MSH,fever,0
+"Congenital sideroblastic anemia, B-cell immunodeficiency, periodic fever, developmental delay syndrome",C4707403,SNOMEDCT_US,fever,0
+OTU deubiquitinase with linear linkage specificity related autoinflammatory syndrome (disorder),C4310614,MTH,fever,0
+Autoinflammation with infantile enterocolitis,C4015067,MTH,fever,0
+Febrile infection related epilepsy syndrome,C4049262,MTH,fever,0
+TAFRO syndrome,C4552543,SNOMEDCT_US,fever,0
+Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection,C4075735,SNOMEDCT_US,fever,0

@@ -1,0 +1,74 @@
+NAME,CUI,VOCABULARY_SOURCE,DIAGNOSE,OCCURENCE
+Vomiting,C0042963,MTH,vomiting,505
+Nausea and vomiting,C0027498,MTH,vomiting,236
+Projectile vomiting,C0221151,MTH,vomiting,0
+Cyclical vomiting syndrome,C0152164,MTH,vomiting,0
+Vomiting bile,C0232599,MTH,vomiting,0
+Persistent vomiting,C0152165,MTH,vomiting,0
+No vomiting,C0375548,MTH,vomiting,20
+Psychogenic vomiting,C0233757,SNOMEDCT_US,vomiting,0
+Habit vomiting,C0267172,MTH,vomiting,0
+Hyperemesis Gravidarum,C0020450,MTH,vomiting,0
+Chronic vomiting,C0232598,SNOMEDCT_US,vomiting,0
+Self-induced vomiting,C0232600,SNOMEDCT_US,vomiting,0
+"Vomiting, Postoperative",C0520905,MSH,vomiting,0
+Epidemic vomiting syndrome,C0014498,MTH,vomiting,0
+Viral gastroenteritis,C0152517,SNOMEDCT_US,vomiting,3
+Erotic vomiting,C0270529,SNOMEDCT_US,vomiting,0
+Coffee ground vomiting,C1510416,MTH,vomiting,0
+Acute vomiting,C0232597,SNOMEDCT_US,vomiting,0
+"Diarrhea and vomiting, symptom",C0474496,SNOMEDCT_US,vomiting,0
+Concealed vomiting,C0232601,SNOMEDCT_US,vomiting,0
+Effortless vomiting,C0426620,SNOMEDCT_US,vomiting,0
+Intermittent vomiting,C0401157,SNOMEDCT_US,vomiting,0
+Morning vomiting,C2129318,SNOMEDCT_US,vomiting,0
+Post-tussive vomiting,C1740793,SNOMEDCT_US,vomiting,0
+Radiation Sickness,C1510432,MTH,vomiting,0
+At risk of vomiting,C3875017,SNOMEDCT_US,vomiting,0
+Postoperative Nausea and Vomiting,C0520909,MSH,vomiting,11
+"Nausea, vomiting and diarrhea",C0151791,SNOMEDCT_US,vomiting,0
+Chemotherapy-induced nausea and vomiting,C0401160,SNOMEDCT_US,vomiting,19
+Jamaican vomiting sickness,C0274888,MSH,vomiting,0
+Psychogenic cyclical vomiting,C0341560,SNOMEDCT_US,vomiting,0
+Increased nausea and vomiting,C0520906,SNOMEDCT_US,vomiting,1
+Bilious vomiting of newborn,C2712362,SNOMEDCT_US,vomiting,0
+Intractable nausea and vomiting,C3697880,SNOMEDCT_US,vomiting,8
+Nausea and vomiting status,C1319170,SNOMEDCT_US,vomiting,0
+Decreased nausea and vomiting,C0520907,SNOMEDCT_US,vomiting,0
+Repeated self-induced vomiting,C0424415,SNOMEDCT_US,vomiting,0
+Vomiting of pregnancy,C0269661,MTH,vomiting,0
+Absence of nausea and vomiting,C0520908,SNOMEDCT_US,vomiting,3
+Radiation-induced nausea and vomiting,C0520911,SNOMEDCT_US,vomiting,0
+Drug-induced nausea and vomiting,C0267204,SNOMEDCT_US,vomiting,0
+Pattern of overeating and vomiting,C0424420,SNOMEDCT_US,vomiting,0
+Fear of vomiting in public,C0424148,SNOMEDCT_US,vomiting,0
+Functional vomiting in childhood,C5686539,SNOMEDCT_US,vomiting,0
+Tendency to nausea and vomiting,C1532194,SNOMEDCT_US,vomiting,0
+Erosion of teeth due to persistent vomiting,C0399401,SNOMEDCT_US,vomiting,0
+Induction of emesis,C0455040,MTH,vomiting,0
+Vomiting in newborn,C0270274,SNOMEDCT_US,vomiting,0
+Self-induced vomiting to lose weight (disorder),C3854341,MTH,vomiting,0
+Intractable cyclical vomiting syndrome,C4543293,SNOMEDCT_US,vomiting,0
+Anxiety about vomiting in public,C0457024,SNOMEDCT_US,vomiting,0
+Nausea and vomiting status: disruptive effects,C1319169,SNOMEDCT_US,vomiting,0
+Nausea and vomiting control behavior,C1321112,SNOMEDCT_US,vomiting,0
+Bilious vomiting following gastrointestinal surgery,C0267525,SNOMEDCT_US,vomiting,0
+Vomiting fecal matter,C3874311,SNOMEDCT_US,vomiting,0
+Vomiting management,C0812141,SNOMEDCT_US,vomiting,0
+Vomiting food,C0558175,SNOMEDCT_US,vomiting,0
+Diarrhea and vomiting after gastrointestinal tract surgery,C0565554,SNOMEDCT_US,vomiting,0
+"Vertigo, acute onset with vomiting and inability to stand",C0522368,SNOMEDCT_US,vomiting,0
+Vomiting without nausea,C2910398,SNOMEDCT_US,vomiting,1
+Purpura due to prolonged vomiting and/or coughing,C1274289,SNOMEDCT_US,vomiting,0
+Nausea and vomiting following administration of anesthetic agent,C4510181,SNOMEDCT_US,vomiting,0
+Vomiting blood - fresh,C0426616,SNOMEDCT_US,vomiting,0
+History of severe nausea and vomiting following administration of anesthetic agent,C4510184,SNOMEDCT_US,vomiting,0
+Hematemesis,C0018926,MTH,vomiting,6
+Hypertension AND/OR vomiting complicating pregnancy childbirth AND/OR puerperium,C1263818,SNOMEDCT_US,vomiting,0
+Vomiting associated with other psychological disturbances,C0349253,SNOMEDCT_US,vomiting,0
+Vomiting after gastrointestinal tract surgery,C0401158,SNOMEDCT_US,vomiting,0
+Vomiting during third trimester of pregnancy,C4708664,SNOMEDCT_US,vomiting,0
+Vomiting in infants AND/OR children,C0267173,SNOMEDCT_US,vomiting,0
+Vomiting due to organic disease during pregnancy,C0269665,SNOMEDCT_US,vomiting,0
+Russell's sign,C4304814,SNOMEDCT_US,vomiting,0
+Vomiting co-occurrent and due to infectious disease,C4707447,SNOMEDCT_US,vomiting,0
